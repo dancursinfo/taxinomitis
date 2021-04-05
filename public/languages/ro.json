@@ -15,14 +15,14 @@
         "DELETE": "Sterge",
         "EDIT": "Editeaza",
         "TEST": "Testeaza",
-        "RESET": "Reset",
+        "RESET": "Reseteaza",
 
         "ABOUT": "Despre",
         "TEACHER": "Profesor",
         "PROJECTS": "Proiecte",
         "WORKSHEETS": "Worksheets",
         "PRETRAINED": "Pretrained",
-        "NEWS": "News",
+        "NEWS": "Noutati",
         "HELP": "Help",
         "LOGIN": "Log In",
         "LOGOUT": "Log Out",
@@ -68,7 +68,7 @@
     },
     "LINKS": {
         "TITLE": "Resurse educationale IA pentru copii",
-        "INTRO": "This page is a list of further tools and resources for explaining artificial intelligence to children.",
+        "INTRO": "Aceasta pagina contine o lista cu viitoarele intrumente si resurse ce explica IA (inteligenta artificiala) copiilor.",
         "ECRAFT2LEARN": {
             "BODY1": "<a href='http://users.ox.ac.uk/~oucs0030/' target='_blank'>Ken Kahn</a> has created resources to allow beginners to create AI programs in Snap! (a visual programming environment similar to Scratch).",
             "BODY2": "While I've focused on explaining how AI systems are trained and behave (and the real-world implications), eCraft2Learn has fantastic resources that dive deep into how ML systems actually work.",
@@ -76,7 +76,7 @@
         },
         "STEMLEARNING": {
             "BODY1": "STEM Learning and the UK Department for Business, Energy and Industrial Strategy have created resources for teaching the principles of artificial intelligence.",
-            "BODY2": "These resources include <em>Machine Learning for Kids</em> projects, supplemented with teaching notes, presentation materials, prompt cards, and practical ìunpluggedî activities"
+            "BODY2": "These resources include <em>Machine Learning for Kids</em> projects, supplemented with teaching notes, presentation materials, prompt cards, and practical ‚Äúunplugged‚Äù activities"
         },
         "RASPBERRYPI": {
             "BODY1": "The Raspberry Pi Foundation provides resources for Code Clubs, with step-by-step instructions for a variety of creative projects.",

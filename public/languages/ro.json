@@ -1934,81 +1934,81 @@
         "EXPLANATION": "Download a step-by-step guide for how to create API Keys on IBM Cloud"
     },
     "PRETRAINED": {
-        "TITLE": "Pre-trained models",
+        "TITLE": "Modele Pre-instruite",
         "INTRO": {
-            "INTRO_1": "<strong>Machine Learning for Kids</strong> provides pre-trained models you can use in your projects. Real-world machine learning projects often use models already trained by other people. There are lots of well-trained models that are freely available, and these are useful when you don't have time to collect the amount of training data needed to train your own."
+            "INTRO_1": "<strong>Machine Learning for Kids</strong> oferă modele pre-instruite pe care le puteți utiliza în proiectele dvs. Proiectele de învățare automată din lumea reală folosesc adesea modele deja instruite de alte persoane. Există o mulțime de modele bine instruite, care sunt disponibile gratuit, iar acestea sunt utile atunci când nu aveți timp să colectați cantitatea de date de instruire necesare pentru a vă antrena propriile."
         },
         "HOWTO": {
-            "TITLE": "How to use",
-            "INTRO": "Click on the button to go to Scratch.",
-            "HOW_1": "Go to the version of <a href='https://machinelearningforkids.co.uk/scratch3'>Scratch 3</a> available from Machine Learning for Kids.",
-            "HOW_2": "Pre-trained models are available from the Extensions panel. Click on the blue extensions button in the bottom-left of the Scratch window to find them, then click on the one you want to add to your project.",
-            "HOW_3": "The blocks for the pre-trained model will be added to the Scratch toolbox."
+            "TITLE": "Cum se folosește",
+            "INTRO": "Faceți clic pe buton pentru a merge la Scratch.",
+            "HOW_1": "Accesați versiunea de <a href='https://machinelearningforkids.co.uk/scratch3'>Scratch 3</a> disponibila de la Machine Learning for Kids.",
+            "HOW_2": "Modelele pre-instruite sunt disponibile din panoul Extensii. Faceți clic pe butonul albastru de extensii din partea stângă jos a ferestrei Scratch pentru a le găsi, apoi faceți clic pe cel pe care doriți să îl adăugați la proiect.",
+            "HOW_3": "Blocurile pentru modelul pre-antrenat vor fi adăugate în caseta de instrumente Scratch."
         },
         "SPEECHTOTEXT": {
-            "TITLE": "Speech to text",
-            "SPEECH_1": "This model can be used to recognize speech recorded through your microphone.",
-            "SPEECH_2": "It gives you a block you can use to record some audio and then give you the text that it recognized, and a block that you can tell it to listen out for a particular word or phrase.",
-            "SPEECH_3": "It uses the speech recognition capability that comes with Google Chrome, so the ML model that you'll be using comes from Google. (It also means that you can only use this model if you're using the Google Chrome web browser, sorry!)"
+            "TITLE": "Vorbire în text",
+            "SPEECH_1": "Acest model poate fi folosit pentru a recunoaște vorbirea înregistrată prin microfonul dvs.",
+            "SPEECH_2": "Vă oferă un bloc pe care îl puteți utiliza pentru a înregistra un sunet și apoi vă oferă textul pe care l-a recunoscut și un bloc pe care îl puteți spune să asculte pentru un anumit cuvânt sau frază.",
+            "SPEECH_3": "Folosește capacitatea de recunoaștere a vorbirii care vine împreună cu Google Chrome, astfel încât modelul ML pe care îl veți folosi provine de la Google. (Înseamnă, de asemenea, că puteți utiliza acest model numai dacă utilizați browserul web Google Chrome, sorry!)"
         },
         "FACEAPI": {
-            "TITLE": "Face detection",
-            "FACE_1": "This model can be used to recognize your face in the video feed from your webcam.",
-            "FACE_2": "It gives you blocks that will find the x,y coordinates of your eyes, nose and mouth.",
-            "FACE_3": "This uses a top-down technique - it starts by looking for something that looks like a face in the picture. Once it has found that, it tries to identify facial features in that area. The machine learning model is based on MobileNet (a ML model designed for mobile devices, so it doesn't need much computing power).",
-            "FACE_4": "The training data used for this model came from a set known as <a href='http://shuoyang1213.me/WIDERFACE/' target='_blank'>WIDER FACE</a>."
+            "TITLE": "Detectare facială",
+            "FACE_1": "Acest model poate fi folosit pentru a vă recunoaște fața în fluxul video de pe camera web.",
+            "FACE_2": "Vă oferă blocuri care vă vor găsi coordonatele x, y ale ochilor, nasului și gurii.",
+            "FACE_3": "Aceasta folosește o tehnică de sus în jos - începe prin a căuta ceva care să arate ca o față din imagine. Odată ce a descoperit acest lucru, încearcă să identifice trăsăturile faciale din acea zonă. Modelul de învățare automată se bazează pe MobileNet (un model ML conceput pentru dispozitive mobile, deci nu are nevoie de multă putere de calcul).",
+            "FACE_4": "Datele de instruire utilizate pentru acest model au provenit dintr-un set cunoscut sub numele de <a href='http://shuoyang1213.me/WIDERFACE/' target='_blank'>WIDER FACE (FATA MAI LATA)</a>."
         },
         "POSENET": {
-            "TITLE": "Pose detection",
-            "POSE_1": "This model can be used to recognize your pose in the video feed from your webcam.",
-            "POSE_2": "It gives you blocks that will find the x,y coordinates of different parts of your body, like shoulders, elbows, wrists, knees, and ankles.",
-            "POSE_3": "This uses a bottom-up technique - looking for human body key points (like shoulders, elbows, knees, etc.) and then grouping them to identify a person and the pose that they're in. ",
-            "POSE_4": "The training data used for this model came from a set known as <a href='http://cocodataset.org/index.htm#keypoints-2019' target='_blank'>Common Objects in Context (COCO)</a>.",
-            "POSE_5": "For more information, including a description of some of the challenges and potential issues with the model, see the <a href='https://drive.google.com/file/d/1VFC_wIpw4O7xBOiTgUldl79d9LA-LsnA/view'>model card</a>."
+            "TITLE": "Detectarea pozitiilor",
+            "POSE_1": "Acest model poate fi folosit pentru a vă recunoaște poza în fluxul video de pe camera web.",
+            "POSE_2": "Vă oferă blocuri care vor găsi coordonatele x, y ale diferitelor părți ale corpului, cum ar fi umerii, coatele, încheieturile mâinilor, genunchii și gleznele.",
+            "POSE_3": "Aceasta folosește o tehnică de jos în sus - căutarea punctelor cheie ale corpului uman (cum ar fi umerii, coatele, genunchii etc.) și apoi gruparea acestora pentru a identifica o persoană și poza în care se află.",
+            "POSE_4": "Datele de instruire utilizate pentru acest model au provenit dintr-un set cunoscut sub numele de <a href='http://cocodataset.org/index.htm#keypoints-2019' target='_blank'>Common Objects in Context (COCO)</a>-Obiecte comune în context.",
+            "POSE_5": "Pentru mai multe informații, inclusiv o descriere a unora dintre provocările și problemele potențiale ale modelului, consultați <a href='https://drive.google.com/file/d/1VFC_wIpw4O7xBOiTgUldl79d9LA-LsnA/view'>model card</a>."
         },
         "HANDPOSE": {
-            "TITLE": "Hand detection",
-            "POSE_1": "This model can be used to recognize your hand in the video feed from your webcam.",
-            "POSE_2": "It gives you blocks that will find the x,y coordinates of different parts of your hand: the tips of each of your fingers, and your wrist.",
-            "POSE_3": "It can only return information about one hand in the view.",
-            "POSE_4": "For more information, including a description of some of the challenges and potential issues with the model, see the <a href='https://drive.google.com/file/d/1sv4sSb9BSNVZhLzxXJ0jBv9DqD-4jnAz/view'>model card</a>."
+            "TITLE": "Detectarea mâinilor",
+            "POSE_1": "Acest model poate fi folosit pentru a vă recunoaște mâna în fluxul video de pe camera dvs. web.",
+            "POSE_2": "Vă oferă blocuri care vor găsi coordonatele x, y ale diferitelor părți ale mâinii: vârfurile fiecăruia dintre degete și încheietura mâinii.",
+            "POSE_3": "Poate returna informații despre o singură mână în vizualizare.",
+            "POSE_4": "Pentru mai multe informații, inclusiv o descriere a unora dintre provocările și problemele potențiale ale modelului, consultați <a href='https://drive.google.com/file/d/1sv4sSb9BSNVZhLzxXJ0jBv9DqD-4jnAz/view'>model card</a>."
         },
         "TOXICITY": {
-            "TITLE": "Toxicity",
-            "TOXICITY_1": "This model can be used to recognize whether text contains toxic content.",
-            "TOXICITY_2": "It gives you blocks that will predict the percentage probability that some provided text contains toxic content such as threatening language, insults, obscenities, or identity-based hate.",
-            "TOXICITY_3": "The training data used for <a href='https://medium.com/tensorflow/text-classification-using-tensorflow-js-an-example-of-detecting-offensive-language-in-browser-e2b94e3565ce'>this model</a> came from <a href='https://figshare.com/articles/data_json/7376747' target='_blank'>two-million user-generated comments posted on news articles</a>."
+            "TITLE": "Toxicitate",
+            "TOXICITY_1": "Acest model poate fi utilizat pentru a recunoaște dacă textul conține conținut toxic.",
+            "TOXICITY_2": "Vă oferă blocuri care vor prezice procentajul de probabilitate ca unele texte furnizate să conțină conținut toxic, cum ar fi un limbaj amenințător, insulte, obscenități sau ură bazată pe identitate.",
+            "TOXICITY_3": "Datele de instruire utilizate pentru <a href='https://medium.com/tensorflow/text-classification-using-tensorflow-js-an-example-of-detecting-offensive-language-in-browser-e2b94e3565ce'> acest model provin de la </a> came from <a href='https://figshare.com/articles/data_json/7376747' target='_blank'>două milioane de comentarii generate de utilizatori postate pe articole de știri</a>."
         },
         "IMAGENET": {
             "TITLE": "Imagenet",
-            "IMAGENET_1": "This model can be used to recognize objects in a costume.",
-            "IMAGENET_2": "It gives you blocks that will predict the main object shown in a sprite.",
-            "IMAGENET_3": "It has been trained to recognize photos of <a href='https://storage.googleapis.com/download.tensorflow.org/data/ImageNetLabels.txt'>one-thousand common objects</a>. The machine learning model is based on MobileNet (a ML model designed for mobile devices, so it doesn't need much computing power).",
-            "IMAGENET_4": "It has been trained to recognize photos, and won't recognize cartoons or drawings very well."
+            "IMAGENET_1": "Acest model poate fi folosit pentru a recunoaște obiectele dintr-un costum.",
+            "IMAGENET_2": "Vă oferă blocuri care vor prezice obiectul principal afișat într-un sprite.",
+            "IMAGENET_3": "A fost instruit pentru a recunoaște fotografiile cu <a href='https://storage.googleapis.com/download.tensorflow.org/data/ImageNetLabels.txt'>o mie de obiecte comune</a>. Modelul de învățare automată se bazează pe MobileNet (un model ML conceput pentru dispozitive mobile, deci nu are nevoie de multă putere de calcul).",
+            "IMAGENET_4": "A fost instruit pentru a recunoaște fotografiile și nu va recunoaște foarte bine desenele sau creionarile."
         },
         "IDEAS": {
-            "IDEAS_1": "Are there other machine learning models you would like to be able to use in your Scratch projects?",
-            "IDEAS_2": "Let me know by asking in the <a href='https://groups.google.com/d/forum/mlforkids'>ML for Kids forum</a>."
+            "IDEAS_1": "Există alte modele de învățare automată pe care ați dori să le puteți folosi în proiectele dvs. Scratch?",
+            "IDEAS_2": "Anunță-mă întrebând în <a href='https://groups.google.com/d/forum/mlforkids'>ML for Kids forum</a>."
         },
         "TENSORFLOW": {
             "TITLE": "TensorFlow",
             "BUTTON": "Open a TensorFlow model",
-            "TF_1": "<a href='https://www.tensorflow.org/'>TensorFlow</a> is a toolkit for training and running machine learning models.",
-            "TF_2": "If you know how to create your own machine learning model with TensorFlow, click the button above to use it in Scratch.",
-            "TF_3": "You can <a href='https://www.tensorflow.org/overview/'>build your own model</a>, using programming languages like Python.",
-            "TF_4": "Or you can use tools like <a href='https://teachablemachine.withgoogle.com/'>Teachable Machine</a> to easily train a TensorFlow model, and then make something with it in Scratch here.",
-            "TF_5": "(Only image classifiers are supported today, but support for more types of machine learning model is coming soon!)"
+            "TF_1": "<a href='https://www.tensorflow.org/'>TensorFlow</a> este un set de instrumente pentru instruirea și rularea modelelor de învățare automată.",
+            "TF_2": "Dacă știți cum să creați propriul model de învățare automată cu TensorFlow, faceți clic pe butonul de mai sus pentru al utiliza în Scratch.",
+            "TF_3": "Poti <a href='https://www.tensorflow.org/overview/'>construiește-ți propriul model </a>, folosind limbaje de programare precum Python.",
+            "TF_4": "Sau puteți utiliza instrumente precum <a href='https://teachablemachine.withgoogle.com/'> Teachable Machine </a> pentru a instrui cu ușurință un model TensorFlow și apoi faceți ceva cu el în Scratch aici.",
+            "TF_5": "(Numai clasificatoarele de imagine sunt acceptate astăzi, dar asistența pentru mai multe tipuri de model de învățare automată este în curând!)"
         }
     },
     "BOOK": {
         "TITLE": "Book",
-        "NOTES_1": "<strong>Machine Learning for Kids : A Project-Based Introduction to Artificial Intelligence</strong> is a new book to accompany the site.",
-        "NOTES_2": "The book is a guided hands-on and practical introduction to how artificial intelligence impacts our lives. It includes step-by-step instructions for making a variety of machine learning-powered projects in Scratch, and explains how they each relate to real-world AI applications.",
-        "NOTES_3": "Several projects dive deeper into particular aspects of how machine learning is applied, including recreating some of the most common mistakes made in AI, and learning about the different ways that the performance of machine learning systems can be measured and described.",
-        "NOTES_4": "Finally, the book ends by recreating examples of biased machine learning systems, and discusses the AI ethics issues that they raise.",
+        "NOTES_1": "<strong>Machine Learning for Kids : A Project-Based Introduction to Artificial Intelligence</strong> (Învățare automată pentru copii: O introducere bazată pe proiecte în inteligența artificială) este o carte nouă care însoțește site-ul.",
+        "NOTES_2": "Cartea este o introducere practică și practică ghidată a modului în care inteligența artificială ne afectează viața. Include instrucțiuni pas cu pas pentru realizarea unei varietăți de proiecte bazate pe învățarea automată în Scratch și explică modul în care acestea se raportează fiecare la aplicațiile AI reale. ",
+        "NOTES_3": "Mai multe proiecte se adâncesc în aspecte particulare ale modului în care se aplică învățarea automată, inclusiv recreând unele dintre cele mai frecvente greșeli făcute în AI și învățând despre diferitele moduri în care performanța sistemelor de învățare automată poate fi măsurată și descrisă.",
+        "NOTES_4": "În cele din urmă, cartea se încheie recreând exemple de sisteme de învățare automată părtinitoare și discută problemele de etică ale IA pe care le ridică.",
         "UPDATES": {
-            "TITLE": "Updates and corrections",
-            "NOTES": "Any updates or corrections will be posted here. For more help, please see the <a ui-sref='help'>Help</a> page."
+            "TITLE": "Actualizări și corecții",
+            "NOTES": "Orice actualizări sau corecții vor fi postate aici. Pentru mai mult ajutor, vă rugăm să consultați pagina <a ui-sref='help'>Help</a> ."
         }
     }
 }

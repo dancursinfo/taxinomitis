@@ -20,12 +20,12 @@
         "ABOUT": "Despre",
         "TEACHER": "Profesor",
         "PROJECTS": "Proiecte",
-        "WORKSHEETS": "Worksheets",
-        "PRETRAINED": "Pretrained",
+        "WORKSHEETS": "Fișe de lucru ",
+        "PRETRAINED": "Pre=instruire",
         "NEWS": "Noutati",
         "HELP": "Help",
-        "LOGIN": "Log In",
-        "LOGOUT": "Log Out",
+        "LOGIN": "Autentificare",
+        "LOGOUT": "Deconectați-vă",
 
         "BETA": "Beta",
         "INCOMPLETE": "Incomplet!"
@@ -36,7 +36,7 @@
         "IN20MINS": "In 20 minute...",
         "WHAT": {
             "TITLE": "Ce?",
-            "BODY" : "Acest instrument gratuit introduce învățarea automată oferind experiențe practice pentru instruirea sistemelor de învățare automată și construirea lucrurilor cu ele.  <br/><br/>Oferă un mediu ghidat ușor de utilizat pentru instruirea modelelor de învățare automată pentru a recunoaște textul, numerele, imaginile sau sunetele.  <br/><br/>Acest lucru se bazează pe eforturile existente de a introduce și de a preda codarea copiilor, adăugând aceste modele la platformele de codare educaționale <a href='https://scratch.mit.edu/about' target='_blank'>Scratch</a> și <a href='http://appinventor.mit.edu/' target='_blank'>App Inventor</a>, și ajutând copiii să creeze proiecte și să construiască jocuri cu modelele de învățare automată pe care le antrenează. <br/><br/>Instrumentul a fost disponibil pentru prima dată în 2017 și este utilizat acum de <a href='https://wakelet.com/wake/4d3680cb-2a11-49ab-9180-fcfeced48393' target='_blank'>mii de școli, cluburi de coduri și familii din întreaga lume</a>. <br/><br/>Pentru a afla mai multe, consultați:"
+            "BODY" : "Acest instrument gratuit introduce învățarea automată oferind experiențe practice pentru instruirea sistemelor de învățare automată și construirea lucrurilor cu ele.  <br/><br/>Oferă un mediu ghidat ușor de utilizat pentru instruirea modelelor de învățare automată pentru a recunoaște textul, numerele, imaginile sau sunetele.  <br/><br/>Acest lucru se bazează pe eforturile existente de a introduce și de a preda codarea copiilor, adăugând aceste modele la platformele de codare educaționale <a href='https://scratch.mit.edu/about' target='_blank'>Scratch</a> și <a href='http://appinventor.mit.edu/' target='_blank'>App Inventor</a>, și ajutând copiii să creeze proiecte și să construiască jocuri cu modelele de învățare automată pe care le antrenează. <br/><br/>Instrumentul a fost disponibil pentru prima dată în 2017 și este utilizat acum de <a href='https://wakelet.com/wake/4d3680cb-2a11-49ab-9180-fcfeced48393' target='_blank'>mii de școli, cluburi de coduri și familii din întreaga lume</a>. <br/><br/>Pentru a afla mai multe, consultați: <a target='_blank' class='btn btn-primary' href='https://machinelearningforkids.co.uk/#!/worksheets'>Fise de lucru</a>"
         },
         "WHY": {
             "TITLE": "De ce?",
@@ -48,18 +48,18 @@
             "LOGIN": "Pentru a incepe: "
         },
         "PRETRAINED": {
-            "BODY": "Pre-trained models are also provided for students to use in their projects. These advanced models enable projects that might otherwise be too complex for students to train for themselves, and provide useful hands-on insights into some of the other things that machine learning can do."
+            "BODY": "De asemenea, sunt oferite modele pre-instruite pentru ca elevii să le poată folosi în proiectele lor. Aceste modele avansate permit proiectelor care altfel ar putea fi prea complexe pentru ca studenții să se poată instrui singuri și oferă informații utile practice asupra unora dintre celelalte lucruri pe care le poate face învățarea automată. "
         },
         "FURTHER": {
-            "TITLE": "Further learning",
-            "BODY": "Machine Learning for Kids is a useful tool for introducing children to how ML systems are trained, how they are used, and some of the real-world implications of AI applications. <br/><br/>For additional teaching and learning resources, including teaching the internals of ML systems, please see: "
+            "TITLE": "Învățarea ulterioară ",
+            "BODY": "Machine Learning for Kids este un instrument util pentru introducerea copiilor în modul în care sunt instruiți sistemele ML, modul în care sunt utilizate și unele dintre implicațiile lumii reale ale aplicațiilor AI.  <br/><br/>Pentru resurse suplimentare de predare și învățare, inclusiv predarea internelor sistemelor ML, vă rugăm să consultați: "
         }
     },
     "NEWS": {
         "TITLE": "Noutati",
         "UPDATES": {
-            "TITLE": "Noutati & Updates",
-            "DESCRIPTION": "Noutati and updates from @MLforKids"
+            "TITLE": "Noutati & Actualizări ",
+            "DESCRIPTION": "Noutati si actualizari de la @MLforKids"
         },
         "MENTIONS": {
             "TITLE": "Mentions & Media",
@@ -118,45 +118,45 @@
         }
     },
     "ERRORS": {
-        "PAGENOTFOUND": "Page not found",
-        "NOTLOGGEDIN": "Not logged in",
+        "PAGENOTFOUND": "Pagina nu a fost gasita",
+        "NOTLOGGEDIN": "Nu v-ați conectat",
 
-        "MISSINGPROJECTID": "Missing project id. Go Inapoi to ",
-        "IFPERSISTENT": "If this keeps happening, please ",
+        "MISSINGPROJECTID": "ID-ul proiectului lipsește. Mergi Inapoi la ",
+        "IFPERSISTENT": "Dacă se întâmplă acest lucru, vă rog ",
 
-        "LETMEKNOW": "let me know"
+        "LETMEKNOW": "să-mi dai de veste"
     },
     "WELCOME": {
-        "TITLE": "Teach a computer to play a game",
-        "GET_STARTED": "Get started",
-        "LEARN_MORE": "Learn more",
-        "ADMIN_LABEL": "Go to your <strong>Admin Page</strong>",
-        "PROJECT_LABEL": "Go to your <strong>Projects</strong>",
-        "STEP_1_TEXT": "Collect examples of things you want to be able to recognise",
-        "STEP_2_TEXT": "Use the examples to train a computer to be able to recognise them",
-        "STEP_3_TEXT": "Make a game in Scratch that uses the computer's ability to recognise them"
+        "TITLE": "Învață un computer să joace un joc",
+        "GET_STARTED": "Incepe",
+        "LEARN_MORE": "Află mai multe",
+        "ADMIN_LABEL": "Du-te la <strong>Pagina de administrare</strong>",
+        "PROJECT_LABEL": "Du-te la <strong>Proiecte</strong>",
+        "STEP_1_TEXT": "Colectați exemple de lucruri pe care doriți să le puteți recunoaște",
+        "STEP_2_TEXT": "Folosiți exemplele pentru a instrui un computer pentru a le putea recunoaște",
+        "STEP_3_TEXT": "Creați un joc în Scratch care utilizează capacitatea computerului de a le recunoaște"
     },
     "LOGIN": {
-        "TITLE": "Get started with machine learning",
-        "WELCOME": "Welcome!  It's great that you're interested in having an account to log in to Machine Learning for Kids.",
-        "ALREADY_LOGGEDIN": "<strong>Info: </strong> Already logged in",
+        "TITLE": "Începeți cu machine learning",
+        "WELCOME": "Bine ati venit! Este minunat că vă interesează să aveți un cont de la care să vă conectați la Machine Learning for Kids.",
+        "ALREADY_LOGGEDIN": "<strong>Info: </strong> Deja logat",
         "ERROR": "<strong>Error:</strong> {{ message }}",
-        "ERROR_HELP": "If this keeps happening, please visit our help section",
-        "FIRST_TIME": "First time here?",
-        "SIGN_UP": "Sign up",
-        "WHY_REGISTER": "Why register?",
-        "WHY_REGISTER_INTRO_1": "<strong>You don't have to register or create an account</strong> to use Machine Learning for Kids, but if you do, it does unlock a few features of the tool.",
-        "WHY_REGISTER_INTRO_2": "The grid below explains the difference in what you can do if you click \"Try it now\" without registering, and what you can do if you create an account to log in with.",
-        "ALREADY_REGISTERED": "Already registered?",
-        "LOGIN": "Log in",
-        "FORGOT_DETAILS": "Forgot your details?",
-        "TRY_TITLE": "Try without registering",
-        "TRY_NOW": "Try it now",
-        "WHO_YOU": "Who are you?",
-        "TEACHER": "A parent, teacher or leader of a coding club",
-        "STUDENT": "A student",
-        "FORGOT_TEXT": "Forgot your username or password? That's okay - we all forget things sometimes.",
-        "ARE_YOU_A_STUDENT": "Are you a student?",
+        "ERROR_HELP": "Dacă acest lucru se întâmplă în continuare, vă rugăm să vizitați secțiunea noastră de ajutor",
+        "FIRST_TIME": "Prima dată aici?",
+        "SIGN_UP": "Inscrie-te",
+        "WHY_REGISTER": "De ce să te înregistrezi?",
+        "WHY_REGISTER_INTRO_1": "<strong>Nu trebuie să vă înregistrați sau să vă creați un cont</strong> petru a folosi Machine Learning for Kids, dar dacă o faci, deblochează câteva caracteristici ale instrumentului.",
+        "WHY_REGISTER_INTRO_2": "Grila de mai jos explică diferența în ceea ce puteți face dacă faceți clic \"Încercați acum\" fără a vă înregistra și ce puteți face dacă vă creați un cont cu care să vă conectați.",
+        "ALREADY_REGISTERED": "Deja înregistrat?",
+        "LOGIN": "Autentificare",
+        "FORGOT_DETAILS": "Ți-ai uitat detaliile?",
+        "TRY_TITLE": "Încercați fără a vă înregistra",
+        "TRY_NOW": "Încercați acum",
+        "WHO_YOU": "Cine ești tu?",
+        "TEACHER": "Un părinte, profesor sau lider al unui club de codare",
+        "STUDENT": "un elev la școală",
+        "FORGOT_TEXT": "Ți-ai uitat numele de utilizator sau parola? Este în regulă - cu toții uităm uneori de lucruri. ",
+        "ARE_YOU_A_STUDENT": "Ești elev?",
         "ARE_YOU_A_STUDENT_INTRO_1": "If your class is already using this tool, ask your teacher or coding group leader to create you an account.",
         "ARE_YOU_A_STUDENT_INTRO_2": "If your class isn't already using the tool, ask your teacher or coding group leader to get in touch.",
         "RESET_STUDENT_PASSWORD_1": "If you're a student, we don't have your email address to be able to send you a password-reset email.",
@@ -188,14 +188,14 @@
         }
     },
     "PROJECTS": {
-        "TITLE": "Your machine learning projects",
-        "ADDNEWPROJECT": "Add a new project",
-        "COPYTEMPLATE": "Copy template",
-        "CREATEFIRSTPROJECT": "Click the 'plus' button on the right to create your first project.",
-        "RECOGNISING": "Recognising",
-        "AS": "as",
-        "SHARE": "Share",
-        "UNSHARE": "Un-share",
+        "TITLE": "Proiectele dvs. de învățare automată",
+        "ADDNEWPROJECT": "Adăugați un proiect nou",
+        "COPYTEMPLATE": "Copiați șablonul",
+        "CREATEFIRSTPROJECT": "Faceți clic pe butonul „plus” din dreapta pentru a crea primul dvs. proiect.",
+        "RECOGNISING": "Recunoscând",
+        "AS": "precum",
+        "SHARE": "Partajeaza",
+        "UNSHARE": "Anulați partajarea",
         "WHOLE_CLASS_TITLE": "Crowd-sourced project",
         "WHOLE_CLASS_NOTES": "This is a whole-class project. All students in your class can use it and add to the training data."
     },

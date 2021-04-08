@@ -1002,71 +1002,71 @@
         "INTRO_3": "Suggestions for new worksheets, suggestions of improvements to any of the worksheets, or contributions of new project worksheets, are all very welcome.",
 
         "TYPES": {
-            "TITLE": "Recognising:",
-            "ALL": "All project types",
+            "TITLE": "Recunoașterea:",
+            "ALL": "Toate tipurile de proiecte",
 
-            "PREFIX": "Train a computer to recognise ",
+            "PREFIX": "Antrenează un computer pentru a recunoaște ",
 
             "TEXT": "text",
-            "IMAGES": "images",
-            "NUMBERS": "numbers",
-            "SOUNDS": "sounds",
-            "FACES": "faces"
+            "IMAGES": "imagini",
+            "NUMBERS": "numere",
+            "SOUNDS": "sunete",
+            "FACES": "fete"
         },
 
         "LEVELS": {
-            "TITLE": "Difficulty:",
-            "ALL": "All difficulties",
-            "BEGINNER": "Beginner projects",
-            "INTERMEDIATE": "Intermediate projects",
-            "ADVANCED": "Advanced projects"
+            "TITLE": "Dificultate:",
+            "ALL": "Toate dificultățile",
+            "BEGINNER": "Proiecte pentru începători",
+            "INTERMEDIATE": "Proiecte intermediare",
+            "ADVANCED": "Proiecte avansate"
         },
 
-        "DOWNLOAD": "Download",
+        "DOWNLOAD": "Descarca",
 
         "DOWNLOADS": {
             "AUDIENCE": {
-                "TEACHERS": "For teachers:",
-                "STUDENTS": "For students:"
+                "TEACHERS": "Pentru profesori:",
+                "STUDENTS": "Pentru studenti:"
             },
             "GUIDANCE": {
-                "TITLE": "Download guidance for teachers",
-                "DETAIL": "This sheet contains information for teachers or coding group leaders to help them prepare, setup and supervise this project.",
-                "NOTES": "Notes:"
+                "TITLE": "Descărcați ghidul pentru profesori",
+                "DETAIL": "Această fișă conține informații pentru profesori sau liderii grupurilor de codificare pentru a-i ajuta să pregătească, să configureze și să supravegheze acest proiect.",
+                "NOTES": "Note:"
             },
             "WORKSHEET": {
-                "TITLE": "Download project worksheet",
-                "AUTHOR": "Worksheet provided by:"
+                "TITLE": "Descărcați foaia de lucru a proiectului",
+                "AUTHOR": "Foaie de lucru furnizată de:"
             },
             "RESOURCES": {
-                "TITLE": "Additional project resources",
-                "DETAIL": "You will also need to provide students with a printed copy of this file."
+                "TITLE": "Resurse suplimentare pentru proiect",
+                "DETAIL": "De asemenea, va trebui să oferiți studenților o copie tipărită a acestui fișier."
             }
         },
 
         "MAKETYPES": {
-            "ALL": "All make types",
+            "ALL": "Toate tipurile de limbaj de programare",
 
-            "SCRATCH": "Scratch projects",
-            "PYTHON": "Python projects",
-            "APPINVENTOR": "App Inventor projects",
+            "SCRATCH": "Proiect Scratch",
+            "PYTHON": "Proiect Python",
+            "APPINVENTOR": "Proiect App Inventor",
 
-            "SCRATCH_WORKSHEET": "Worksheet for making project in Scratch",
-            "PYTHON_WORKSHEET": "Worksheet for making project in Python",
-            "APPINVENTOR_WORKSHEET": "Worksheet for making project in App Inventor"
+            "SCRATCH_WORKSHEET": "Foaie de lucru pentru realizarea proiectuluiin Scratch",
+            "PYTHON_WORKSHEET": "Foaie de lucru pentru realizarea proiectului in Python",
+            "APPINVENTOR_WORKSHEET": "Foaie de lucru pentru realizarea proiectului in App Inventor"
         },
 
         "NO_WORKSHEETS": {
-            "NO_MATCHES": "There aren't any project worksheets that match those filters.",
-            "MAKE_YOUR_OWN": "You could adapt some of the existing worksheets or come up with a new one.",
-            "CONTRIBUTE": "If you do, please consider <a href='https://github.com/IBM/taxinomitis-docs/blob/master/README.md#contributions'>contributing it for others to use</a>."
+            "NO_MATCHES": "Nu există foi de lucru pentru proiecte care să corespundă acestor filtre.",
+            "MAKE_YOUR_OWN": "Puteți adapta unele dintre foile de lucru existente sau puteți veni cu una nouă.",
+            "CONTRIBUTE": "Dacă faceți acest lucru, vă rugăm să luați în considerare <a href='https://github.com/IBM/taxinomitis-docs/blob/master/README.md#contributions'> contribuind la utilizarea acestuia de către alții </a>."
         },
 
 
         "DESCRIBETHEGLASS": {
-            "TITLE": "Describe the glass",
-            "SUMMARY": "Teach a computer to predict your answers",
-            "DESCRIPTION": "Create a game in Scratch that learns when you describe a glass as half-full or half-empty.",
+            "TITLE": "Descrieți paharul",
+            "SUMMARY": "Învățați un computer să vă prezică răspunsurile",
+            "DESCRIPTION": "Creați un joc în Scratch care învață când descrieți un pahar pe jumătate plin sau pe jumătate gol.",
             "TEACHERSNOTES_URL": "https://github.com/IBM/taxinomitis-docs/raw/master/teachers-notes/pdf/teachersnotes-describetheglass.pdf",
             "WORKSHEET_1": {
                 "URL": "https://github.com/IBM/taxinomitis-docs/raw/master/project-worksheets/pdf/worksheet-describetheglass.pdf"
@@ -1074,51 +1074,51 @@
         },
         "SMARTCLASSROOM": {
             "TITLE": "Smart Classroom",
-            "SUMMARY": "Teach a computer to recognise the meaning of your commands",
-            "DESCRIPTION": "Create a smart assistant in Scratch that lets you control virtual devices.",
+            "SUMMARY": "Învață un computer să recunoască semnificația comenzilor tale",
+            "DESCRIPTION": "Creați un asistent inteligent în Scratch care vă permite să controlați dispozitivele virtuale.",
             "TEACHERSNOTES_URL": "https://github.com/IBM/taxinomitis-docs/raw/master/teachers-notes/pdf/teachersnotes-smartclassroom.pdf",
             "WORKSHEET_1": {
-                "DESCRIPTION": "Full version of the project, where the students make a non-machine learning version first",
+                "DESCRIPTION": "Versiunea completă a proiectului, în care elevii realizează mai întâi o versiune non-machine learning",
                 "URL": "https://github.com/IBM/taxinomitis-docs/raw/master/project-worksheets/pdf/worksheet-smartclassroom.pdf"
             },
             "WORKSHEET_2": {
-                "DESCRIPTION": "Shorter version of the project, where the students only make a machine learning version of the assistant",
+                "DESCRIPTION": "Versiune mai scurtă a proiectului, în care elevii realizează doar o versiune de învățare automată a asistentului",
                 "URL": "https://github.com/IBM/taxinomitis-docs/raw/master/project-worksheets/pdf/worksheet-smartclassroom-easy.pdf"
             },
             "WORKSHEET_3": {
-                "DESCRIPTION": "Quick simplified version of the project, ideal for use as a first introduction to the tool",
+                "DESCRIPTION": "Versiune simplificată rapidă a proiectului, ideală pentru utilizare ca primă introducere a instrumentului",
                 "URL": "https://github.com/IBM/taxinomitis-docs/raw/master/project-worksheets/pdf/worksheet-smartclassroom-tryitnow.pdf"
             }
         },
         "MAKEMEHAPPY": {
-            "TITLE": "Make me happy",
-            "SUMMARY": "Teach a computer to recognise compliments and insults",
-            "DESCRIPTION": "Create a character in Scratch that smiles if you say nice things to it and cries if you say mean things to it.",
+            "TITLE": "Fa-ma fericit",
+            "SUMMARY": "Învățați un computer să recunoască complimente și insulte",
+            "DESCRIPTION": "Creați un personaj în Scratch care zâmbește dacă îi spuneți lucruri drăguțe și plânge dacă spuneți lucruri rele.",
             "TEACHERSNOTES_URL": "https://github.com/IBM/taxinomitis-docs/raw/master/teachers-notes/pdf/teachersnotes-makemehappy.pdf",
             "WORKSHEET_1": {
-                "DESCRIPTION": "Full version of the Scratch project, where the students make a non-machine learning version first",
+                "DESCRIPTION": "Versiunea completă a proiectului Scratch, unde elevii realizează mai întâi o versiune non-machine learning",
                 "URL": "https://github.com/IBM/taxinomitis-docs/raw/master/project-worksheets/pdf/worksheet-makemehappy.pdf"
             },
             "WORKSHEET_2": {
-                "DESCRIPTION": "Shorter version of the Scratch project, where the students only make a machine learning version",
+                "DESCRIPTION": "Versiune mai scurtă a proiectului Scratch, în care elevii realizează doar o versiune de învățare automată",
                 "URL": "https://github.com/IBM/taxinomitis-docs/raw/master/project-worksheets/pdf/worksheet-makemehappy-easy.pdf"
             },
             "WORKSHEET_3": {
-                "DESCRIPTION": "Python project - for making the project using Python",
+                "DESCRIPTION": "Proiect Python - pentru realizarea proiectului folosind Python",
                 "URL": "https://github.com/IBM/taxinomitis-docs/raw/master/project-worksheets/pdf/worksheet-makemehappy-python.pdf"
             }
         },
         "SNAP": {
             "TITLE": "Snap!",
-            "SUMMARY": "Teach a computer to recognise what icons look like",
-            "DESCRIPTION": "Make a card game in Scratch that learns to recognise pictures of your card.",
+            "SUMMARY": "Învățați un computer să recunoască aspectul pictogramelor",
+            "DESCRIPTION": "Faceți un joc de cărți în Scratch care învață să recunoască imaginile cărții dvs.",
             "TEACHERSNOTES_URL": "https://github.com/IBM/taxinomitis-docs/raw/master/teachers-notes/pdf/teachersnotes-snap.pdf",
             "WORKSHEET_1": {
-                "DESCRIPTION": "Full version of the project, where the students make their own cards that they will train the computer to recognise",
+                "DESCRIPTION": "Versiunea completă a proiectului, în care elevii își fac propriile cărți pe care vor instrui computerul să le recunoască",
                 "URL": "https://github.com/IBM/taxinomitis-docs/raw/master/project-worksheets/pdf/worksheet-snap.pdf"
             },
             "WORKSHEET_2": {
-                "DESCRIPTION": "Shorter version of the project, providing children with pre-made cards that you will need to print out, to save the students time having to make them",
+                "DESCRIPTION": "Versiune mai scurtă a proiectului, oferind copiilor carduri prefabricate pe care va trebui să le imprimați, pentru a economisi timp studenților care trebuie să le facă",
                 "URL": "https://github.com/IBM/taxinomitis-docs/raw/master/project-worksheets/pdf/worksheet-snap-easy.pdf",
                 "RESOURCES": "https://github.com/IBM/taxinomitis-docs/raw/master/project-worksheets/pdf/resources-snap-easy.pdf"
             }

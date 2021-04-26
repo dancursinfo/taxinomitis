@@ -62,59 +62,59 @@
             "DESCRIPTION": "Noutati si actualizari de la @MLforKids"
         },
         "MENTIONS": {
-            "TITLE": "Mentions & Media",
-            "DESCRIPTION": "loading Mentions &amp; Media from wakelet.com"
+            "TITLE": "Mențiuni & mass-media ",
+            "DESCRIPTION": "încărcare Mențiuni & mass-media de la wakelet.com"
         }
     },
     "LINKS": {
         "TITLE": "Resurse educationale IA pentru copii",
         "INTRO": "Aceasta pagina contine o lista cu viitoarele intrumente si resurse ce explica IA (inteligenta artificiala) copiilor.",
         "ECRAFT2LEARN": {
-            "BODY1": "<a href='http://users.ox.ac.uk/~oucs0030/' target='_blank'>Ken Kahn</a> has created resources to allow beginners to create AI programs in Snap! (a visual programming environment similar to Scratch).",
-            "BODY2": "While I've focused on explaining how AI systems are trained and behave (and the real-world implications), eCraft2Learn has fantastic resources that dive deep into how ML systems actually work.",
-            "BODY3": "The <a href='https://ecraft2learn.github.io/ai/AI-Teacher-Guide/chapter-6.html' target='_blank'>neural net Tic Tac Toe project</a> is particularly fascinating, allowing students to experiment with hyperparameters from Snap."
+            "BODY1": "<a href='http://users.ox.ac.uk/~oucs0030/' target='_blank'>Ken Kahn</a> a creat resurse pentru a permite începătorilor să creeze programe AI în Snap! (un mediu de programare vizual similar cu Scratch).",
+            "BODY2": "În timp ce m-am concentrat pe explicarea modului în care sunt antrenate și se comportă sistemele AI (și implicațiile lumii reale), eCraft2Learn are resurse fantastice care se adâncesc în modul în care funcționează sistemele ML.",
+            "BODY3": "<a href='https://ecraft2learn.github.io/ai/AI-Teacher-Guide/chapter-6.html' target='_blank'> proiectul Tic Tac Toe pentru rețele neuronale </a> este deosebit de fascinant, permițând studenților să experimenteze cu hiperparametri de la Snap."
         },
         "STEMLEARNING": {
-            "BODY1": "STEM Learning and the UK Department for Business, Energy and Industrial Strategy have created resources for teaching the principles of artificial intelligence.",
-            "BODY2": "These resources include <em>Machine Learning for Kids</em> projects, supplemented with teaching notes, presentation materials, prompt cards, and practical “unplugged” activities"
+            "BODY1": "STEM Learning și Departamentul pentru afaceri, energie și strategie industrială din Marea Britanie au creat resurse pentru predarea principiilor inteligenței artificiale.",
+            "BODY2": "Aceste resurse includ proiecte <em> Machine Learning for Kids </em>, completate cu note didactice, materiale de prezentare, carduri prompte și activități practice „deconectate”"
         },
         "RASPBERRYPI": {
-            "BODY1": "The Raspberry Pi Foundation provides resources for Code Clubs, with step-by-step instructions for a variety of creative projects.",
-            "BODY2": "Their machine learning pathway includes a variety of projects from <em>Machine Learning for Kids</em>."
+            "BODY1": "Fundația Raspberry Pi oferă resurse pentru Code Clubs, cu instrucțiuni pas cu pas pentru o varietate de proiecte creative.",
+            "BODY2": "Calea lor de învățare automată include o varietate de proiecte din <em> Învățarea automată pentru copii </em>."
         },
         "APPSFORGOOD": {
-            "BODY1": "Apps for Good are a UK-based not-for-profit that creates resources for teaching technology subjects, that they make freely available to schools.",
-            "BODY2": "Their Machine Learning course uses <em>Machine Learning for Kids</em>, and supplements it with a range of additional materials like schemes of work, lesson plans, student workbooks, presentations and more. It makes it easy for schools to deliver ML lessons that put the coding exercises in context."
+            "BODY1": "AApps for Good este o organizație non-profit din Marea Britanie care creează resurse pentru predarea disciplinelor de tehnologie, pe care le pune la dispoziția școlilor în mod liber.",
+            "BODY2": "Cursul lor de învățare automată utilizează <em> Învățarea automată pentru copii </em> și îl completează cu o serie de materiale suplimentare, cum ar fi scheme de lucru, planuri de lecții, cărți de lucru ale elevilor, prezentări și multe altele. Este ușor pentru școli să predea lecții de ML care pun contextul în exerciții."
         },
         "AIFAMILYCHALLENGE": {
-            "BODY1": "The AI Family Challenge is a free, hands-on AI education program for families. They use <em>Machine Learning for Kids</em>, and supplement it with a lot of additional support, such as technical coaches and mentors, a structured lesson plan and supporting videos.",
-            "BODY2": "The program is based around a competition that challenges children to think of their own AI project ideas, with the support of their families and technical mentors."
+            "BODY1": "Provocarea familiei AI este un program de educație AI, practic și gratuit, pentru familii. Folosesc <em> Învățarea automată pentru copii </em> și îl completează cu o mulțime de asistență suplimentară, cum ar fi antrenori și mentori tehnici, un plan de lecție structurat și videoclipuri de sprijin.",
+            "BODY2": "Programul se bazează pe o competiție care îi provoacă pe copii să se gândească la propriile idei de proiect AI, cu sprijinul familiilor lor și al mentorilor tehnici."
         },
         "MAGENTADEMOS": {
-            "BODY1": "Online toys that demonstrate different aspects of machine learning, using TensorFlow.js"
+            "BODY1": "Jucării online care demonstrează diferite aspecte ale învățării automate, folosind TensorFlow.js"
         },
         "AIINSCHOOLS": {
-            "BODY1": "The AIinSchools programme provides a free lesson plan for teachers to explain AI to Year 9 (aged 13-14).",
-            "BODY2": "It includes both unplugged classroom activities, and programming activities for training neural networks on GPUs running on AWS."
+            "BODY1": "Programul AIinSchools oferă profesorilor un plan de lecție gratuit pentru a explica AI până în Anul 9 (cu vârste cuprinse între 13-14 ani).",
+            "BODY2": "Include atât activități de clasă neconectate, cât și activități de programare pentru instruirea rețelelor neuronale pe GPU-uri care rulează pe AWS."
         },
         "TEENSINAI": {
-            "BODY1": "Teens in AI use a combination of hackathons, accelerators and bootcamps to support young people aged 12-18 to explore AI."
+            "BODY1": "Adolescenții din IA folosesc o combinație de hackathoni, acceleratoare și bootcampuri pentru a sprijini tinerii cu vârste cuprinse între 12-18 ani să exploreze AI."
         },
         "AI4ALL": {
-            "BODY1": "AI4ALL run summer camps for high school students in the US that give a detailed technical introduction to AI."
+            "BODY1": "AI4ALL organizează tabere de vară pentru elevii de liceu din SUA, care oferă o introducere tehnică detaliată a IA."
         },
         "CALYPSO": {
-            "BODY1": "Students with programmable Cozmo robots can use the Calypso programming framework to get a hands-on way to experience AI by experimenting with techniques like computer vision and speech recognition."
+            "BODY1": "Studenții cu roboți Cozmo programabili pot utiliza cadrul de programare Calypso pentru a obține o modalitate practică de a experimenta AI experimentând tehnici precum viziunea pe computer și recunoașterea vorbirii."
         },
         "AIINABOX": {
-            "BODY1": "AI-in-a-Box is a bundle of robots, accessories and teaching resources. The kit can be used to teach projects that cover topics like visual recognition, facial recognition, speech generation and speech recognition."
+            "BODY1": "AI-in-a-Box este un pachet de roboți, accesorii și resurse didactice. Kitul poate fi folosit pentru a preda proiecte care acoperă subiecte precum recunoașterea vizuală, recunoașterea facială, generarea vorbirii și recunoașterea vorbirii."
         },
         "GOOGLEEXPERIMENTS": {
-            "BODY1": "Simple online experiments to start exploring machine learning, through pictures, drawings, language, and music."
+            "BODY1": "Experimente online simple pentru a începe explorarea învățării automate, prin imagini, desene, limbaj și muzică."
         },
         "VIDEOS": {
-            "TITLE": "Videos",
-            "INTRO": "I've also found these videos useful when introducing AI concepts:"
+            "TITLE": "Videoclipuri",
+            "INTRO": "De asemenea, am găsit aceste videoclipuri utile la introducerea conceptelor de AI:"
         }
     },
     "ERRORS": {
@@ -157,33 +157,33 @@
         "STUDENT": "un elev la școală",
         "FORGOT_TEXT": "Ți-ai uitat numele de utilizator sau parola? Este în regulă - cu toții uităm uneori de lucruri. ",
         "ARE_YOU_A_STUDENT": "Ești elev?",
-        "ARE_YOU_A_STUDENT_INTRO_1": "If your class is already using this tool, ask your teacher or coding group leader to create you an account.",
-        "ARE_YOU_A_STUDENT_INTRO_2": "If your class isn't already using the tool, ask your teacher or coding group leader to get in touch.",
-        "RESET_STUDENT_PASSWORD_1": "If you're a student, we don't have your email address to be able to send you a password-reset email.",
-        "RESET_STUDENT_PASSWORD_2": "That's no problem, though!",
-        "RESET_STUDENT_PASSWORD_3": "Just ask your teacher or group leader who first signed you up. They will be able to reset your password from their Admin page."
+        "ARE_YOU_A_STUDENT_INTRO_1": "Dacă clasa dvs. folosește deja acest instrument, adresați-vă profesorului sau liderului grupului de codificare să vă creeze un cont.",
+        "ARE_YOU_A_STUDENT_INTRO_2": "Dacă clasa dvs. nu folosește deja instrumentul, adresați-vă profesorului sau liderului grupului de codificare pentru a vă contacta.",
+        "RESET_STUDENT_PASSWORD_1": "Dacă sunteți student, nu avem adresa dvs. de e-mail pentru a vă putea trimite un e-mail de resetare a parolei.",
+        "RESET_STUDENT_PASSWORD_2": "Nu este nici o problemă, totuși!",
+        "RESET_STUDENT_PASSWORD_3": "Întrebați-l doar pe profesorul dvs. sau pe liderul de grup care v-a înscris pentru prima dată. Aceștia vor putea să vă reseteze parola de pe pagina lor de administrare."
     },
     "SIGNUP": {
         "TEACHER": {
-            "TITLE": "Are you a teacher or leader of a coding club?",
-            "INFO1": "If you would like access for your students, please create a class account below.",
-            "INFO2": "There are two types of class account - depending on who sets it up."
+            "TITLE": "Ești profesor sau lider al unui club de codare?",
+            "INFO1": "Dacă doriți acces pentru studenții dvs., vă rugăm să creați un cont de curs mai jos.",
+            "INFO2": "Există două tipuri de conturi de clasă - în funcție de cine îl configurează."
         },
         "UNMANAGED": {
-            "TITLE": "Create an <strong>unmanaged</strong> class account",
-            "INTRO": "If you are happy to set up and manage the class account yourself, you can do it now!",
-            "LISTINTRO": "You will need to:",
-            "LIST_CREATEACCOUNT": "Create a free account on IBM Cloud",
-            "LIST_CREATEAPIKEYS": "Create API key(s) for Watson cloud services needed to train machine learning models",
-            "LIST_ENTERAPIKEYS": "Enter the API keys into this Machine Learning for Kids tool",
-            "HELP": "Step-by-step instructions (with screenshots) are available for all of this."
+            "TITLE": "Creați un cont de clasă <strong> neadministrat </strong>",
+            "INTRO": "Dacă sunteți fericit să configurați și să gestionați singur contul clasei, îl puteți face acum!",
+            "LISTINTRO": "Va trebui sa:",
+            "LIST_CREATEACCOUNT": "Creați un cont gratuit pe IBM Cloud",
+            "LIST_CREATEAPIKEYS": "Creați chei API pentru serviciile cloud Watson necesare pentru instruirea modelelor de învățare automată",
+            "LIST_ENTERAPIKEYS": "Introduceți cheile API în acest instrument Machine Learning for Kids",
+            "HELP": "Instrucțiuni pas cu pas (cu capturi de ecran) sunt disponibile pentru toate acestea."
         },
         "MANAGED": {
-            "TITLE": "Create a <strong>managed</strong> class account",
-            "INTRO": "If you would like Dale to set up the class account, use the button below to send an email with the following information:",
-            "LIST_NUMBEROFSTUDENTS": "Roughly how many student accounts you will need",
-            "LIST_NAMEOFSCHOOL": "The name of the school or coding group the account is for",
-            "RESTRICTIONS": "This offer is only available to schools and not-for-profit student coding clubs.",
+            "TITLE": "Creați un cont de clasă <strong> gestionat </strong>",
+            "INTRO": "Dacă doriți ca Dale să configureze contul clasei, utilizați butonul de mai jos pentru a trimite un e-mail cu următoarele informații:",
+            "LIST_NUMBEROFSTUDENTS": "Aproximativ câte conturi de student veți avea nevoie",
+            "LIST_NAMEOFSCHOOL": "Numele școlii sau al grupului de codare pentru care este contul",
+            "RESTRICTIONS": "Această ofertă este disponibilă doar școlilor și cluburilor de codificare pentru studenți non-profit.",
             "EMAIL": "Email"
         }
     },
@@ -196,332 +196,332 @@
         "AS": "precum",
         "SHARE": "Partajeaza",
         "UNSHARE": "Anulați partajarea",
-        "WHOLE_CLASS_TITLE": "Crowd-sourced project",
-        "WHOLE_CLASS_NOTES": "This is a whole-class project. All students in your class can use it and add to the training data."
+        "WHOLE_CLASS_TITLE": "Proiect cu sursă de mulțime",
+        "WHOLE_CLASS_NOTES": "Acesta este un proiect de clasă întreagă. Toți elevii din clasa dvs. îl pot folosi și adăuga la datele de instruire."
     },
     "NEWPROJECT": {
-        "TITLE": "Start a new machine learning project",
+        "TITLE": "Porniți un nou proiect de învățare automată",
         "PROJECT_NAME": {
-            "TITLE": "Project Name",
-            "NOTES": "Give your project a name to describe what sort of thing you'll try to teach the computer to recognise."
+            "TITLE": "Denumirea proiectului",
+            "NOTES": "Dă-i proiectului un nume pentru a descrie ce fel de lucru vei încerca să înveți computerul să recunoască."
         },
         "WHOLE_CLASS_PROJECT": {
-            "TITLE": "Whole-class project?",
-            "NOTES_1": "Tick this if you want your whole class to be able to work on this project together.",
-            "NOTES_2": "This is useful for projects that teach crowd-sourcing as an approach to training machine learning projects."
+            "TITLE": "Proiect de clasă întreagă?",
+            "NOTES_1": "Bifați acest lucru dacă doriți ca întreaga dvs. clasă să poată lucra împreună la acest proiect.",
+            "NOTES_2": "Acest lucru este util pentru proiectele care predau crowd-sourcing ca o abordare a instruirii proiectelor de învățare automată."
         },
         "TYPES": {
-            "LABEL": "Recognising",
-            "NOTES_1": "What type of thing do you want to teach the computer to recognise?",
-            "NOTES_2": "For words, sentences or paragraphs, choose \"text\"",
-            "NOTES_3": "For photos, diagrams and pictures, choose \"images\"",
-            "NOTES_4": "For sets of numbers or multiple choices, choose \"numbers\"",
-            "NOTES_5": "For voices and sounds, choose \"sounds\""
+            "LABEL": "Recunoscând",
+            "NOTES_1": "Ce tip de lucru doriți să învățați computerul să recunoască?",
+            "NOTES_2": "Pentru cuvinte, propoziții sau paragrafe, alegeți \„text\”",
+            "NOTES_3": "Pentru fotografii, diagrame și imagini, alegeți \„imagini\”",
+            "NOTES_4": "Pentru seturi de numere sau opțiuni multiple, alegeți \„numere\”",
+            "NOTES_5": "Pentru voci și sunete, alegeți \„sunete\”"
         },
         "IMAGEPROJECTS": {
-            "LABEL": "Where to train the model",
+            "LABEL": "Unde să antrenezi modelul",
             "TYPES": {
-                "IMAGES": "in the cloud",
-                "IMGTFJS": "on your computer"
+                "IMAGES": "in cloud",
+                "IMGTFJS": "pe calculatorul tau"
             },
-            "NOTES_1": "If you choose \"on your computer\" you can only use the model in Scratch.",
-            "NOTES_2": "If you choose \"in the cloud\" you can use the model in Scratch, Python, or App Inventor.",
-            "NOTES_3": "You can change your mind about this at any time."
+            "NOTES_1": "Dacă alegeți \"pe computer \", puteți utiliza modelul numai în Scratch.",
+            "NOTES_2": "Dacă alegeți \"în cloud \", puteți utiliza modelul în Scratch, Python sau App Inventor.",
+            "NOTES_3": "Puteți să vă răzgândiți în acest sens oricând."
         },
         "LANGUAGE": {
-            "LABEL": "Language",
-            "NOTES": "What language will the text in this project be?"
+            "LABEL": "Limba",
+            "NOTES": "In ce limbă va fi textul din acest proiect?"
         },
         "FIELDS": {
             "TYPE": {
-                "TITLE": "Type of value",
-                "NUMBER": "number",
-                "MULTIPLE_CHOICE": "multiple-choice"
+                "TITLE": "Tipul valorii",
+                "NUMBER": "număr",
+                "MULTIPLE_CHOICE": "cu alegere multiplă"
             },
             "CHOICES": {
-                "TITLE": "Choices:",
-                "LABEL": "add a choice"
+                "TITLE": "Alegeri:",
+                "LABEL": "adaugă o alegere"
             },
             "NEWFIELD": {
-                "DESCRIBE_FIELD": "Give this field a name to describe the value",
-                "MULTICHOICE": "If it can be described as choosing from a few options, choose \"multiple-choice\".",
-                "ADD_FIRST_FIELD": "Type in a choice to use in your multiple-choice list, then press Enter.",
-                "ADD_ANOTHER_FIELD": "Type in another choice to use in your multiple-choice list, then press Enter."
+                "DESCRIBE_FIELD": "Dați acestui câmp un nume pentru a descrie valoarea",
+                "MULTICHOICE": "Dacă poate fi descris ca alegând dintre câteva opțiuni, alegeți \„opțiune multiplă\”.",
+                "ADD_FIRST_FIELD": "Tastați o opțiune de utilizat în lista cu opțiuni multiple, apoi apăsați Enter.",
+                "ADD_ANOTHER_FIELD": "Tastați o altă opțiune de utilizat în lista cu opțiuni multiple, apoi apăsați Enter."
             },
             "NEWVALUE": {
-                "ADD_FIRST_VALUE": "Start to describe the values that you'll include with each example to train the computer with by clicking the 'Add a value' button.",
-                "VALUES_LIMIT": "You are not allowed more than 10 values in a project."
+                "ADD_FIRST_VALUE": "Începeți să descrieți valorile pe care le veți include în fiecare exemplu pentru a instrui computerul făcând clic pe butonul \„Adăugați o valoare\”.",
+                "VALUES_LIMIT": "Nu vi se permit mai mult de 10 valori într-un proiect."
             }
         },
-        "CREATE": "Create",
+        "CREATE": "Creează",
         "ERRORS": {
-            "REQUIRED": "This is required!",
-            "TOOLONG": "That's too long!"
+            "REQUIRED": "Acest lucru este necesar!",
+            "TOOLONG": "E prea lung!"
         },
         "WARNINGS": {
-            "MLCRED-TEXT-NOKEYS": "Please let your teacher know that they will need to add a \"Watson Assistant API key\" to your class to let you train the machine learning model for your new project",
-            "MLCRED-IMG-NOKEYS": "Please let your teacher know that they will need to add a \"Visual Recognition API key\" to your class to let you train the machine learning model for your new project",
-            "MLCRED-TEXT-INVALID": "There might be a problem with the IBM Cloud API keys you will need to train a machine learning model for your new project. Please ask your teacher to try verifying the \"Watson Assistant API keys\" in your class.",
-            "MLCRED-IMG-INVALID": "There might be a problem with the IBM Cloud API keys you will need to train a machine learning model for your new project. Please ask your teacher to try verifying the \"Visual Recognition API keys\" in your class."
+            "MLCRED-TEXT-NOKEYS": "Vă rugăm să informați profesorul că va trebui să adauge o \"Watson Assistant API key\" la clasa dvs. pentru a vă permite să instruiți modelul de învățare automată pentru noul dvs. proiect",
+            "MLCRED-IMG-NOKEYS": "Vă rugăm să informați profesorul că va trebui să adauge un \"Visual Recognition API key\" la clasa dvs. pentru a vă permite să instruiți modelul de învățare automată pentru noul dvs. proiect",
+            "MLCRED-TEXT-INVALID": "S-ar putea să existe o problemă cu cheile API IBM Cloud, de care veți avea nevoie pentru a instrui un model de învățare automată pentru noul dvs. proiect. Vă rugăm să cereți profesorului dvs. să încerce să verifice \"Watson Assistant API keys\" în clasa ta.",
+            "MLCRED-IMG-INVALID": "S-ar putea să existe o problemă cu cheile API IBM Cloud, de care veți avea nevoie pentru a instrui un model de învățare automată pentru noul dvs. proiect. Vă rugăm să cereți profesorului dvs. să încerce să verifice \"Visual Recognition API keys\" în clasa ta."
         }
     },
     "DATASETS": {
-        "TITLE": "Copy a machine learning project template",
+        "TITLE": "Copiați un șablon de proiect de învățare automată",
         "INTRO": {
-            "INTRO_1": "You can create new machine learning project based on one of these templates.",
-            "INTRO_2": "Each one includes a set of training data that has been collected for you to help you get started quickly. ",
-            "INTRO_3": "You will be able to make changes to the training data if you like, or you can go straight to training a machine learning model with it. "
+            "INTRO_1": "Puteți crea un nou proiect de învățare automată pe baza unuia dintre aceste șabloane.",
+            "INTRO_2": "Fiecare include un set de date de instruire care au fost colectate pentru a vă ajuta să începeți rapid. ",
+            "INTRO_3": "Veți putea face modificări la datele de antrenament dacă doriți sau puteți merge direct la instruirea unui model de învățare automată cu acesta. "
         },
         "IMPORT": "Import",
         "MORE": {
-            "TITLE": "Other data sets",
-            "SUMMARY": "What other data sets would you like to see?",
-            "DESCRIPTION": "Have you got an idea for a data set you'd like to see available here? Or do you have a data set that you'd like to contribute? Please get in touch!",
-            "MOREINFO": "More..."
+            "TITLE": "Alte seturi de date",
+            "SUMMARY": "Ce alte seturi de date ați dori să vedeți?",
+            "DESCRIPTION": "Ai o idee pentru un set de date pe care ai vrea să-l vezi disponibil aici? Sau aveți un set de date pe care doriți să îl contribuiți? Te rog ia legatura!",
+            "MOREINFO": "Mai mult..."
         },
         "DATA": {
             "TITANIC": {
-                "TITLE": "Titanic survivors",
-                "SUMMARY": "Predict survival on the Titanic",
-                "DESCRIPTION": "On 15th April 1912, the RMS Titanic hit an iceberg and sank, killing over 1500 of the passengers and crew. This project includes personal data about hundreds of the passengers. You can use this to train a machine learning model that, if you give it a description of a passenger, can learn to predict the likelihood that they would have survived. ",
-                "DETAILS": "The 'ticket class' field is a number indicating the type of ticket for the passenger: first class (1), second class (2), or third class (3). \nThe 'gender' field is whether the passenger was 'male' or 'female'. \nThe 'age' field is the age of the passenger. \nThe 'sibl. sp.' is the number of brothers or sisters (siblings) the passenger had on board if they were a child, or the number of husbands or wives (spouses) the passenger had on board if they were an adult. \nThe 'par. ch.' field is the number of parents the passenger had on board if they were a child, or the number of children the passenger had on board if they were an adult. \nThe 'ticket fare' field is how much they paid for their ticket. \nThe 'embarked' field is where they got on board the Titanic, either Cherbourg, Queenstown or Southampton."
+                "TITLE": "Supraviețuitori Titanicului",
+                "SUMMARY": "Preziceți cine supraviețuieste pe Titanic",
+                "DESCRIPTION": "La 15 aprilie 1912, RMS Titanic a lovit un aisberg și s-a scufundat, ucigând peste 1500 de pasageri și echipaj. Acest proiect include date personale despre sute de pasageri. Puteți utiliza acest lucru pentru a instrui un model de învățare automată care, dacă îi oferiți o descriere a unui pasager, poate învăța să prezică probabilitatea ca aceștia să fi supraviețuit. ",
+                "DETAILS": "Câmpul „clasa biletelor” este un număr care indică tipul biletului pentru pasager: clasa întâi (1), clasa a doua (2) sau clasa a treia (3). \ nCâmpul „sex” este dacă pasagerul a fost „bărbat” sau „femeie”. \ nCâmpul „vârstă” este vârsta pasagerului. \ nSibl. sp. ' este numărul de frați sau surori (frați) pe care pasagerul i-a avut la bord dacă erau copii sau numărul de soți sau soții (soții) pe care pasagerul i-a avut la bord dacă erau adulți. \ n 'Par. ch. ' câmpul este numărul de părinți pe care pasagerul i-a avut la bord dacă erau copii sau numărul de copii pe care i-a avut pasagerul la bord dacă erau adulți. \ nCâmpul „tarif bilet” este suma plătită pentru biletul lor. \ nCâmpul „îmbarcat” este locul unde au urcat la bordul Titanicului, fie Cherbourg, Queenstown sau Southampton."
             },
             "CATSANDDOGS": {
-                "TITLE": "Cats and Dogs",
-                "SUMMARY": "Recognize photos of cats vs dogs",
-                "DESCRIPTION": "Training a machine learning model to recognise photos of cats and dogs is a good simple introduction to image recognition.",
-                "DETAILS": "This training dataset of photos from Wikimedia Commons is a good starting set for building your own training data of animal photos"
+                "TITLE": "Pisici si caini",
+                "SUMMARY": "Recunoașteți fotografii cu pisici și câini",
+                "DESCRIPTION": "Instruirea unui model de învățare automată pentru a recunoaște fotografiile cu pisici și câini este o bună introducere simplă la recunoașterea imaginii.",
+                "DETAILS": "Acest set de date de antrenament cu fotografii din Wikimedia Commons este un set bun de pornire pentru construirea propriilor date de antrenament cu fotografii cu animale"
             },
             "UKNEWSPAPERS": {
-                "TITLE": "UK Newspaper Headlines",
-                "SUMMARY": "Recognize the use of language in headlines",
-                "DESCRIPTION": "Different newspapers use language in different ways. This project includes the main front page headline from four UK newspapers. You can use this to train a machine learning model that can learn to predict the most likely newspaper that a new headline is probably from. ",
-                "DETAILS": "This training dataset includes headlines from the Daily Mail, the Daily Telegraph, the Independent, and The Guardian"
+                "TITLE": "Titluri de ziare din Marea Britanie",
+                "SUMMARY": "Recunoașteți utilizarea limbajului în titluri",
+                "DESCRIPTION": "Ziarele diferite folosesc limbajul în moduri diferite. Acest proiect include titlul principal al primei pagini din patru ziare din Marea Britanie. Puteți utiliza acest lucru pentru a instrui un model de învățare automată care poate învăța să prezică cel mai probabil ziar din care provine probabil un nou titlu. ",
+                "DETAILS": "Acest set de date de instruire include titluri din Daily Mail, Daily Telegraph, Independent și The Guardian"
             },
             "PHISHING": {
-                "TITLE": "Phishing",
-                "SUMMARY": "Predict if a link is a phishing link",
-                "DESCRIPTION": "Phishing is when a website tries to trick you into giving up sensitive information, by sending you a link to a fake website disguised like a trustworthy one. You can use this to train a machine learning model that can predict if a web address is a real link, or a phishing link to a fake website.",
-                "DETAILS": "This training dataset includes attributes of five hundred legitimate web addresses, and five hundred phishing links.\n\nThe 'address type' field is 'IP addr' if the link has a numeric IP address like '104.20.74.246' or 'DNS name' if the link has a name-based address like 'machinelearningforkids.co.uk'. \nThe 'url length' field groups the training addresses by how long they are. \nThe 'shortening' field is 'yes' if the web address uses a shortening service like TinyURL or bit.ly, or 'no' if it doesn't. \nThe 'includes @' field is 'yes' if the web address includes an @ symbol, or 'no' if it doesn't. \nThe 'port number' field is 'standard' if the web address uses a standard port number like 80 or 443, or 'non-std' if it uses something different. \nThe 'domain age' field groups addresses by how long ago the web address in the address was registered. \nThe 'redirects' field groups the training addresses by the number of times a web browser is sent to a different address before reaching a final page. \nThe 'domain reg' field is 'expiring' if the registration for the web address domain name expires within a year."
+                "TITLE": "Phishing (infracțiune virtuală)",
+                "SUMMARY": "Preziceți dacă un link este un link de phishing",
+                "DESCRIPTION": "Phishingul se întâmplă atunci când un site web încearcă să vă păcălească să renunțați la informații sensibile, trimițându-vă un link către un site fals deghizat ca unul de încredere. Puteți utiliza acest lucru pentru a instrui un model de învățare automată care poate prezice dacă o adresă web este un link real sau un link de phishing către un site web fals.",
+                "DETAILS": "Acest set de date de instruire include atribute de cinci sute de adrese web legitime și cinci sute de link-uri de phishing. \ N \ nCâmpul „tip de adresă” este „IP addr” dacă linkul are o adresă IP numerică precum „104.20.74.246” sau „nume DNS” „dacă linkul are o adresă bazată pe nume precum„ machinelearningforkids.co.uk ”. \ nCâmpul „lungime adresă URL” grupează adresele de instruire în funcție de durata acestora. \ nCâmpul „scurtare” este „da” dacă adresa web utilizează un serviciu de scurtare precum TinyURL sau bit.ly sau „nu” dacă nu. \ nCâmpul „include @” este „da” dacă adresa web include un simbol @ sau „nu” dacă nu. \ nCâmpul „număr port” este „standard” dacă adresa web utilizează un număr port standard ca 80 sau 443 sau „non-std” dacă folosește ceva diferit. \ nCâmpul „vârsta domeniului” grupează adresele după cât timp a fost înregistrată adresa web din adresă. \ nCâmpul „redirecționează” grupează adresele de instruire în funcție de numărul de trimiteri ale unui browser web la o altă adresă înainte de a ajunge la o pagină finală. \ nCâmpul „domeniu reg” este „expiră” dacă înregistrarea pentru numele de domeniu al adresei web expiră în decurs de un an."
             },
             "NOUGHTSANDCROSSES": {
-                "SUMMARY": "Learn how to play a game",
-                "DESCRIPTION": "Train a machine learning model to play noughts and crosses, by collecting examples of moves that the computer can use to learn how to predict the best move to make next.",
-                "DETAILS": "This is an empty template to help you collect your own training data. For instructions on how to use it, download 'Noughts and Crosses' from Worksheets."
+                "SUMMARY": "Aflați cum să jucați un joc",
+                "DESCRIPTION": "Instruiți un model de învățare automată pentru a juca X și 0, colectând exemple de mișcări pe care computerul le poate folosi pentru a învăța cum să prezică cea mai bună mișcare pe care să o facă în continuare.",
+                "DETAILS": "Acesta este un șablon gol pentru a vă ajuta să colectați propriile date de antrenament. Pentru instrucțiuni despre modul de utilizare, descărcați „Noughts and Crosses (X & 0)” din foi de lucru."
             },
             "TOPTRUMPS": {
                 "TITLE": "Kings & Queens Top Trumps",
-                "SUMMARY": "Learn how to play a game",
-                "DESCRIPTION": "Train a machine learning model to play a Top Trumps game based on English Kings and Queens, by collecting examples of moves that the computer can use to learn how to predict which value to choose.",
-                "DETAILS": "This is an empty template to help you collect your own training data. For instructions on how to use it, download 'Top Trumps' from Worksheets."
+                "SUMMARY": "Aflați cum să jucați un joc",
+                "DESCRIPTION": "Instruiți un model de învățare automată pentru a juca un joc Top Trumps bazat pe regii și reginele englezești, colectând exemple de mișcări pe care computerul le poate folosi pentru a învăța cum să prezică ce valoare alege.",
+                "DETAILS": "Acesta este un șablon gol pentru a vă ajuta să colectați propriile date de antrenament. Pentru instrucțiuni despre modul de utilizare, descărcați „Top Trumps” din foi de lucru."
             },
             "SONGLYRICS": {
-                "TITLE": "Song lyrics",
-                "SUMMARY": "Recognize types of songs",
-                "DESCRIPTION": "Train a machine learning model to recognize the type of song based on it's lyrics",
-                "DETAILS": "This training dataset includes 140 lines from song lyrics - half from children's songs and half from Top 40 songs. It is a good starting set for training a machine learning model to recognize different uses of language."
+                "TITLE": "Versurile melodiei",
+                "SUMMARY": "Recunoașteți tipurile de cântece",
+                "DESCRIPTION": "Instruiți un model de învățare automată pentru a recunoaște tipul de cântec pe baza versurilor sale",
+                "DETAILS": "Acest set de date de antrenament include 140 de linii din versuri de melodii - jumătate din melodii pentru copii și jumătate din Top 40 melodii. Este un set bun de pornire pentru instruirea unui model de învățare automată pentru a recunoaște diferite utilizări ale limbajului."
             },
             "HANDGESTURES": {
-                "TITLE": "Hand gestures",
-                "SUMMARY": "Recognize hand gestures from finger positions",
-                "DESCRIPTION": "Train a machine learning model to recognize different hand gestures, by collecting examples of the positions of your fingers.",
-                "DETAILS": "This is an empty template to help you collect your own training data. For instructions on how to use it, download 'Hand gestures' from Worksheets."
+                "TITLE": "Gesturi cu mâna",
+                "SUMMARY": "Recunoașteți gesturile mâinilor din pozițiile degetelor",
+                "DESCRIPTION": "Antrenează un model de învățare automată pentru a recunoaște diferite gesturi ale mâinilor, colectând exemple de poziții ale degetelor.",
+                "DETAILS": "Acesta este un șablon gol pentru a vă ajuta să colectați propriile date de antrenament. Pentru instrucțiuni despre modul de utilizare, descărcați „Gesturile mâinilor” din foi de lucru."
             }
         }
     },
     "PROJECT": {
         "TRAIN": {
             "TITLE": "Train",
-            "BODY": "Collect examples of what you want the computer to recognise"
+            "BODY": "Colectați exemple de ceea ce doriți să recunoască computerul"
         },
         "LEARNANDTEST": {
             "TITLE": "Learn &amp; Test",
-            "BODY": "Use the examples to train the computer to recognise"
+            "BODY": "Utilizați exemplele pentru a instrui computerul să recunoască"
         },
         "MAKES": {
             "TITLE": "Make",
-            "BODY": "Use the machine learning model you've trained to make a game or app, in Scratch, Python, or App Inventor",
-            "BODY_SCRATCHONLY": "Use the machine learning model you've trained to make a game or app in Scratch",
-            "BODY_SCRATCHPYTHON": "Use the machine learning model you've trained to make a game or app in Scratch or Python"
+            "BODY": "Utilizați modelul de învățare automată pe care l-ați antrenat pentru a crea un joc sau o aplicație, în Scratch, Python sau App Inventor",
+            "BODY_SCRATCHONLY": "Utilizați modelul de învățare automată pe care l-ați antrenat pentru a crea un joc sau o aplicație în Scratch",
+            "BODY_SCRATCHPYTHON": "Utilizați modelul de învățare automată pe care l-ați antrenat pentru a crea un joc sau o aplicație în Scratch sau Python"
         },
         "SCRATCH": {
             "TITLE": "Scratch",
-            "BODY": "Use the machine learning model you've trained to make a game in Scratch"
+            "BODY": "Utilizați modelul de învățare automată pe care l-ați antrenat pentru a crea un joc în Scratch"
         },
         "PYTHON": {
             "TITLE": "Python",
-            "BODY": "Use the machine learning model you've trained in a Python program"
+            "BODY": "Utilizați modelul de învățare automată pe care l-ați antrenat într-un program Python"
         },
         "APPINVENTOR": {
             "TITLE": "App Inventor",
-            "BODY": "Make a mobile app that uses your machine learning model"
+            "BODY": "Creați o aplicație mobilă care utilizează modelul dvs. de învățare automată"
         },
         "SCRATCH3": {
             "TITLE": "Scratch 3",
-            "BODY": "Use your machine learning model in new version of Scratch"
+            "BODY": "Utilizați modelul de învățare automată în noua versiune a Scratch"
         }
     },
     "TRAINING": {
-        "TITLE": "Training",
-        "ADDLABEL": "Add new label",
-        "CREATEFIRSTLABEL": "Click on the 'plus' button on the right to add your first bucket.",
-        "CROWDSOURCEDEMPTY": "Refresh this page after your teacher has created the training buckets.",
-        "ADDEXAMPLE": "Add example",
+        "TITLE": "Instruire",
+        "ADDLABEL": "Adăugați o etichetă nouă",
+        "CREATEFIRSTLABEL": "Faceți clic pe butonul „plus” din dreapta pentru a adăuga prima cupă.",
+        "CROWDSOURCEDEMPTY": "Reîmprospătați această pagină după ce profesorul dvs. a creat cupele de antrenament.",
+        "ADDEXAMPLE": "Adăugați un exemplu",
         "ADDURL": "www",
         "ADDWEBCAM": "webcam",
-        "ADDDRAWING": "draw",
-        "DRAGIMAGES": "Drag pictures from other browser windows and drop them here",
+        "ADDDRAWING": "deseneaza",
+        "DRAGIMAGES": "Trageți imagini din alte ferestre ale browserului și plasați-le aici",
         "NEWLABEL": {
-            "INTRO": "Enter new label to recognise",
-            "ERROR": "Only use letters and numbers in labels"
+            "INTRO": "Introduceți o etichetă nouă pentru a recunoaște",
+            "ERROR": "Folosiți numai litere și cifre în etichete"
         },
         "NEWEXAMPLE": {
-            "INTRO": "Enter an example of ",
-            "INTROURL": "Enter the URL of a picture that is an example of",
-            "INTRODRAWING": "Draw a new example of",
-            "INTROWEBCAM": "Add new example of",
-            "ERROR": "You're not allowed to use tabs or newlines.",
-            "REQUIRED": "You have to include values for all fields in an example",
-            "PATTERNNUMBER": "This doesn't look like a number",
-            "PATTERNURL": "This needs to be the web address of a picture",
-            "WEBCAMFAIL": "Sorry! We weren't able to get a webcam to work for you.",
-            "WEBCAMERROR": "The message we got from your web browser was:"
+            "INTRO": "Introduceți un exemplu de ",
+            "INTROURL": "Introduceți adresa URL a unei imagini care este un exemplu",
+            "INTRODRAWING": "Desenați un nou exemplu de",
+            "INTROWEBCAM": "Adăugați un nou exemplu de",
+            "ERROR": "Nu ai voie să folosești file sau linii noi.",
+            "REQUIRED": "Trebuie să includeți valori pentru toate câmpurile într-un exemplu",
+            "PATTERNNUMBER": "Nu pare un număr",
+            "PATTERNURL": "Aceasta trebuie să fie adresa web a unei imagini",
+            "WEBCAMFAIL": "Scuze! Nu am reușit să obținem o cameră web care să funcționeze pentru dvs.",
+            "WEBCAMERROR": "Mesajul primit de la browserul dvs. web a fost:"
         },
-        "BACKGROUNDNOISE": "Collecting examples of background noise will help the computer to learn to recognize your sounds"
+        "BACKGROUNDNOISE": "Colectarea de exemple de zgomot de fundal va ajuta computerul să învețe să vă recunoască sunetele"
     },
     "MODELS": {
         "TITLE": "Machine learning models",
-        "TRAIN": "Train new machine learning model",
-        "CANCEL": "Cancel training",
-        "DELETE": "Delete this model",
-        "TEST_CANVAS": "Draw something to test your model with",
-        "TEST_WEBCAM": "Take a photo to test your model with",
+        "TRAIN": "Instruiți un nou model de învățare automată",
+        "CANCEL": "Anulați antrenamentul",
+        "DELETE": "Ștergeți acest model",
+        "TEST_CANVAS": "Desenați ceva cu care să testați modelul",
+        "TEST_WEBCAM": "Faceți o fotografie pentru a vă testa modelul",
         "CHANGETYPE": {
-            "IMAGES": "Change to train models in the cloud",
-            "IMGTFJS": "Change to train models on your computer"
+            "IMAGES": "Schimbați pentru a antrena modele în cloud",
+            "IMGTFJS": "Schimbați pentru a antrena modele pe computer"
         },
         "WHATHAVEYOUDONE": {
-            "TITLE": "What have you done?",
-            "PLEASEWAIT": "This normally takes a few minutes, but can take a little longer if the training computer is very busy.",
-            "FAIL": "Unfortunately, something went wrong.",
+            "TITLE": "Ce ai facut?",
+            "PLEASEWAIT": "În mod normal, durează câteva minute, dar poate dura puțin mai mult dacă computerul de antrenament este foarte ocupat.",
+            "FAIL": "Din păcate, ceva nu a mers bine.",
 
             "TRAINING" : {
                 "CROWDSOURCED" : {
-                    "TEXT" : "Your class is training a machine learning model using the examples of text that you all collected.",
-                    "IMAGES" : "Your class is training a machine learning model using the examples of images that you all collected.",
-                    "NUMBERS" : "Your class is training a machine learning model using the examples of numbers that you all collected.",
-                    "SOUNDS" : "Your class is training a machine learning model using the examples of sounds that you all collected."
+                    "TEXT" : "Clasa dvs. instruiește un model de învățare automată folosind exemplele de text pe care le-ați colectat cu toții.",
+                    "IMAGES" : "Clasa dvs. antrenează un model de învățare automată folosind exemplele de imagini pe care le-ați colectat cu toții.",
+                    "NUMBERS" : "Clasa dvs. instruiește un model de învățare automată folosind exemplele de numere pe care le-ați colectat cu toții.",
+                    "SOUNDS" : "Clasa dvs. antrenează un model de învățare automată folosind exemplele de sunete pe care le-ați colectat cu toții."
                 },
                 "INDIVIDUAL" : {
-                    "TEXT" : "You've started training a machine learning model using the examples of text that you collected.",
-                    "IMAGES" : "You've started training a machine learning model using the examples of images that you collected.",
+                    "TEXT" : "Ați început să instruiți un model de învățare automată folosind exemplele de text pe care le-ați colectat.",
+                    "IMAGES" : "Ați început să instruiți un model de învățare automată folosind exemplele de imagini pe care le-ați colectat.",
                     "NUMBERS" : "You've started training a machine learning model using the examples of numbers that you collected.",
-                    "SOUNDS" : "You've started training a machine learning model using the examples of sounds that you collected."
+                    "SOUNDS" : "Ați început să instruiți un model de învățare automată folosind exemplele de sunete pe care le-ați colectat."
                 },
-                "SINCE": "It's been training since"
+                "SINCE": "De atunci se antrenează"
             },
             "READY" : {
                 "CROWDSOURCED" : {
-                    "TEXT" : "Your class has trained a machine learning model to recognise when text is ",
-                    "IMAGES" : "Your class has trained a machine learning model to recognise when images are ",
-                    "NUMBERS" : "Your class has trained a machine learning model to recognise when numbers are ",
-                    "SOUNDS" : "Your class has trained a machine learning model to recognise when sounds are "
+                    "TEXT" : "Clasa dvs. a instruit un model de învățare automată pentru a recunoaște când este textul ",
+                    "IMAGES" : "Clasa dvs. a instruit un model de învățare automată pentru a recunoaște când sunt imaginile ",
+                    "NUMBERS" : "Clasa dvs. a instruit un model de învățare automată pentru a recunoaște când sunt numerele ",
+                    "SOUNDS" : "Clasa dvs. a pregătit un model de învățare automată pentru a recunoaște când sunetele sunt "
                 },
                 "INDIVIDUAL" : {
-                    "TEXT" : "You have trained a machine learning model to recognise when text is ",
-                    "IMAGES" : "You have trained a machine learning model to recognise when images are ",
-                    "NUMBERS" : "You have trained a machine learning model to recognise when numbers are ",
+                    "TEXT" : "Ați instruit un model de învățare automată pentru a recunoaște când este textul ",
+                    "IMAGES" : "Ați instruit un model de învățare automată pentru a recunoaște când sunt imaginile ",
+                    "NUMBERS" : "Ați instruit un model de învățare automată pentru a recunoaște când sunt numerele ",
                     "SOUNDS" : "You have trained a machine learning model to recognise when sounds are "
                 },
                 "CREATED" : {
-                    "TEACHER" : "Your teacher created the model on ",
-                    "YOU" : "You created the model on "
+                    "TEACHER" : "Profesorul tău a creat modelul pe ",
+                    "YOU" : "Ați creat modelul pe "
                 },
                 "TRAINING" : {
-                    "CLASS" : "Your class has collected: ",
-                    "YOU" : "You have collected: "
+                    "CLASS" : "Clasa dvs. a colectat: ",
+                    "YOU" : "Ați colectat: "
                 }
             },
             "ERROR": {
                 "CROWDSOURCED" : {
                     "CLASS" : {
-                        "TEXT" : "Your teacher tried training a machine learning model using the examples of text that your class collected.",
-                        "IMAGES" : "Your teacher tried training a machine learning model using the examples of images that your class collected.",
-                        "NUMBERS" : "Your teacher tried training a machine learning model using the examples of numbers that your class collected.",
-                        "SOUNDS" : "Your teacher tried training a machine learning model using the examples of sounds that your class collected."
+                        "TEXT" : "Profesorul dvs. a încercat să instruiască un model de învățare automată folosind exemplele de text colectate de clasa dvs.",
+                        "IMAGES" : "Profesorul dvs. a încercat să instruiască un model de învățare automată folosind exemplele de imagini colectate de clasa dvs.",
+                        "NUMBERS" : "Profesorul dvs. a încercat să instruiască un model de învățare automată folosind exemplele de numere colectate de clasa dvs.",
+                        "SOUNDS" : "Profesorul tău a încercat să antreneze un model de învățare automată folosind exemplele de sunete pe care le-a colectat clasa ta."
                     },
                     "YOU" : {
-                        "TEXT" : "You tried training a machine learning model using the examples of text that your class collected.",
-                        "IMAGES" : "You tried training a machine learning model using the examples of images that your class collected.",
-                        "NUMBERS" : "You tried training a machine learning model using the examples of numbers that your class collected.",
-                        "SOUNDS" : "You tried training a machine learning model using the examples of sounds that your class collected."
+                        "TEXT" : "Ați încercat să instruiți un model de învățare automată folosind exemplele de text colectate de clasa dvs.",
+                        "IMAGES" : "Ați încercat să instruiți un model de învățare automată folosind exemplele de imagini colectate de clasa dvs.",
+                        "NUMBERS" : "Ați încercat să instruiți un model de învățare automată folosind exemplele de numere colectate de clasa dvs.",
+                        "SOUNDS" : "Ați încercat să instruiți un model de învățare automată folosind exemplele de sunete pe care le-a colectat clasa dvs."
                     }
                 },
                 "INDIVIDUAL" : {
-                    "TEXT" : "You tried training a machine learning model using the examples of text that you collected.",
-                    "IMAGES" : "You tried training a machine learning model using the examples of images that you collected.",
-                    "NUMBERS" : "You tried training a machine learning model using the examples of numbers that you collected.",
-                    "SOUNDS" : "You tried training a machine learning model using the examples of sounds that you collected."
+                    "TEXT" : "Ați încercat să instruiți un model de învățare automată folosind exemplele de text pe care le-ați colectat.",
+                    "IMAGES" : "Ați încercat să instruiți un model de învățare automată folosind exemplele de imagini pe care le-ați colectat.",
+                    "NUMBERS" : "Ați încercat să instruiți un model de învățare automată folosind exemplele de numere pe care le-ați colectat.",
+                    "SOUNDS" : "Ați încercat să formați un model de învățare automată folosind exemplele de sunete pe care le-ați colectat."
                 }
             },
             "IDLE" : {
                 "NOLABELS" : {
                     "CROWDSOURCED" : {
-                        "TEXT" : "Your class said you want to collect examples of text.",
-                        "IMAGES" : "Your class said you want to collect examples of images.",
-                        "NUMBERS" : "Your class said you want to collect examples of numbers.",
-                        "SOUNDS" : "Your class said you want to collect examples of sounds."
+                        "TEXT" : "Clasa dvs. a spus că doriți să colectați exemple de text.",
+                        "IMAGES" : "Clasa dvs. a spus că doriți să colectați exemple de imagini.",
+                        "NUMBERS" : "Clasa dvs. a spus că doriți să colectați exemple de numere.",
+                        "SOUNDS" : "Clasa dvs. a spus că doriți să colectați exemple de sunete."
                     },
                     "INDIVIDUAL" : {
-                        "TEXT" : "You've said you want to collect examples of text.",
-                        "IMAGES" : "You've said you want to collect examples of images.",
-                        "NUMBERS" : "You've said you want to collect examples of numbers.",
+                        "TEXT" : "Ați spus că doriți să colectați exemple de text.",
+                        "IMAGES" : "Ați spus că doriți să colecționați exemple de imagini.",
+                        "NUMBERS" : "Ați spus că doriți să colectați exemple de numere.",
                         "SOUNDS" : "You've said you want to collect examples of sounds."
                     }
                 },
                 "NODATA" : {
                     "CROWDSOURCED" : {
-                        "TEXT" : "Your class said that you want to collect examples of text for a computer to recognise when text is ",
-                        "IMAGES" : "Your class said that you want to collect examples of images for a computer to recognise when images are ",
-                        "NUMBERS" : "Your class said that you want to collect examples of numbers for a computer to recognise when numbers are ",
+                        "TEXT" : "Clasa dvs. a spus că doriți să colectați exemple de text pentru ca un computer să le recunoască când este textul ",
+                        "IMAGES" : "Clasa dvs. a spus că doriți să colectați exemple de imagini pentru ca un computer să le recunoască când sunt imaginile ",
+                        "NUMBERS" : "Clasa dvs. a spus că doriți să colectați exemple de numere pentru ca un computer să le recunoască când sunt numerele ",
                         "SOUNDS" : "Your class said that you want to collect examples of sounds for a computer to recognise when sounds are "
                     },
                     "INDIVIDUAL" : {
-                        "TEXT" : "You said that you want to collect examples of text for a computer to recognise when text is ",
-                        "IMAGES" : "You said that you want to collect examples of images for a computer to recognise when images are ",
-                        "NUMBERS" : "You said that you want to collect examples of numbers for a computer to recognise when numbers are ",
+                        "TEXT" : "Ați spus că doriți să colectați exemple de text pentru ca un computer să le recunoască când este textul ",
+                        "IMAGES" : "Ați spus că doriți să colectați exemple de imagini pentru ca un computer să le recunoască când sunt imaginile ",
+                        "NUMBERS" : "Ați spus că doriți să colectați exemple de numere pentru ca un computer să le recunoască când sunt numerele ",
                         "SOUNDS" : "You said that you want to collect examples of sounds for a computer to recognise when sounds are "
                     }
                 },
                 "NOEXAMPLES" : {
-                    "CLASS" : "So far, your class haven't collected any examples yet.",
-                    "YOU" : "So far, you haven't collected any examples yet."
+                    "CLASS" : "Până în prezent, clasa dvs. nu a colectat încă niciun exemplu.",
+                    "YOU" : "Până în prezent, nu ați adunat încă niciun exemplu."
                 },
                 "DATA" : {
                     "CROWDSOURCED" : {
-                        "TEXT" : "Your class has collected examples of text for a computer to use to recognise when text is ",
-                        "IMAGES" : "Your class has collected examples of images for a computer to use to recognise when images are ",
-                        "NUMBERS" : "Your class has collected examples of numbers for a computer to use to recognise when numbers are ",
-                        "SOUNDS" : "Your class has collected examples of sounds for a computer to use to recognise when sounds are "
+                        "TEXT" : "Clasa dvs. a colectat exemple de text pe care un computer le poate folosi pentru a recunoaște când este textul ",
+                        "IMAGES" : "Clasa dvs. a colectat exemple de imagini pe care un computer le poate folosi pentru a recunoaște când sunt imaginile ",
+                        "NUMBERS" : "Clasa dvs. a colectat exemple de numere pe care un computer le poate utiliza pentru a recunoaște când sunt numerele",
+                        "SOUNDS" : "Clasa dvs. a colectat exemple de sunete pe care un computer le poate folosi pentru a recunoaște când sunt sunetele "
                     },
                     "INDIVIDUAL" : {
-                        "TEXT" : "You have collected examples of text for a computer to use to recognise when text is ",
-                        "IMAGES" : "You have collected examples of images for a computer to use to recognise when images are ",
-                        "NUMBERS" : "You have collected examples of numbers for a computer to use to recognise when numbers are ",
+                        "TEXT" : "Ați adunat exemple de text pentru a fi utilizate de un computer pentru a le recunoaște când este textul ",
+                        "IMAGES" : "Ați adunat exemple de imagini pe care un computer să le poată utiliza pentru a recunoaște când sunt imaginile ",
+                        "NUMBERS" : "Ați adunat exemple de numere pe care un computer le poate folosi pentru a recunoaște când sunt numerele ",
                         "SOUNDS" : "You have collected examples of sounds for a computer to use to recognise when sounds are "
                     },
                     "COLLECTED" : {
-                        "CLASS" : "They've collected: ",
-                        "YOU" : "You've collected: "
+                        "CLASS" : "Au colectat: ",
+                        "YOU" : "Ați colectat: "
                     }
                 }
             }
         },
         "WHATSNEXT": {
-            "TITLE": "What's next?",
-            "PLEASEWAIT": "You could wait for the machine learning model to finish being trained.",
-            "OFFERQUIZ": "Or, you could try the machine learning quiz below, to check what you've learned.",
-            "FAIL": "The error message from the training computer is shown below. If that makes sense to you, try and fix the problem. Otherwise, it might be worth trying again in case it was just a random error.",
+            "TITLE": "Ce urmeaza?",
+            "PLEASEWAIT": "Ați putea aștepta ca modelul de învățare automată să termine antrenamentul.",
+            "OFFERQUIZ": "Sau, puteți încerca testul de învățare automată de mai jos, pentru a verifica ce ați învățat.",
+            "FAIL": "Mesajul de eroare de pe computerul de antrenament este prezentat mai jos. Dacă acest lucru are sens pentru dvs., încercați să remediați problema. În caz contrar, ar merita să încerci din nou în cazul în care a fost doar o eroare aleatorie.",
 
             "IDLE": {
                 "NOLABELS" : "The next step is to go to the <a href='{{ urls.train }}'>Train</a> page. Add some labels for each of the things that you want to teach the computer to be able to recognise.",

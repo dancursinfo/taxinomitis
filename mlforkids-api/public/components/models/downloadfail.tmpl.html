@@ -1,0 +1,37 @@
+<md-dialog aria-label="Training error" style="max-width: 550px;">
+    <md-toolbar>
+        <div class="md-toolbar-tools">
+            <h2>Your machine learning model could not be trained</h2>
+        </div>
+    </md-toolbar>
+    <md-dialog-content>
+        <div class="md-dialog-content">
+            <md-card-content>
+                <div class="errdetail">
+                    One of the images from your training data could not be downloaded, which
+                    prevented your machine learning model being created.
+                </div>
+                <div class="errdetail">
+                    <img style="max-width: 100%" src="{{ location.url }}">
+                </div>
+                <div class="errdetail wraplongurls" >
+                    {{ location.url }}
+                </div>
+                <div class="errdetail">
+                    {{ errordetails }}
+                </div>
+                <div class="errdetail">
+                    {{ recommendation }}
+                </div>
+                <div class="errdetail" style="font-size: 1.1em;">
+                    <strong>Would you like to delete this image?</strong>
+                </div>
+            </md-card-content>
+        </div>
+    </md-dialog-content>
+    <md-dialog-actions layout="row">
+        <span flex></span>
+        <md-button type="submit" ng-click="confirm()">Yes</md-button>
+        <md-button class="md-raised md-primary" ng-click="cancel()">No</md-button>
+    </md-dialog-actions>
+</md-dialog>

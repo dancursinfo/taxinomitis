@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Machine Learning for Kids</title>
+
+        <meta name="description" content="An educational tool for teaching kids about machine learning, by letting them train a computer to recognise text, pictures, numbers, or sounds, and then make things with it in tools like Scratch."/>
+
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+
+        <link href="/static/bower_components/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" />
+        <link href="/static/bower_components/angular-material/angular-material.min.css" rel="stylesheet" />
+
+        <link rel="icon" href="/static/images/favicon.ico" type="image/x-icon"/>
+
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta charset="utf-8" />
+
+        <%= USE_IN_PROD_ONLY %>
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-293441-6"></script>
+        <%= AFTER_USE_IN_PROD_ONLY %>
+
+        <meta name="twitter:card" content="player" />
+        <meta name="twitter:site" content="@MLforKids" />
+        <meta name="twitter:creator" content="@dalelane" />
+        <meta name="twitter:title" content="Machine Learning for Kids" />
+        <meta name="twitter:description" content="An educational tool for teaching kids about machine learning, by letting them train a computer to recognise text, pictures, numbers, or sounds, and make things with it in Scratch." />
+        <meta name="twitter:image" content="https://machinelearningforkids.co.uk/static/images/machinelearningforkids.gif" />
+        <meta name="twitter:player" content="https://machinelearningforkids.co.uk/twitter-card.html" />
+        <meta name="twitter:player:width" value="506" />
+        <meta name="twitter:player:height" value="285" />
+
+        <meta property="og:url" content="https://machinelearningforkids.co.uk" />
+        <meta property="og:title" content="Machine Learning for Kids" />
+        <meta property="og:description" content="An educational tool for teaching kids about machine learning, by letting them train a computer to recognise text, pictures, numbers, or sounds, and make things with it in Scratch." />
+        <meta property="og:type" content="website" />
+        <meta property="og:image" content="https://machinelearningforkids.co.uk/static/images/machinelearningforkids.gif" />
+        <meta property="og:video" content="https://machinelearningforkids.co.uk/static/images/machinelearningforkids.gif" />
+
+    </head>
+    <body ng-csp="no-unsafe-eval">
+        <div ng-app="app">
+            <nav class="navbar navbar-default">
+                <div class="container-fluid">
+
+                    <div class="navbar-header">
+                        <a class="navbar-brand" ui-sref="welcome"><img src="static/images/mlforkids-logo.svg"></a>
+                        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false">
+                            <span class="sr-only">Toggle navigation</span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                    </div>
+
+                    <div id="navbar" class="navbar-collapse collapse" role="navigation">
+                        <ul class="nav navbar-nav">
+                            <li><a ui-sref="about" data-toggle="collapse" data-target=".navbar-collapse.in" translate="APP.ABOUT"></a></li>
+                            <li ng-if="isAuthenticated && isTeacher"><a ui-sref="teacher" data-toggle="collapse" data-target=".navbar-collapse.in" translate="APP.TEACHER"></a></li>
+                            <li ng-if="isAuthenticated"><a ui-sref="projects" data-toggle="collapse" data-target=".navbar-collapse.in" translate="APP.PROJECTS"></a></li>
+                            <li><a ui-sref="worksheets" data-toggle="collapse" data-target=".navbar-collapse.in" translate="APP.WORKSHEETS"></a></li>
+                            <li><a ui-sref="pretrained" data-toggle="collapse" data-target=".navbar-collapse.in" translate="APP.PRETRAINED"></a></li>
+                            <li><a ui-sref="stories({ storyId: 'intro' })" data-toggle="collapse" data-target=".navbar-collapse.in" translate="APP.STORIES" class="navbarextended"></a></li>
+                            <li><a ui-sref="book" data-toggle="collapse" data-target=".navbar-collapse.in" translate="BOOK.TITLE" class="navbarextended"></a></li>
+                            <li><a ui-sref="news" data-toggle="collapse" data-target=".navbar-collapse.in" translate="APP.NEWS" class="navbarextended"></a></li>
+                            <li><a ui-sref="help" data-toggle="collapse" data-target=".navbar-collapse.in" translate="APP.HELP"></a></li>
+                            <li ng-if="debugLogging"><a href='' data-toggle="collapse" data-target=".navbar-collapse.in" ng-click="loggerService.download()" translate="HELP.LOG"></a></li>
+
+                            <li ng-if="!isAuthenticated" ng-hide="inMaintenanceMode"><a ui-sref="login" data-toggle="collapse" data-target=".navbar-collapse.in" translate="APP.LOGIN"></a></li>
+                            <li ng-if="isAuthenticated"><a ui-sref="welcome" ng-click="authService.logout()" data-toggle="collapse" data-target=".navbar-collapse.in" translate="APP.LOGOUT"></a></li>
+                        </ul>
+
+                        <ul class="nav navbar-nav navbar-right">
+                            <li class="dropdown">
+                                <a class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Language</a>
+                                <ul class="dropdown-menu">
+                                    <li><a href="?lang=en">English</a></li>
+                                    <li><a href="?lang=ar">العربية</a></li>
+                                    <li><a href="?lang=cs">Čeština</a></li>
+                                    <li><a href="?lang=zh-cn">简体中文</a></li>
+                                    <li><a href="?lang=zh-tw">繁体中文</a></li>
+                                    <li><a href="?lang=cy">Cymraeg</a></li>
+                                    <li><a href="?lang=de">Deutsch</a></li>
+                                    <li><a href="?lang=el">Ελληνικά</a></li>
+                                    <li><a href="?lang=fa">فارسی</a></li>
+                                    <li><a href="?lang=fr">Français</a></li>
+                                    <li><a href="?lang=it">Italiano</a></li>
+                                    <li><a href="?lang=ja">日本語</a></li>
+                                    <li><a href="?lang=ko">한국어</a></li>
+                                    <li><a href="?lang=hu">Magyar</a></li>
+                                    <li><a href="?lang=nl-be">Nederlands</a></li>
+                                    <li><a href="?lang=pt-br">Português do Brasil</a></li>
+                                    <li><a href="?lang=ru">Русский</a></li>
+                                    <li><a href="?lang=ro">Română</a></li>
+                                    <li><a href="?lang=si-lk">සිංහල</a></li>
+                                    <li><a href="?lang=es">Español</a></li>
+                                    <li><a href="?lang=sv-se">Svenska</a></li>
+                                    <li><a href="?lang=tr">Türkçe</a></li>
+                                    <li><a href="?lang=uk">Українська</a></li>
+                                    <li role="separator" class="divider"></li>
+                                    <li><a href="https://github.com/IBM/taxinomitis/wiki/Support-for-other-languages" target="_blank">Other...</a></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </div>
+
+                </div>
+            </nav>
+
+            <div ng-if="siteAlert" class="sitealert ng-cloak">
+                <div class="alert alert-dismissible" role="alert" ng-class="{ 'alert-danger' : siteAlert.severity === 'error', 'alert-warning' : siteAlert.severity === 'warning', 'alert-info' : siteAlert.severity === 'info' }">
+                    <button type="button" class="close" data-dismiss="alert" aria-label="Close" ng-click="clearSiteAlert && clearSiteAlert()"><span aria-hidden="true">X</span></button>
+                    {{ siteAlert.message }}
+                    <a ng-if="siteAlert.url" href="{{siteAlert.url}}" target="_blank">More...</a>
+                </div>
+            </div>
+
+            <div ui-view></div>
+        </div>
+
+        <script type="text/javascript" src="/static/bower_components/jquery/dist/jquery.min.js"></script>
+
+        <script type="text/javascript" src="/static/bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+
+        <script type="text/javascript" src="/static/bower_components/angular/angular.min.js"></script>
+        <script type="text/javascript" src="/static/bower_components/angular-translate/angular-translate.min.js"></script>
+        <script type="text/javascript" src="/static/bower_components/angular-translate-loader-static-files/angular-translate-loader-static-files.min.js"></script>
+        <script type="text/javascript" src="/static/bower_components/angular-animate/angular-animate.min.js"></script>
+        <script type="text/javascript" src="/static/bower_components/angular-ui-router/release/angular-ui-router.min.js"></script>
+        <script type="text/javascript" src="/static/bower_components/angular-aria/angular-aria.min.js"></script>
+	    <script type="text/javascript" src="/static/bower_components/angular-material/angular-material.min.js"></script>
+        <script type="text/javascript" src="/static/bower_components/angular-messages/angular-messages.min.js"></script>
+        <script type="text/javascript" src="/static/bower_components/angular-scroll/angular-scroll.min.js"></script>
+        <script type="text/javascript" src="/static/bower_components/angular-sanitize/angular-sanitize.min.js"></script>
+        <script type="text/javascript" src="/static/bower_components/angular-timeago/dist/angular-timeago.min.js"></script>
+
+        <!-- the minified version doesn't close the webcam properly -->
+        <!-- can't be added dynamically as the angular component that depends on it needs it there at load time -->
+        <script type="text/javascript" src="/static/bower_components/webcam/app/scripts/webcam.js"></script>
+
+        <script type="text/javascript" src="/static/bower_components/auth0-lock/build/lock.min.js"></script>
+        <script type="text/javascript" src="/static/bower_components/angular-lock/dist/angular-lock.min.js"></script>
+        <script type="text/javascript" src="/static/bower_components/auth0.js/dist/auth0.min.js"></script>
+        <script type="text/javascript" src="/static/bower_components/angular-jwt/dist/angular-jwt.min.js"></script>
+
+        <!-- now added dynamically when needed using public/components/utils/utils.service.js -->
+        <!-- <script type="text/javascript" src="/static/bower_components/blueimp-canvas-to-blob/js/canvas-to-blob.min.js"></script> -->
+
+        <%= USE_IN_PROD_ONLY %>
+        <script src="https://browser.sentry-cdn.com/7.28.1/bundle.min.js" crossorigin="anonymous"></script>
+        <%= AFTER_USE_IN_PROD_ONLY %>
+
+        <script type="text/javascript" src="/static/app.js?v=86"></script>
+        <script type="text/javascript" src="/static/mlapp.min.js?v=86"></script>
+
+        <link href="/static/style.min.css?v=86" rel="stylesheet" />
+
+        <!-- pregenerated default theme to avoid browsers having to generate it on every page load -->
+        <!--  cf. https://material.angularjs.org/latest/performance/internet-explorer              -->
+        <link href="/static/bower_components/angular-material/angular-material.theme.min.css" rel="stylesheet" media="print" onload="this.media='all'; this.onload=null;">
+
+        <!-- now added dynamically when needed using public/components/utils/utils.service.js -->
+        <!-- <script async src="/static/scratchblocks-v3.1-min.js"></script> -->
+    </body>
+</html>

@@ -1,0 +1,183 @@
+.datasetsintro {
+    font-size: 1.2em;
+    margin: 1em 3em;
+}
+
+.datasets {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+    margin-left: auto;
+    margin-right: auto;
+    padding: 2em;
+}
+
+.datasetcard {
+    border-radius: 1em;
+    background-color: #eee;
+    margin: 14px;
+    padding: 8px;
+
+    display: flex;
+    flex-direction: column;
+}
+
+.datasetcard.fullheightcard {
+    height: 100%;
+}
+
+.datasetcard .title {
+    font-size: 1.6em;
+    font-weight: bold;
+    padding-bottom: 0.5em;
+    cursor: pointer;
+}
+
+.datasetcard .description {
+    font-size: 1em;
+    padding-bottom: 0.5em;
+}
+
+.datasetcard .summary {
+    font-size: 1.1em;
+    padding-bottom: 0.2em;
+    font-weight: 500;
+}
+
+.datasetcard img {
+    margin-top: 1em;
+    width: 100%;
+    border: thin #aaa solid;
+}
+
+.datasetcard .cardmain {
+    display: flex;
+    flex-direction: row;
+
+    flex-grow: 1;
+}
+
+.datasetcard .cardmain .info {
+    margin-right: 8px;
+}
+
+.datasetdialog {
+    min-width: 300px;
+    max-width: 1000px;
+}
+
+.datasetdialog .datasetdescription {
+    font-weight: bold;
+    padding-bottom: 1em;
+}
+.datasetdialog .datasetdetails {
+    white-space: pre-line;
+}
+
+.datasetdialog .datasetratio {
+    border: thin #3f51b5 solid;
+    background-color: #eee;
+    margin: 1.5em;
+    padding: 0.8em 0.8em 0;
+    font-size: 0.9em;
+}
+
+.datasetdialog .datasetratio .datasetinput {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: 1em;
+}
+
+.datasetdialog .datasetratio .datasetinput .datasetinputlabel {
+    font-size: 0.8em;
+    max-width: 100px;
+    text-align: center;
+    margin-left: 1em;
+    margin-right: 1em;
+}
+
+
+/* *************************************/
+/*     ONE column     (vertical cards) */
+/* *************************************/
+@media (max-width: 660px) {
+
+    .datasetcard {
+        width: 100%;
+    }
+    .datasetcard .cardmain {
+        flex-direction: column;
+    }
+}
+
+/* *************************************/
+/*     TWO columns    (vertical cards) */
+/* *************************************/
+@media (min-width: 660px) and (max-width: 960px) {
+
+    .datasetcard {
+        width: calc(50% - 28px);
+    }
+    .datasetcard .cardmain {
+        flex-direction: column;
+    }
+}
+
+/* *************************************/
+/*     THREE columns  (vertical cards) */
+/* *************************************/
+@media (min-width: 960px) {
+
+    .datasetcard {
+        width: calc(33.3% - 28px);
+    }
+    .datasetcard .cardmain {
+        flex-direction: column;
+    }
+}
+
+/* *************************************/
+
+
+
+.datasetcard .cardfooter {
+    display: flex;
+    flex-direction: row;
+    margin-top: 0.6em;
+}
+
+.datasetcard .cardfooter span.heading {
+    font-size: 0.8em;
+    color: #555555;
+}
+
+.datasetcard .cardfooter .projecttype {
+    text-align: right;
+    margin-left: auto;
+}
+
+.datasetcard .download {
+    margin-left: 0.7em;
+    margin-top: auto;
+    font-size: 1.4em;
+}
+
+.datasetcard .download .btn {
+    font-size: 0.8em;
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+.datasetcard .cardfooter .tags {
+    font-size: 0.8em;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-right: auto;
+    max-width: 250px;
+}
+.datasettype {
+    color: #00008b;
+    font-weight: bold;
+}

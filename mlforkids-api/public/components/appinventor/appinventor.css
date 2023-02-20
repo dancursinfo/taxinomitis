@@ -1,0 +1,13 @@
+.appinventorpage .appinvheader {
+    margin: 2em;
+}
+
+.appinventorpage code {
+    font-size: 75%;
+    overflow-wrap: anywhere;
+}
+
+.appinventorpage img {
+    width: 100%;
+    border: thin #c9c9c9 solid;
+}

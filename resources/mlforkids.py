@@ -12,6 +12,7 @@ from tensorflow.keras.layers.experimental.preprocessing import Rescaling
 
 import numpy as np
 import urllib.request, urllib.error, json
+from time import sleep
 
 #
 # Helper class for training an image classifier using training data
@@ -25,10 +26,15 @@ class MLforKidsImageProject:
     # scratchkey is the secret API key that allows access to training
     #  data from a single project on the MLforKids website
     def __init__(self, scratchkey: str):
+        # register custom HTTP handler
+        opener = urllib.request.build_opener(MLforKidsHTTP())
+        urllib.request.install_opener(opener)
+
         print("MLFORKIDS: Downloading information about your machine learning project")
         self.scratchkey = scratchkey
         try:
-            with urllib.request.urlopen("https://machinelearningforkids.co.uk/api/scratch/" + scratchkey + "/train") as url:
+            apiurl = self.__switchToTemporarySite("https://machinelearningforkids.co.uk/api/scratch/" + scratchkey + "/train")
+            with urllib.request.urlopen(apiurl) as url:
                 self.__downloaded_training_images_list = json.loads(url.read().decode())
         except urllib.error.HTTPError:
             raise RuntimeError("Unable to retrieve machine learning project - please check that the key is correct")
@@ -49,10 +55,13 @@ class MLforKidsImageProject:
         projectcachedir = str(os.path.expanduser(os.path.join(cachedir, cachelocation)))
         for trainingitem in self.__downloaded_training_images_list:
             try:
-                tf.keras.utils.get_file(origin=trainingitem["imageurl"],
+                tf.keras.utils.get_file(origin=self.__switchToTemporarySite(trainingitem["imageurl"]),
                                         cache_dir=cachedir,
                                         cache_subdir=os.path.join(cachelocation, trainingitem["label"]),
                                         fname=self.__get_fname(trainingitem))
+                # avoid common rate-limiting errors by pausing
+                #  for a quarter-second between each download
+                sleep(0.25)
             except Exception as downloaderr:
                 print("ERROR: Unable to download training image from", trainingitem["imageurl"])
                 print(downloaderr)
@@ -77,7 +86,7 @@ class MLforKidsImageProject:
             # input layer is resizing all images to save having to do that in a manual pre-processing step
             Rescaling(1/127, input_shape=MLforKidsImageProject.INPUTLAYERSIZE),
             # using an existing pre-trained model as an untrainable main layer
-            hub.KerasLayer("https://tfhub.dev/google/imagenet/mobilenet_v2_140_224/classification/4"),
+            hub.KerasLayer("https://tfhub.dev/google/imagenet/mobilenet_v2_140_224/classification/5"),
             #
             Dropout(rate=0.2),
             #
@@ -87,7 +96,7 @@ class MLforKidsImageProject:
 
         # model compile parameters copied from tutorial at https://www.tensorflow.org/hub/tutorials/tf2_image_retraining
         model.compile(
-            optimizer=tf.keras.optimizers.SGD(lr=0.005, momentum=0.9),
+            optimizer=tf.keras.optimizers.SGD(learning_rate=0.005, momentum=0.9),
             loss=tf.keras.losses.CategoricalCrossentropy(from_logits=True, label_smoothing=0.1),
             metrics=['accuracy'])
 
@@ -104,6 +113,20 @@ class MLforKidsImageProject:
             epochs = 15
         self.ml_model.fit(trainingimagesdata, epochs=epochs, steps_per_epoch=steps_per_epoch, verbose=0)
         print("MLFORKIDS: Model training complete")
+
+
+    # Cloudflare is currently blocking access to the Machine Learning for Kids API
+    #  from non-browser user agents
+    # While I raise this with them to get this unblocked, switching to this
+    #  temporary URL should avoid the problem
+    #
+    # TODO: remove this function as soon as Cloudflare have
+    #  stopped breaking Python apps
+    #
+    def __switchToTemporarySite(self, url):
+        return url.replace("https://machinelearningforkids.co.uk/api/scratch/",
+                           "https://mlforkids-api.j8clybxvjr0.us-south.codeengine.appdomain.cloud/api/scratch/")
+
 
     #
     # public methods
@@ -131,3 +154,17 @@ class MLforKidsImageProject:
             "class_name": self.ml_class_names[topanswer],
             "confidence": 100 * np.max(tf.nn.softmax(topprediction))
         }
+
+
+#
+# Helper class for making HTTP requests to fetch training images
+#  for machine learning projects
+#
+# It adds a user-agent header so that when scraping images from
+#  third-party websites, the Python code correctly identifies
+#  itself, so that appropriate rate-limiting can be applied.
+#
+class MLforKidsHTTP(urllib.request.HTTPHandler):
+    def http_request(self, req):
+        req.headers["User-Agent"] = "MachineLearningForKidsPythonBot/1.0"
+        return super().http_request(req)

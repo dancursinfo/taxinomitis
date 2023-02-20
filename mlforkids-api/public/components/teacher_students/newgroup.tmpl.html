@@ -1,0 +1,35 @@
+<md-dialog aria-label="Create new group">
+    <md-toolbar>
+        <div class="md-toolbar-tools">
+            <h2>Add new group</h2>
+        </div>
+    </md-toolbar>
+    <form ng-cloak name="newGroup" ng-submit="confirm(newgroup)">
+        <md-dialog-content>
+            <div class="md-dialog-content" style="min-width: 300px">
+                <md-card-content>
+                    <div layout="row">
+                        <md-input-container style="min-width: 280px">
+                            <label>Enter a name for a new group:</label>
+                            <input type="text" name="text"
+                                   md-autofocus
+                                   ng-required="true"
+                                   ng-pattern="/^(?!ALL$)(?!ungrouped$)[\w\- ]+$/"
+                                   ng-model="newgroup"
+                                   placeholder="group name"
+                                   md-maxlength="15"></input>
+                            <div ng-messages="newGroup.text.$error" ng-show="newGroup.text.$touched">
+                                <div ng-message="pattern" translate="TEACHER.STUDENTMANAGEMENT.ALPHANUMERIC"></div>
+                            </div>
+                        </md-input-container>
+                    </div>
+                </md-card-content>
+            </div>
+        </md-dialog-content>
+        <md-dialog-actions layout="row">
+            <span flex></span>
+            <md-button aria-label="add" type="submit" class="md-raised md-primary" ng-disabled="newGroup.$invalid" translate="APP.ADD"></md-button>
+            <md-button aria-label="cancel" ng-click="cancel()" translate="APP.CANCEL"></md-button>
+        </md-dialog-actions>
+    </form>
+</md-dialog>

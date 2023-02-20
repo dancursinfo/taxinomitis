@@ -1,0 +1,59 @@
+.studentslist {
+    margin-left: auto;
+    margin-right: auto;
+    min-width: 80%;
+}
+
+.studentslist .odd {
+    background-color: #f4f4f4;
+}
+.studentslist .even {
+    background-color: #e8e8ff;
+}
+
+.studentslistname {
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+.studentslistname.placeholder {
+    font-style: italic;
+    color: #888888;
+    padding-top: 0.9em;
+    padding-bottom: 0.9em;
+}
+
+.studentslistdetail {
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+}
+.studentslistdetail.detail {
+    font-size: 0.9em;
+}
+
+.studentslistactions {
+    padding: 0.4em;
+    text-align: right;
+}
+
+.studentslist.studentslistcontrols {
+    border: thin #1864ab solid;
+    padding: 2em;
+    margin: 35px 1em 0 1em;
+}
+
+.studentslist.studentslistcontrols h5 {
+    margin-top: -5px;
+    margin-bottom: 20px;
+    margin-left: -10px;
+    padding-left: 0;
+    font-weight: bold;
+}
+
+.passworddisplaydialog {
+    font-size: 2em;
+    font-family: monospace;
+    margin-left: 1em;
+    margin-right: 1em;
+    font-weight: bold;
+}

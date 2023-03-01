@@ -63,7 +63,7 @@
         },
         "MENTIONS": {
             "TITLE": "Mentiuni & Media",
-            "DESCRIPTION": "loading Mentiuni &amp; Media de la wakelet.com"
+            "DESCRIPTION": "loading ... Mentiuni &amp; Media de la wakelet.com"
         }
     },
     "LINKS": {
@@ -157,11 +157,11 @@
         "STUDENT": "un elev la școală",
         "FORGOT_TEXT": "Ți-ai uitat numele de utilizator sau parola? Este în regulă - cu toții uităm uneori de lucruri. ",
         "ARE_YOU_A_STUDENT": "Ești elev?",
-        "ARE_YOU_A_STUDENT_INTRO_1": "If your class is already using this tool, ask your teacher or coding group leader to create you an account.",
-        "ARE_YOU_A_STUDENT_INTRO_2": "If your class isn't already using the tool, ask your teacher or coding group leader to get in touch.",
-        "RESET_STUDENT_PASSWORD_1": "If you're a student, we don't have your email address to be able to send you a password-reset email.",
-        "RESET_STUDENT_PASSWORD_2": "That's no problem, though!",
-        "RESET_STUDENT_PASSWORD_3": "Just ask your teacher or group leader who first signed you up. They will be able to reset your password from their Admin page."
+        "ARE_YOU_A_STUDENT_INTRO_1": "Dacă clasa dvs. folosește deja acest instrument, cereți profesorului sau liderului grupului de codificare să vă creeze un cont.",
+        "ARE_YOU_A_STUDENT_INTRO_2": "Dacă clasa dvs. nu folosește deja instrumentul, cereți profesorului sau liderului grupului de codificare să vă contacteze.",
+        "RESET_STUDENT_PASSWORD_1": "Dacă sunteți student, nu avem adresa dvs. de e-mail pentru a vă putea trimite un e-mail de resetare a parolei.",
+        "RESET_STUDENT_PASSWORD_2": "Nu e nicio problemă, totuși!",
+        "RESET_STUDENT_PASSWORD_3": "Întrebați-vă profesorul sau liderul de grup care v-a înscris prima dată. Ei vor putea să vă reseteze parola de pe pagina lor de administrator."
     },
     "SIGNUP": {
         "TEACHER": {
@@ -196,37 +196,37 @@
         "AS": "precum",
         "SHARE": "Partajeaza",
         "UNSHARE": "Anulați partajarea",
-        "WHOLE_CLASS_TITLE": "Crowd-sourced project",
-        "WHOLE_CLASS_NOTES": "This is a whole-class project. All students in your class can use it and add to the training data."
+        "WHOLE_CLASS_TITLE": "Proiect crowd-source",
+        "WHOLE_CLASS_NOTES": "Acesta este un proiect pentru întreaga clasă. Toți elevii din clasa dvs. îl pot folosi și pot adăuga la datele de instruire."
     },
     "NEWPROJECT": {
-        "TITLE": "Start a new machine learning project",
+        "TITLE": "Începeți un nou proiect de învățare automată",
         "PROJECT_NAME": {
-            "TITLE": "Project Name",
-            "NOTES": "Give your project a name to describe what sort of thing you'll try to teach the computer to recognise."
+            "TITLE": "Denumirea proiectului",
+            "NOTES": "Dați un nume proiectului dvs. pentru a descrie ce fel de lucru veți încerca să învățați computerul să recunoască."
         },
         "WHOLE_CLASS_PROJECT": {
-            "TITLE": "Whole-class project?",
-            "NOTES_1": "Tick this if you want your whole class to be able to work on this project together.",
-            "NOTES_2": "This is useful for projects that teach crowd-sourcing as an approach to training machine learning projects."
+            "TITLE": "Proiect pentru întreaga clasă?",
+            "NOTES_1": "Bifați această opțiune dacă doriți ca întreaga clasă să poată lucra împreună la acest proiect.",
+            "NOTES_2": "Acest lucru este util pentru proiectele care predau crowd-sourcing ca o abordare a proiectelor de învățare automată."
         },
         "TYPES": {
-            "LABEL": "Recognising",
-            "NOTES_1": "What type of thing do you want to teach the computer to recognise?",
-            "NOTES_2": "For words, sentences or paragraphs, choose \"text\"",
-            "NOTES_3": "For photos, diagrams and pictures, choose \"images\"",
-            "NOTES_4": "For sets of numbers or multiple choices, choose \"numbers\"",
-            "NOTES_5": "For voices and sounds, choose \"sounds\""
+            "LABEL": "Recunoaștere de",
+            "NOTES_1": "Ce tip de lucru vrei să înveți computerul să recunoască?",
+            "NOTES_2": "Pentru cuvinte, propoziții sau paragrafe, alegeți \"text\"",
+            "NOTES_3": "Pentru fotografii, diagrame și imagini, alegeți \"imagini\"",
+            "NOTES_4": "Pentru seturi de numere sau opțiuni multiple, alegeți \"numere\"",
+            "NOTES_5": "Pentru voci și sunete, alegeți \"sunete\""
         },
         "IMAGEPROJECTS": {
-            "LABEL": "Where to train the model",
+            "LABEL": "Unde să antrenezi modelul",
             "TYPES": {
-                "IMAGES": "in the cloud",
-                "IMGTFJS": "on your computer"
+                "IMAGES": "în nor (cloud)",
+                "IMGTFJS": "pe calculatorul tau"
             },
-            "NOTES_1": "If you choose \"on your computer\" you can only use the model in Scratch.",
-            "NOTES_2": "If you choose \"in the cloud\" you can use the model in Scratch, Python, or App Inventor.",
-            "NOTES_3": "You can change your mind about this at any time."
+            "NOTES_1": "Dacă alegeți \"pe computer\" puteți utiliza modelul doar în Scratch.",
+            "NOTES_2": "Dacă alegeți „în cloud”, puteți utiliza modelul în Scratch, Python sau App Inventor.",
+            "NOTES_3": "Vă puteți răzgândi oricând despre asta."
         },
         "LANGUAGE": {
             "LABEL": "Language",
@@ -1002,18 +1002,18 @@
             "PREFIX": "Train a computer to recognise ",
 
             "TEXT": "text",
-            "IMAGES": "images",
-            "NUMBERS": "numbers",
-            "SOUNDS": "sounds",
-            "FACES": "faces"
+            "IMAGES": "imagini",
+            "NUMBERS": "numere",
+            "SOUNDS": "sounete",
+            "FACES": "fete"
         },
 
         "LEVELS": {
-            "TITLE": "Difficulty:",
-            "ALL": "All difficulties",
-            "BEGINNER": "Beginner projects",
-            "INTERMEDIATE": "Intermediate projects",
-            "ADVANCED": "Advanced projects"
+            "TITLE": "Dificultate:",
+            "ALL": "Toate nivelele de dificultate",
+            "BEGINNER": "Proiecte pentru incepatori",
+            "INTERMEDIATE": "Proiecte pentru intermediari",
+            "ADVANCED": "Proiecte pentru avansati"
         },
 
         "DOWNLOAD": "Download",

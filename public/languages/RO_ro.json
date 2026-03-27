@@ -1,0 +1,2014 @@
+{
+    "APP": {
+        "TITLE": "Machine Learning for Kids",
+
+        "BACK": "Inapoi",
+        "NEXT": "Inainte",
+        "BACKTOPROJECT": "< Inapoi la proiect",
+        "BACKTOMODEL": "< Inapoi la model",
+        "ERROR": "Eroare:",
+        "WARNING": "Atentie:",
+        "INFO": "Info:",
+
+        "ADD": "Adauga",
+        "CANCEL": "Anulează",
+        "DELETE": "Sterge",
+        "EDIT": "Editeaza",
+        "TEST": "Testeaza",
+        "RESET": "Reseteaza",
+
+        "ABOUT": "Despre",
+        "TEACHER": "Profesor",
+        "PROJECTS": "Proiecte",
+        "WORKSHEETS": "Fișe de lucru",
+        "PRETRAINED": "Pre-instruire",
+        "NEWS": "Noutati",
+        "HELP": "Ajutor",
+        "LOGIN": "Autentificare",
+        "LOGOUT": "Deconectați-vă",
+
+        "BETA": "Beta",
+        "INCOMPLETE": "Incomplet!"
+    },
+    "ABOUT": {
+        "TITLE": "Machine Learning for Kids",
+        "IN6SECS": "In 6 secunde...",
+        "IN20MINS": "In 20 minute...",
+        "WHAT": {
+            "TITLE": "Ce?",
+            "BODY": "Acest instrument gratuit introduce învățarea automată oferind experiențe practice pentru instruirea sistemelor de învățare automată și construirea lucrurilor cu ele.  <br/><br/>Oferă un mediu ghidat ușor de utilizat pentru instruirea modelelor de învățare automată pentru a recunoaște textul, numerele, imaginile sau sunetele.  <br/><br/>Acest lucru se bazează pe eforturile existente de a introduce și de a preda codarea copiilor, adăugând aceste modele la platformele de codare educaționale <a href='https://scratch.mit.edu/about' target='_blank'>Scratch</a> și <a href='http://appinventor.mit.edu/' target='_blank'>App Inventor</a>, și ajutând copiii să creeze proiecte și să construiască jocuri cu modelele de învățare automată pe care le antrenează. <br/><br/>Instrumentul a fost disponibil pentru prima dată în 2017 și este utilizat acum de <a href='https://wakelet.com/wake/4d3680cb-2a11-49ab-9180-fcfeced48393' target='_blank'>mii de școli, cluburi de coduri și familii din întreaga lume</a>. <br/><br/>Pentru a afla mai multe, consultați: <a target='_blank' class='btn btn-primary' href='https://machinelearningforkids.co.uk/#!/worksheets'>Fise de lucru</a>"
+        },
+        "WHY": {
+            "TITLE": "De ce?",
+            "BODY": "Învățarea automată este în jurul nostru. Cu toții folosim sisteme de învățare automată în fiecare zi - cum ar fi filtre de spam, motoare de recomandare, servicii de traducere lingvistică, chatbots și asistenți digitali, motoare de căutare și sisteme de detectare a fraudei. <br/><br/>În curând va fi normal ca sistemele de învățare automată să ne conducă mașinile și să ajute medicii să diagnosticheze și să trateze bolile noastre.  <br/><br/>Este important ca copiii să fie conștienți de modul în care funcționează lumea noastră. Cel mai bun mod de a înțelege capacitățile și implicațiile este să poată construi singuri cu această tehnologie.  <br/><br/>Pentru a afla mai multe, citiți:  <a target='_blank' class='btn btn-primary' href='http://dalelane.co.uk/blog/?p=3513'>'Introducing Machine Learning to kids'</a>"
+        },
+        "TECH": {
+            "TITLE": "Tehnologia",
+            "BODY": "Instrumentul este în întregime bazat pe web (doar online) și nu necesită instalări sau configurări complicate pentru a putea fi utilizat. <br/><br/>A fost conceput pentru a fi utilizat în clasă de către școli și cluburi de coding pentru copii, organizat de voluntari, și oferă o pagină de administrare pentru profesori sau lideri de grup pentru a putea gestiona și administra accesul elevilor lor. <br/><br/>Este construit de  <a target='_blank' href='http://dalelane.co.uk/'>Dale Lane</a> folosind API-uri de la <a target='_blank' href='https://www.ibm.com/watson/developer/'>IBM Watson</a>.<br/><br/>Pentru mai multe detalii despre implementare, puteți vedea <a target='_blank' href='https://github.com/IBM/taxinomitis/'>codul sursă activat pe GitHub</a>, sau citiți câteva dintre <a target='_blank' href='http://dalelane.co.uk/blog/?tag=mlforkids-tech'>postările pe blog despre tehnologie </a>. ",
+            "LOGIN": "Pentru a incepe: "
+        },
+        "PRETRAINED": {
+            "BODY": "De asemenea, sunt oferite modele pre-instruite pentru ca elevii să le poată folosi în proiectele lor. Aceste modele avansate permit proiectelor care altfel ar putea fi prea complexe pentru ca studenții să se poată instrui singuri și oferă informații utile practice asupra unora dintre celelalte lucruri pe care le poate face învățarea automată. "
+        },
+        "FURTHER": {
+            "TITLE": "Învățarea ulterioară",
+            "BODY": "Machine Learning for Kids este un instrument util pentru introducerea copiilor în modul în care sunt instruiți sistemele ML, modul în care sunt utilizate și unele dintre implicațiile lumii reale ale aplicațiilor AI.  <br/><br/>Pentru resurse suplimentare de predare și învățare, inclusiv predarea internelor sistemelor ML, vă rugăm să consultați: "
+        }
+    },
+    "NEWS": {
+        "TITLE": "Noutati",
+        "UPDATES": {
+            "TITLE": "Noutati & Actualizări",
+            "DESCRIPTION": "Noutati si actualizari de la @MLforKids"
+        },
+        "MENTIONS": {
+            "TITLE": "Mențiuni & Media",
+            "DESCRIPTION": "se încarcă Mențiunile &amp; Media de pe wakelet.com"
+        }
+    },
+    "LINKS": {
+        "TITLE": "Resurse educationale IA pentru copii",
+        "INTRO": "Aceasta pagina contine o lista cu viitoarele intrumente si resurse ce explica IA (inteligenta artificiala) copiilor.",
+        "ECRAFT2LEARN": {
+            "BODY1": "<a href='http://users.ox.ac.uk/~oucs0030/' target='_blank'>Ken Kahn</a> a creat resurse care permit începătorilor să creeze programe de IA în Snap! (un mediu de programare vizuală similar cu Scratch).",
+            "BODY2": "În timp ce eu m-am concentrat pe explicarea modului în care sistemele de IA sunt instruite și se comportă (și implicațiile din lumea reală), eCraft2Learn are resurse fantastice care aprofundează modul în care funcționează sistemele ML.",
+            "BODY3": "Proiectul <a href='https://ecraft2learn.github.io/ai/AI-Teacher-Guide/chapter-6.html' target='_blank'>rețea neuronală X și 0</a> este deosebit de fascinant, permițând elevilor să experimenteze cu hiperparametrii din Snap."
+        },
+        "STEMLEARNING": {
+            "BODY1": "STEM Learning și Departamentul pentru Afaceri, Energie și Strategie Industrială din Regatul Unit au creat resurse pentru predarea principiilor inteligenței artificiale.",
+            "BODY2": "Aceste resurse includ proiecte <em>Machine Learning for Kids</em>, completate cu note de predare, materiale de prezentare, cartonașe și activități practice „deconectate”."
+        },
+        "RASPBERRYPI": {
+            "BODY1": "Fundația Raspberry Pi oferă resurse pentru Cluburile de Cod, cu instrucțiuni pas cu pas pentru o varietate de proiecte creative.",
+            "BODY2": "Traseul lor de învățare automată include o varietate de proiecte din <em>Machine Learning for Kids</em>."
+        },
+        "APPSFORGOOD": {
+            "BODY1": "Apps for Good este o organizație non-profit din Marea Britanie care creează resurse pentru predarea disciplinelor tehnologice, pe care le pune la dispoziția școlilor în mod gratuit.",
+            "BODY2": "Cursul lor de Învățare Automată folosește <em>Machine Learning for Kids</em> și îl completează cu o serie de materiale suplimentare, cum ar fi planuri de lucru, planuri de lecții, caiete de lucru pentru elevi, prezentări și multe altele. Facilitează școlilor livrarea lecțiilor de ML care pun exercițiile de codare în context."
+        },
+        "AIFAMILYCHALLENGE": {
+            "BODY1": "Provocarea AI în Familie este un program educațional gratuit, practic, de IA pentru familii. Ei folosesc <em>Machine Learning for Kids</em> și îl completează cu mult sprijin suplimentar, cum ar fi antrenori și mentori tehnici, un plan de lecție structurat și videoclipuri de sprijin.",
+            "BODY2": "Programul se bazează pe o competiție care provoacă copiii să își imagineze propriile idei de proiecte IA, cu sprijinul familiilor lor și al mentorilor tehnici."
+        },
+        "MAGENTADEMOS": {
+            "BODY1": "Jucării online care demonstrează diferite aspecte ale învățării automate, folosind TensorFlow.js"
+        },
+        "AIINSCHOOLS": {
+            "BODY1": "Programul AIinSchools oferă un plan de lecție gratuit pentru profesori pentru a explica IA elevilor de clasa a IX-a (13-14 ani).",
+            "BODY2": "Include atât activități de clasă „deconectate”, cât și activități de programare pentru antrenarea rețelelor neuronale pe GPU-uri care rulează pe AWS."
+        },
+        "TEENSINAI": {
+            "BODY1": "Teens in AI folosește o combinație de hackatoane, acceleratoare și tabere pentru a sprijini tinerii cu vârste cuprinse între 12 și 18 ani să exploreze IA."
+        },
+        "AI4ALL": {
+            "BODY1": "AI4ALL organizează tabere de vară pentru elevii de liceu din SUA, oferind o introducere tehnică detaliată în IA."
+        },
+        "CALYPSO": {
+            "BODY1": "Elevii cu roboți Cozmo programabili pot folosi cadrul de programare Calypso pentru a experimenta IA într-un mod practic, experimentând cu tehnici precum vederea computerizată și recunoașterea vocală."
+        },
+        "AIINABOX": {
+            "BODY1": "AI-in-a-Box este un pachet de roboți, accesorii și resurse de predare. Kitul poate fi folosit pentru a preda proiecte care acoperă subiecte precum recunoașterea vizuală, recunoașterea facială, generarea și recunoașterea vocală."
+        },
+        "GOOGLEEXPERIMENTS": {
+            "BODY1": "Experimente online simple pentru a începe explorarea învățării automate, prin imagini, desene, limbaj și muzică."
+        },
+        "VIDEOS": {
+            "TITLE": "Videoclipuri",
+            "INTRO": "Am găsit, de asemenea, aceste videoclipuri utile atunci când introduc conceptele de IA:"
+        }
+    },
+    "ERRORS": {
+        "PAGENOTFOUND": "Pagina nu a fost gasita",
+        "NOTLOGGEDIN": "Nu v-ați conectat",
+
+        "MISSINGPROJECTID": "ID-ul proiectului lipsește. Mergi Inapoi la ",
+        "IFPERSISTENT": "Dacă se întâmplă acest lucru, vă rog ",
+
+        "LETMEKNOW": "să-mi dai de veste"
+    },
+    "WELCOME": {
+        "TITLE": "Învață un computer să joace un joc",
+        "GET_STARTED": "Incepe",
+        "LEARN_MORE": "Află mai multe",
+        "ADMIN_LABEL": "Du-te la <strong>Pagina de administrare</strong>",
+        "PROJECT_LABEL": "Du-te la <strong>Proiecte</strong>",
+        "STEP_1_TEXT": "Colectați exemple de lucruri pe care doriți să le puteți recunoaște",
+        "STEP_2_TEXT": "Folosiți exemplele pentru a instrui un computer pentru a le putea recunoaște",
+        "STEP_3_TEXT": "Creați un joc în Scratch care utilizează capacitatea computerului de a le recunoaște"
+    },
+    "LOGIN": {
+        "TITLE": "Începeți cu machine learning",
+        "WELCOME": "Bine ati venit! Este minunat că vă interesează să aveți un cont de la care să vă conectați la Machine Learning for Kids.",
+        "ALREADY_LOGGEDIN": "<strong>Info: </strong> Deja logat",
+        "ERROR": "<strong>Eroare:</strong> {{ message }}",
+        "ERROR_HELP": "Dacă acest lucru se întâmplă în continuare, vă rugăm să vizitați secțiunea noastră de ajutor",
+        "FIRST_TIME": "Prima dată aici?",
+        "SIGN_UP": "Inscrie-te",
+        "WHY_REGISTER": "De ce să te înregistrezi?",
+        "WHY_REGISTER_INTRO_1": "<strong>Nu trebuie să vă înregistrați sau să vă creați un cont</strong> petru a folosi Machine Learning for Kids, dar dacă o faci, deblochează câteva caracteristici ale instrumentului.",
+        "WHY_REGISTER_INTRO_2": "Grila de mai jos explică diferența în ceea ce puteți face dacă faceți clic \"Încercați acum\" fără a vă înregistra și ce puteți face dacă vă creați un cont cu care să vă conectați.",
+        "ALREADY_REGISTERED": "Deja înregistrat?",
+        "LOGIN": "Autentificare",
+        "FORGOT_DETAILS": "Ți-ai uitat detaliile?",
+        "TRY_TITLE": "Încercați fără a vă înregistra",
+        "TRY_NOW": "Încercați acum",
+        "WHO_YOU": "Cine ești tu?",
+        "TEACHER": "Un părinte, profesor sau lider al unui club de codare",
+        "STUDENT": "un elev la școală",
+        "FORGOT_TEXT": "Ți-ai uitat numele de utilizator sau parola? Este în regulă - cu toții uităm uneori de lucruri. ",
+        "ARE_YOU_A_STUDENT": "Ești elev?",
+        "ARE_YOU_A_STUDENT_INTRO_1": "Dacă clasa ta folosește deja acest instrument, roagă profesorul sau liderul clubului de codare să îți creeze un cont.",
+        "ARE_YOU_A_STUDENT_INTRO_2": "Dacă clasa ta nu folosește încă instrumentul, roagă profesorul sau liderul clubului de codare să ia legătura.",
+        "RESET_STUDENT_PASSWORD_1": "Dacă ești elev, nu avem adresa ta de e-mail pentru a-ți putea trimite un e-mail de resetare a parolei.",
+        "RESET_STUDENT_PASSWORD_2": "Nu este nicio problemă, însă!",
+        "RESET_STUDENT_PASSWORD_3": "Întreabă-l pe profesorul sau liderul de grup care te-a înscris inițial. Aceștia vor putea reseta parola de la pagina lor de Administrare."
+    },
+    "SIGNUP": {
+        "TEACHER": {
+            "TITLE": "Ești profesor sau lider al unui club de codare?",
+            "INFO1": "Dacă dorești acces pentru elevii tăi, te rugăm să creezi un cont de clasă mai jos.",
+            "INFO2": "Există două tipuri de cont de clasă - în funcție de cine îl configurează."
+        },
+        "UNMANAGED": {
+            "TITLE": "Creează un cont de clasă <strong>neadministrat</strong>",
+            "INTRO": "Dacă ești de acord să configurezi și să administrezi singur contul clasei, o poți face acum!",
+            "LISTINTRO": "Va trebui să:",
+            "LIST_CREATEACCOUNT": "Creezi un cont gratuit pe IBM Cloud",
+            "LIST_CREATEAPIKEYS": "Creezi chei API pentru serviciile Watson Cloud necesare pentru antrenarea modelelor de învățare automată",
+            "LIST_ENTERAPIKEYS": "Introduci cheile API în acest instrument Machine Learning for Kids",
+            "HELP": "Instrucțiuni pas cu pas (cu capturi de ecran) sunt disponibile pentru toate acestea."
+        },
+        "MANAGED": {
+            "TITLE": "Creează un cont de clasă <strong>administrat</strong>",
+            "INTRO": "Dacă dorești ca Dale să configureze contul clasei, folosește butonul de mai jos pentru a trimite un e-mail cu următoarele informații:",
+            "LIST_NUMBEROFSTUDENTS": "Aproximativ câte conturi de elevi vei avea nevoie",
+            "LIST_NAMEOFSCHOOL": "Numele școlii sau al grupului de codare pentru care este contul",
+            "RESTRICTIONS": "Această ofertă este disponibilă numai pentru școli și cluburi de codare pentru elevi non-profit.",
+            "EMAIL": "Email"
+        }
+    },
+    "PROJECTS": {
+        "TITLE": "Proiectele dvs. de învățare automată",
+        "ADDNEWPROJECT": "Adăugați un proiect nou",
+        "COPYTEMPLATE": "Copiați șablonul",
+        "CREATEFIRSTPROJECT": "Faceți clic pe butonul „plus” din dreapta pentru a crea primul dvs. proiect.",
+        "RECOGNISING": "Recunoscând",
+        "AS": "precum",
+        "SHARE": "Partajeaza",
+        "UNSHARE": "Anulați partajarea",
+        "WHOLE_CLASS_TITLE": "Proiect colectiv (crowd-sourced)",
+        "WHOLE_CLASS_NOTES": "Acesta este un proiect de întreagă clasă. Toți elevii din clasa ta îl pot folosi și adăuga date de instruire."
+    },
+    "NEWPROJECT": {
+        "TITLE": "Începe un nou proiect de învățare automată",
+        "PROJECT_NAME": {
+            "TITLE": "Numele proiectului",
+            "NOTES": "Dă un nume proiectului tău care să descrie ce fel de lucru vei încerca să înveți computerul să recunoască."
+        },
+        "WHOLE_CLASS_PROJECT": {
+            "TITLE": "Proiect pentru întreaga clasă?",
+            "NOTES_1": "Bifează această opțiune dacă vrei ca întreaga clasă să poată lucra împreună la acest proiect.",
+            "NOTES_2": "Acest lucru este util pentru proiectele care predau externalizarea colectivă (crowd-sourcing) ca abordare pentru antrenarea proiectelor de învățare automată."
+        },
+        "TYPES": {
+            "LABEL": "Recunoașterea",
+            "NOTES_1": "Ce tip de lucru dorești să înveți computerul să recunoască?",
+            "NOTES_2": "Pentru cuvinte, propoziții sau paragrafe, alege „text”",
+            "NOTES_3": "Pentru fotografii, diagrame și imagini, alege „imagini”",
+            "NOTES_4": "Pentru seturi de numere sau opțiuni multiple, alege „numere”",
+            "NOTES_5": "Pentru voci și sunete, alege „sunete”"
+        },
+        "IMAGEPROJECTS": {
+            "LABEL": "Unde să antrenezi modelul",
+            "TYPES": {
+                "IMAGES": "în cloud",
+                "IMGTFJS": "pe computerul tău"
+            },
+            "NOTES_1": "Dacă alegi „pe computerul tău”, poți folosi modelul doar în Scratch.",
+            "NOTES_2": "Dacă alegi „în cloud”, poți folosi modelul în Scratch, Python sau App Inventor.",
+            "NOTES_3": "Poți schimba această opțiune oricând."
+        },
+        "LANGUAGE": {
+            "LABEL": "Limba",
+            "NOTES": "În ce limbă va fi textul în acest proiect?"
+        },
+        "FIELDS": {
+            "TYPE": {
+                "TITLE": "Tipul valorii",
+                "NUMBER": "număr",
+                "MULTIPLE_CHOICE": "cu opțiuni multiple"
+            },
+            "CHOICES": {
+                "TITLE": "Opțiuni:",
+                "LABEL": "adaugă o opțiune"
+            },
+            "NEWFIELD": {
+                "DESCRIBE_FIELD": "Dă un nume acestui câmp pentru a descrie valoarea",
+                "MULTICHOICE": "Dacă poate fi descris ca alegerea dintre câteva opțiuni, alege „cu opțiuni multiple”.",
+                "ADD_FIRST_FIELD": "Scrie o opțiune de utilizat în lista cu opțiuni multiple, apoi apasă Enter.",
+                "ADD_ANOTHER_FIELD": "Scrie o altă opțiune de utilizat în lista cu opțiuni multiple, apoi apasă Enter."
+            },
+            "NEWVALUE": {
+                "ADD_FIRST_VALUE": "Începe să descrii valorile pe care le vei include cu fiecare exemplu pentru a antrena computerul făcând clic pe butonul 'Adaugă o valoare'.",
+                "VALUES_LIMIT": "Nu ai voie să ai mai mult de 10 valori într-un proiect."
+            }
+        },
+        "CREATE": "Creează",
+        "ERRORS": {
+            "REQUIRED": "Acest câmp este obligatoriu!",
+            "TOOLONG": "Este prea lung!"
+        },
+        "WARNINGS": {
+            "MLCRED-TEXT-NOKEYS": "Te rugăm să îi spui profesorului tău că va trebui să adauge o „cheie API Watson Assistant” la clasa ta pentru a-ți permite să antrenezi modelul de învățare automată pentru noul tău proiect",
+            "MLCRED-IMG-NOKEYS": "Te rugăm să îi spui profesorului tău că va trebui să adauge o „cheie API Visual Recognition” la clasa ta pentru a-ți permite să antrenezi modelul de învățare automată pentru noul tău proiect",
+            "MLCRED-TEXT-INVALID": "Ar putea exista o problemă cu cheile API IBM Cloud de care vei avea nevoie pentru a antrena un model de învățare automată pentru noul tău proiect. Roagă profesorul să verifice „cheile API Watson Assistant” din clasa ta.",
+            "MLCRED-IMG-INVALID": "Ar putea exista o problemă cu cheile API IBM Cloud de care vei avea nevoie pentru a antrena un model de învățare automată pentru noul tău proiect. Roagă profesorul să verifice „cheile API Visual Recognition” din clasa ta."
+        }
+    },
+    "DATASETS": {
+        "TITLE": "Copiază un șablon de proiect de învățare automată",
+        "INTRO": {
+            "INTRO_1": "Poți crea un nou proiect de învățare automată pe baza unuia dintre aceste șabloane.",
+            "INTRO_2": "Fiecare include un set de date de instruire care au fost colectate pentru tine pentru a te ajuta să începi rapid. ",
+            "INTRO_3": "Vei putea să faci modificări datelor de instruire dacă dorești sau poți merge direct la antrenarea unui model de învățare automată cu ele. "
+        },
+        "IMPORT": "Importă",
+        "MORE": {
+            "TITLE": "Alte seturi de date",
+            "SUMMARY": "Ce alte seturi de date ți-ar plăcea să vezi?",
+            "DESCRIPTION": "Ai o idee pentru un set de date pe care ți-ar plăcea să îl vezi disponibil aici? Sau ai un set de date pe care ai dori să îl contribui? Te rugăm să ne contactezi!",
+            "MOREINFO": "Mai mult..."
+        },
+        "DATA": {
+            "TITANIC": {
+                "TITLE": "Supraviețuitori Titanic",
+                "SUMMARY": "Prezice supraviețuirea pe Titanic",
+                "DESCRIPTION": "Pe 15 aprilie 1912, RMS Titanic a lovit un aisberg și s-a scufundat, ucigând peste 1500 de pasageri și membri ai echipajului. Acest proiect include date personale despre sute de pasageri. Le poți folosi pentru a antrena un model de învățare automată care, dacă îi dai o descriere a unui pasager, poate învăța să prezică probabilitatea ca acesta să fi supraviețuit. ",
+                "DETAILS": "Câmpul 'clasa biletului' este un număr care indică tipul de bilet pentru pasager: clasa întâi (1), clasa a doua (2) sau clasa a treia (3). \nCâmpul 'gen' indică dacă pasagerul era 'bărbat' sau 'femeie'. \nCâmpul 'vârsta' este vârsta pasagerului. \nCâmpul 'frați/sot' este numărul de frați sau surori (frați) pe care pasagerul îi avea la bord dacă era copil, sau numărul de soți sau soții (soți) pe care pasagerul îi avea la bord dacă era adult. \nCâmpul 'părinți/copii' este numărul de părinți pe care pasagerul îi avea la bord dacă era copil, sau numărul de copii pe care pasagerul îi avea la bord dacă era adult. \nCâmpul 'tarif bilet' este cât au plătit pentru bilet. \nCâmpul 'îmbarcare' este locul de unde s-au îmbarcat pe Titanic, fie Cherbourg, Queenstown sau Southampton."
+            },
+            "CATSANDDOGS": {
+                "TITLE": "Pisici și Câini",
+                "SUMMARY": "Recunoaște fotografii cu pisici vs câini",
+                "DESCRIPTION": "Antrenarea unui model de învățare automată pentru a recunoaște fotografii cu pisici și câini este o introducere simplă bună în recunoașterea imaginilor.",
+                "DETAILS": "Acest set de date de instruire de fotografii de la Wikimedia Commons este un set de pornire bun pentru a-ți construi propriile date de instruire cu fotografii cu animale"
+            },
+            "UKNEWSPAPERS": {
+                "TITLE": "Titluri de ziare din Marea Britanie",
+                "SUMMARY": "Recunoaște utilizarea limbajului în titluri",
+                "DESCRIPTION": "Diferite ziare folosesc limbajul în moduri diferite. Acest proiect include titlul principal de pe prima pagină din patru ziare britanice. Poți folosi acest lucru pentru a antrena un model de învățare automată care poate învăța să prezică cel mai probabil ziarul din care provine un titlu nou. ",
+                "DETAILS": "Acest set de date de instruire include titluri de la Daily Mail, Daily Telegraph, Independent și The Guardian"
+            },
+            "PHISHING": {
+                "TITLE": "Phishing",
+                "SUMMARY": "Prezice dacă un link este un link de phishing",
+                "DESCRIPTION": "Phishing-ul este atunci când un site web încearcă să te păcălească să renunți la informații sensibile, trimițându-ți un link către un site web fals deghizat ca unul de încredere. Poți folosi acest lucru pentru a antrena un model de învățare automată care poate prezice dacă o adresă web este un link real sau un link de phishing către un site web fals.",
+                "DETAILS": "Acest set de date de instruire include atribute a cinci sute de adrese web legitime și cinci sute de link-uri de phishing.\n\nCâmpul 'tip adresă' este 'adresă IP' dacă link-ul are o adresă IP numerică precum '104.20.74.246' sau 'nume DNS' dacă link-ul are o adresă bazată pe nume precum 'machinelearningforkids.co.uk'. \nCâmpul 'lungime URL' grupează adresele de instruire după cât de lungi sunt. \nCâmpul 'scurtare' este 'da' dacă adresa web folosește un serviciu de scurtare precum TinyURL sau bit.ly, sau 'nu' dacă nu. \nCâmpul 'include @' este 'da' dacă adresa web include un simbol @, sau 'nu' dacă nu. \nCâmpul 'număr port' este 'standard' dacă adresa web folosește un număr de port standard precum 80 sau 443, sau 'non-standard' dacă folosește altceva. \nCâmpul 'vârsta domeniu' grupează adresele după cât timp în urmă a fost înregistrată adresa web din adresă. \nCâmpul 'redirecționări' grupează adresele de instruire după numărul de ori în care un browser web este trimis la o altă adresă înainte de a ajunge la o pagină finală. \nCâmpul 'înregistrare domeniu' este 'expiră' dacă înregistrarea pentru numele de domeniu al adresei web expiră în termen de un an."
+            },
+            "NOUGHTSANDCROSSES": {
+                "SUMMARY": "Învață cum să joci un joc",
+                "DESCRIPTION": "Antrenează un model de învățare automată să joace X și 0, colectând exemple de mișcări pe care computerul le poate folosi pentru a învăța cum să prezică cea mai bună mișcare de făcut în continuare.",
+                "DETAILS": "Acesta este un șablon gol pentru a te ajuta să îți colectezi propriile date de instruire. Pentru instrucțiuni despre cum să îl folosești, descarcă 'X și 0' din Fișe de lucru."
+            },
+            "TOPTRUMPS": {
+                "TITLE": "Top Trumps cu Regi și Regine",
+                "SUMMARY": "Învață cum să joci un joc",
+                "DESCRIPTION": "Antrenează un model de învățare automată să joace un joc Top Trumps bazat pe Regi și Regine ale Angliei, colectând exemple de mișcări pe care computerul le poate folosi pentru a învăța cum să prezică ce valoare să aleagă.",
+                "DETAILS": "Acesta este un șablon gol pentru a te ajuta să îți colectezi propriile date de instruire. Pentru instrucțiuni despre cum să îl folosești, descarcă 'Top Trumps' din Fișe de lucru."
+            },
+            "SONGLYRICS": {
+                "TITLE": "Versuri de cântece",
+                "SUMMARY": "Recunoaște tipurile de cântece",
+                "DESCRIPTION": "Antrenează un model de învățare automată să recunoască tipul de cântec pe baza versurilor sale",
+                "DETAILS": "Acest set de date de instruire include 140 de rânduri din versuri de cântece - jumătate din cântece pentru copii și jumătate din cântecele din Top 40. Este un set de pornire bun pentru antrenarea unui model de învățare automată pentru a recunoaște diferite utilizări ale limbajului."
+            },
+            "HANDGESTURES": {
+                "TITLE": "Gesturi cu mâna",
+                "SUMMARY": "Recunoaște gesturi cu mâna din pozițiile degetelor",
+                "DESCRIPTION": "Antrenează un model de învățare automată să recunoască diferite gesturi cu mâna, colectând exemple de poziții ale degetelor tale.",
+                "DETAILS": "Acesta este un șablon gol pentru a te ajuta să îți colectezi propriile date de instruire. Pentru instrucțiuni despre cum să îl folosești, descarcă 'Gesturi cu mâna' din Fișe de lucru."
+            }
+        }
+    },
+    "PROJECT": {
+        "TRAIN": {
+            "TITLE": "Antrenează",
+            "BODY": "Colectează exemple cu ceea ce vrei ca computerul să recunoască"
+        },
+        "LEARNANDTEST": {
+            "TITLE": "Învață și testează",
+            "BODY": "Folosește exemplele pentru a antrena computerul să recunoască"
+        },
+        "MAKES": {
+            "TITLE": "Creează",
+            "BODY": "Folosește modelul de învățare automată pe care l-ai antrenat pentru a face un joc sau o aplicație, în Scratch, Python sau App Inventor",
+            "BODY_SCRATCHONLY": "Folosește modelul de învățare automată pe care l-ai antrenat pentru a face un joc sau o aplicație în Scratch",
+            "BODY_SCRATCHPYTHON": "Folosește modelul de învățare automată pe care l-ai antrenat pentru a face un joc sau o aplicație în Scratch sau Python"
+        },
+        "SCRATCH": {
+            "TITLE": "Scratch",
+            "BODY": "Folosește modelul de învățare automată pe care l-ai antrenat pentru a face un joc în Scratch"
+        },
+        "PYTHON": {
+            "TITLE": "Python",
+            "BODY": "Folosește modelul de învățare automată pe care l-ai antrenat într-un program Python"
+        },
+        "APPINVENTOR": {
+            "TITLE": "App Inventor",
+            "BODY": "Fă o aplicație mobilă care folosește modelul tău de învățare automată"
+        },
+        "SCRATCH3": {
+            "TITLE": "Scratch 3",
+            "BODY": "Folosește modelul tău de învățare automată în noua versiune de Scratch"
+        }
+    },
+    "TRAINING": {
+        "TITLE": "Antrenare",
+        "ADDLABEL": "Adaugă etichetă nouă",
+        "CREATEFIRSTLABEL": "Faceți clic pe butonul „plus” din dreapta pentru a adăuga primul container.",
+        "CROWDSOURCEDEMPTY": "Reîmprospătează această pagină după ce profesorul tău a creat containerele de antrenare.",
+        "ADDEXAMPLE": "Adaugă exemplu",
+        "ADDURL": "www",
+        "ADDWEBCAM": "cameră web",
+        "ADDDRAWING": "desenează",
+        "DRAGIMAGES": "Trage imagini din alte ferestre de browser și plasează-le aici",
+        "NEWLABEL": {
+            "INTRO": "Introdu o etichetă nouă de recunoscut",
+            "ERROR": "Folosește numai litere și cifre în etichete"
+        },
+        "NEWEXAMPLE": {
+            "INTRO": "Introdu un exemplu de ",
+            "INTROURL": "Introdu URL-ul unei imagini care este un exemplu de",
+            "INTRODRAWING": "Desenează un nou exemplu de",
+            "INTROWEBCAM": "Adaugă un nou exemplu de",
+            "ERROR": "Nu ai voie să folosești tab-uri sau linii noi.",
+            "REQUIRED": "Trebuie să incluzi valori pentru toate câmpurile dintr-un exemplu",
+            "PATTERNNUMBER": "Nu pare a fi un număr",
+            "PATTERNURL": "Aceasta trebuie să fie adresa web a unei imagini",
+            "WEBCAMFAIL": "Ne pare rău! Nu am reușit să facem să funcționeze o cameră web pentru tine.",
+            "WEBCAMERROR": "Mesajul pe care l-am primit de la browserul tău web a fost:"
+        },
+        "BACKGROUNDNOISE": "Colectarea de exemple de zgomot de fundal va ajuta computerul să învețe să îți recunoască sunetele"
+    },
+    "MODELS": {
+        "TITLE": "Modele de învățare automată",
+        "TRAIN": "Antrenează un nou model de învățare automată",
+        "CANCEL": "Anulează antrenarea",
+        "DELETE": "Șterge acest model",
+        "TEST_CANVAS": "Desenează ceva pentru a-ți testa modelul",
+        "TEST_WEBCAM": "Fă o fotografie pentru a-ți testa modelul",
+        "CHANGETYPE": {
+            "IMAGES": "Schimbă pentru a antrena modele în cloud",
+            "IMGTFJS": "Schimbă pentru a antrena modele pe computerul tău"
+        },
+        "WHATHAVEYOUDONE": {
+            "TITLE": "Ce ai făcut?",
+            "PLEASEWAIT": "De obicei, durează câteva minute, dar poate dura puțin mai mult dacă computerul de antrenare este foarte ocupat.",
+            "FAIL": "Din păcate, ceva nu a funcționat.",
+
+            "TRAINING" : {
+                "CROWDSOURCED" : {
+                    "TEXT" : "Clasa ta antrenează un model de învățare automată folosind exemplele de text pe care le-ați colectat cu toții.",
+                    "IMAGES" : "Clasa ta antrenează un model de învățare automată folosind exemplele de imagini pe care le-ați colectat cu toții.",
+                    "NUMBERS" : "Clasa ta antrenează un model de învățare automată folosind exemplele de numere pe care le-ați colectat cu toții.",
+                    "SOUNDS" : "Clasa ta antrenează un model de învățare automată folosind exemplele de sunete pe care le-ați colectat cu toții."
+                },
+                "INDIVIDUAL" : {
+                    "TEXT" : "Ai început să antrenezi un model de învățare automată folosind exemplele de text pe care le-ai colectat.",
+                    "IMAGES" : "Ai început să antrenezi un model de învățare automată folosind exemplele de imagini pe care le-ai colectat.",
+                    "NUMBERS" : "Ai început să antrenezi un model de învățare automată folosind exemplele de numere pe care le-ai colectat.",
+                    "SOUNDS" : "Ai început să antrenezi un model de învățare automată folosind exemplele de sunete pe care le-ai colectat."
+                },
+                "SINCE": "Se antrenează din"
+            },
+            "READY" : {
+                "CROWDSOURCED" : {
+                    "TEXT" : "Clasa ta a antrenat un model de învățare automată pentru a recunoaște când textul este ",
+                    "IMAGES" : "Clasa ta a antrenat un model de învățare automată pentru a recunoaște când imaginile sunt ",
+                    "NUMBERS" : "Clasa ta a antrenat un model de învățare automată pentru a recunoaște când numerele sunt ",
+                    "SOUNDS" : "Clasa ta a antrenat un model de învățare automată pentru a recunoaște când sunetele sunt "
+                },
+                "INDIVIDUAL" : {
+                    "TEXT" : "Ai antrenat un model de învățare automată pentru a recunoaște când textul este ",
+                    "IMAGES" : "Ai antrenat un model de învățare automată pentru a recunoaște când imaginile sunt ",
+                    "NUMBERS" : "Ai antrenat un model de învățare automată pentru a recunoaște când numerele sunt ",
+                    "SOUNDS" : "Ai antrenat un model de învățare automată pentru a recunoaște când sunetele sunt "
+                },
+                "CREATED" : {
+                    "TEACHER" : "Profesorul tău a creat modelul pe ",
+                    "YOU" : "Ai creat modelul pe "
+                },
+                "TRAINING" : {
+                    "CLASS" : "Clasa ta a colectat: ",
+                    "YOU" : "Ai colectat: "
+                }
+            },
+            "ERROR": {
+                "CROWDSOURCED" : {
+                    "CLASS" : {
+                        "TEXT" : "Profesorul tău a încercat să antreneze un model de învățare automată folosind exemplele de text pe care le-a colectat clasa ta.",
+                        "IMAGES" : "Profesorul tău a încercat să antreneze un model de învățare automată folosind exemplele de imagini pe care le-a colectat clasa ta.",
+                        "NUMBERS" : "Profesorul tău a încercat să antreneze un model de învățare automată folosind exemplele de numere pe care le-a colectat clasa ta.",
+                        "SOUNDS" : "Profesorul tău a încercat să antreneze un model de învățare automată folosind exemplele de sunete pe care le-a colectat clasa ta."
+                    },
+                    "YOU" : {
+                        "TEXT" : "Ai încercat să antrenezi un model de învățare automată folosind exemplele de text pe care le-a colectat clasa ta.",
+                        "IMAGES" : "Ai încercat să antrenezi un model de învățare automată folosind exemplele de imagini pe care le-a colectat clasa ta.",
+                        "NUMBERS" : "Ai încercat să antrenezi un model de învățare automată folosind exemplele de numere pe care le-a colectat clasa ta.",
+                        "SOUNDS" : "Ai încercat să antrenezi un model de învățare automată folosind exemplele de sunete pe care le-a colectat clasa ta."
+                    }
+                },
+                "INDIVIDUAL" : {
+                    "TEXT" : "Ai încercat să antrenezi un model de învățare automată folosind exemplele de text pe care le-ai colectat.",
+                    "IMAGES" : "Ai încercat să antrenezi un model de învățare automată folosind exemplele de imagini pe care le-ai colectat.",
+                    "NUMBERS" : "Ai încercat să antrenezi un model de învățare automată folosind exemplele de numere pe care le-ai colectat.",
+                    "SOUNDS" : "Ai încercat să antrenezi un model de învățare automată folosind exemplele de sunete pe care le-ai colectat."
+                }
+            },
+            "IDLE" : {
+                "NOLABELS" : {
+                    "CROWDSOURCED" : {
+                        "TEXT" : "Clasa ta a spus că dorești să colectezi exemple de text.",
+                        "IMAGES" : "Clasa ta a spus că dorești să colectezi exemple de imagini.",
+                        "NUMBERS" : "Clasa ta a spus că dorești să colectezi exemple de numere.",
+                        "SOUNDS" : "Clasa ta a spus că dorești să colectezi exemple de sunete."
+                    },
+                    "INDIVIDUAL" : {
+                        "TEXT" : "Ai spus că dorești să colectezi exemple de text.",
+                        "IMAGES" : "Ai spus că dorești să colectezi exemple de imagini.",
+                        "NUMBERS" : "Ai spus că dorești să colectezi exemple de numere.",
+                        "SOUNDS" : "Ai spus că dorești să colectezi exemple de sunete."
+                    }
+                },
+                "NODATA" : {
+                    "CROWDSOURCED" : {
+                        "TEXT" : "Clasa ta a spus că dorești să colectezi exemple de text pentru ca un computer să recunoască atunci când textul este ",
+                        "IMAGES" : "Clasa ta a spus că dorești să colectezi exemple de imagini pentru ca un computer să recunoască atunci când imaginile sunt ",
+                        "NUMBERS" : "Clasa ta a spus că dorești să colectezi exemple de numere pentru ca un computer să recunoască atunci când numerele sunt ",
+                        "SOUNDS" : "Clasa ta a spus că dorești să colectezi exemple de sunete pentru ca un computer să recunoască atunci când sunetele sunt "
+                    },
+                    "INDIVIDUAL" : {
+                        "TEXT" : "Ai spus că dorești să colectezi exemple de text pentru ca un computer să recunoască atunci când textul este ",
+                        "IMAGES" : "Ai spus că dorești să colectezi exemple de imagini pentru ca un computer să recunoască atunci când imaginile sunt ",
+                        "NUMBERS" : "Ai spus că dorești să colectezi exemple de numere pentru ca un computer să recunoască atunci când numerele sunt ",
+                        "SOUNDS" : "Ai spus că dorești să colectezi exemple de sunete pentru ca un computer să recunoască atunci când sunetele sunt "
+                    }
+                },
+                "NOEXAMPLES" : {
+                    "CLASS" : "Până acum, clasa ta nu a colectat niciun exemplu.",
+                    "YOU" : "Până acum, nu ai colectat niciun exemplu."
+                },
+                "DATA" : {
+                    "CROWDSOURCED" : {
+                        "TEXT" : "Clasa ta a colectat exemple de text pentru ca un computer să le folosească pentru a recunoaște atunci când textul este ",
+                        "IMAGES" : "Clasa ta a colectat exemple de imagini pentru ca un computer să le folosească pentru a recunoaște atunci când imaginile sunt ",
+                        "NUMBERS" : "Clasa ta a colectat exemple de numere pentru ca un computer să le folosească pentru a recunoaște atunci când numerele sunt ",
+                        "SOUNDS" : "Clasa ta a colectat exemple de sunete pentru ca un computer să le folosească pentru a recunoaște atunci când sunetele sunt "
+                    },
+                    "INDIVIDUAL" : {
+                        "TEXT" : "Ai colectat exemple de text pentru ca un computer să le folosească pentru a recunoaște atunci când textul este ",
+                        "IMAGES" : "Ai colectat exemple de imagini pentru ca un computer să le folosească pentru a recunoaște atunci când imaginile sunt ",
+                        "NUMBERS" : "Ai colectat exemple de numere pentru ca un computer să le folosească pentru a recunoaște atunci când numerele sunt ",
+                        "SOUNDS" : "Ai colectat exemple de sunete pentru ca un computer să le folosească pentru a recunoaște atunci când sunetele sunt "
+                    },
+                    "COLLECTED" : {
+                        "CLASS" : "Au colectat: ",
+                        "YOU" : "Ai colectat: "
+                    }
+                }
+            }
+        },
+        "WHATSNEXT": {
+            "TITLE": "Ce urmează?",
+            "PLEASEWAIT": "Ai putea aștepta ca modelul de învățare automată să termine de fost antrenat.",
+            "OFFERQUIZ": "Sau, ai putea încerca chestionarul de învățare automată de mai jos, pentru a verifica ce ai învățat.",
+            "FAIL": "Mesajul de eroare de la computerul de antrenare este afișat mai jos. Dacă are sens pentru tine, încearcă să rezolvi problema. În caz contrar, ar putea merita să încerci din nou în caz că a fost doar o eroare aleatorie.",
+
+            "IDLE": {
+                "NOLABELS" : "Următorul pas este să mergi la pagina <a href='{{ urls.train }}'>Antrenare</a>. Adaugă câteva etichete pentru fiecare dintre lucrurile pe care vrei să înveți computerul să le recunoască.",
+                "ONELABEL" : {
+                    "EXPLANATION": "Ai spus un singur lucru pe care vrei ca computerul să îl poată recunoaște: {{ label }}",
+                    "ISTHATALL": "Acesta este singurul lucru pe care vrei ca computerul să îl poată recunoaște?",
+                    "NO": "<strong>Nu?</strong><br/>Întoarce-te la pagina <a href='{{ urls.train }}'>Antrenare</a>.<br/>Adaugă mai multe etichete pentru fiecare dintre lucrurile pe care vrei să înveți computerul să le recunoască.<br/><br/>",
+                    "YES": "<strong>Da?</strong><br/>Trebuie să mai lucrezi puțin mai întâi.<br/>Pentru ca computerul să poată învăța să recunoască „{{ label }}”, trebuie să îi dai câteva exemple de lucruri care nu sunt {{ label }}.<br/>Întoarce-te la pagina <a href='{{ urls.train }}'>Antrenare</a> și creează o nouă etichetă pentru exemple de lucruri care nu sunt {{ label }}. Ai putea să o numești „nu-{{ label }}”."
+                },
+                "LABELS" : {
+                    "NO_DATA" : "Următorul pas este să mergi la pagina <a href='{{ urls.train }}'>Antrenare</a>. Adaugă exemple pentru fiecare dintre etichete.",
+                    "MORE_DATA" : {
+                        "KEEP_GOING": "Continuă!",
+                        "MORE_EXAMPLES" : {
+                            "YOU": "Întoarce-te la pagina <a href='{{ urls.train }}'>Antrenare</a> și colectează mai multe exemple pentru fiecare dintre etichete.",
+                            "CLASS": "Rogă-ți clasa să se întoarcă la pagina <a href='{{ urls.train }}'>Antrenare</a> și să colecteze mai multe exemple pentru fiecare dintre etichete."
+                        },
+                        "MORE_IS_BETTER" : "Cu cât poți obține mai multe, cu atât va învăța mai bine, dar ai nevoie de cel puțin {{ minimumExamples }} exemple din fiecare ca minim absolut."
+                    },
+                    "ENOUGH_DATA" : {
+                        "READY_TO_START" : "Ești gata să începi antrenarea computerului?",
+                        "START_TRAINING" : {
+                            "CROWDSOURCED" : "Fă clic pe butonul de mai jos pentru a începe antrenarea unui model de învățare automată folosind exemplele pe care clasa ta le-a colectat până acum",
+                            "INDIVIDUAL" : "Fă clic pe butonul de mai jos pentru a începe antrenarea unui model de învățare automată folosind exemplele pe care le-ai colectat până acum"
+                        },
+                        "MORE_EXAMPLES" : {
+                            "CROWDSOURCED" : "(Sau roagă-ți clasa să se întoarcă la pagina <a href='{{ urls.train }}'>Antrenare</a> dacă vrei ca ei să colecteze mai multe exemple mai întâi.)",
+                            "INDIVIDUAL" : "(Sau întoarce-te la pagina <a href='{{ urls.train }}'>Antrenare</a> dacă vrei să colectezi mai multe exemple mai întâi.)"
+                        },
+                        "WAITING_FOR_TEACHER" : "Așteaptă ca profesorul tău să înceapă antrenarea computerului."
+                    }
+                }
+            },
+            "READY" : {
+                "TEST" : {
+                    "TEXT" : "Încearcă să testezi modelul de învățare automată de mai jos. Introdu un exemplu de text mai jos, pe care nu l-ai inclus în exemplele folosite pentru a-l antrena. Îți va spune ce recunoaște și cât de încrezător este în acest sens.",
+                    "IMAGES" : "Încearcă să testezi modelul de învățare automată de mai jos. Introdu o imagine exemplu mai jos, pe care nu ai inclus-o în exemplele folosite pentru a-l antrena. Îți va spune ce recunoaște și cât de încrezător este în acest sens.",
+                    "NUMBERS" : "Încearcă să testezi modelul de învățare automată de mai jos. Introdu un exemplu de numere mai jos, pe care nu l-ai inclus în exemplele folosite pentru a-l antrena. Îți va spune ce recunoaște și cât de încrezător este în acest sens.",
+                    "SOUNDS" : "Încearcă să testezi modelul de învățare automată de mai jos. Fă clic pe butonul 'Începe să asculți'. Dacă modelul tău de învățare automată recunoaște vreun sunet, îți va spune ce recunoaște și cât de încrezător este în acest sens."
+                },
+                "SCRATCH" : "Dacă se pare că computerul a învățat să recunoască corect lucrurile, atunci poți merge la Scratch și poți folosi ceea ce a învățat computerul pentru a face un joc!",
+                "ADDITIONAL_TRAINING" : {
+                    "MORE_EXAMPLES" : {
+                        "CROWDSOURCED" : "Dacă computerul greșește prea multe lucruri, clasa ta ar putea dori să se întoarcă la pagina <a href='{{ urls.train }}'>Antrenare</a> și să colecteze mai multe exemple.",
+                        "INDIVIDUAL" : "Dacă computerul greșește prea multe lucruri, s-ar putea să vrei să te întorci la pagina <a href='{{ urls.train }}'>Antrenare</a> și să colectezi mai multe exemple"
+                    },
+                    "RETRAIN" : {
+                        "YOU" : "După ce ai făcut asta, fă clic pe butonul de mai jos pentru a antrena un nou model de învățare automată și vezi ce diferență vor face exemplele suplimentare!",
+                        "CLASS" : "După ce ați făcut asta, profesorul tău va trebui să antreneze un nou model de învățare automată."
+                    }
+                }
+            }
+        },
+        "TRAINING": {
+            "TITLE": "Informații de la computerul de antrenare:",
+            "STARTED": "Modelul a început antrenarea la:",
+            "STATUS": "Starea curentă a modelului:",
+            "DETAIL": "Detaliu:",
+            "DELETION": "Modelul va fi șters automat după:",
+            "LASTCHECK": "Ultima verificare a modelului:",
+            "PROMPTREFRESH": "Dacă acest lucru este mai vechi de un minut, ar trebui să reîmprospătezi pagina pentru a obține o stare actualizată"
+        },
+        "TESTING": {
+            "INTRO": {
+                "TEXT": "Încearcă să introduci niște text pentru a vedea cum este recunoscut pe baza antrenamentului tău.",
+                "IMAGES": "Încearcă să introduci o imagine pentru a vedea cum este recunoscută pe baza antrenamentului tău.",
+                "NUMBERS": "Încearcă să introduci niște numere pentru a vedea cum sunt recunoscute pe baza antrenamentului tău.",
+                "SOUNDS": "Încearcă să faci un sunet pentru a vedea cum este recunoscut pe baza antrenamentului tău"
+            },
+            "WEBCAM": "Testează cu <strong>camera web</strong>",
+            "DRAWING": "Testează prin <strong>desen</strong>",
+            "WWW": "Testează cu <strong>www</strong>",
+            "RECOGNISED": "Recunoscut ca <strong>{{ testoutput }}</strong>",
+            "STARTLISTENING": "Începe să asculți",
+            "STOPLISTENING": "Nu mai asculta"
+        },
+        "QUIZ": {
+            "TITLE": "Timp pentru chestionar!",
+            "INTROQUESTION": "În timp ce aștepți ca modelul să termine antrenarea, încearcă să răspunzi la această întrebare.",
+            "PREVIOUSLY_ATTEMPTED": "Ai mai văzut aceasta - să vedem dacă îți amintești care este răspunsul corect de data aceasta!",
+            "CORRECT_ANSWER": "Corect!",
+            "INCORRECT_ANSWER": "Nu, îmi pare rău. Răspunsul corect este afișat mai sus.",
+            "NEXT_QUESTION": "Următoarea întrebare",
+
+            "QUESTION_1": {
+                "QUESTION": "În general, ce va ajuta mașinile să învețe mai bine?",
+                "ANSWER_1": "Mai multe exemple",
+                "ANSWER_2": "Mai puține exemple",
+                "NOTES_1": "Acesta nu este singurul lucru care are efect. Dar, în general, cu cât are mai multe exemple din care să învețe, cu atât va învăța mai bine."
+            },
+            "QUESTION_2": {
+                "QUESTION": "Care dintre acestea ar fi probabil cel mai bun pentru a antrena un computer să recunoască o fotografie a unui măr?",
+                "ANSWER_1": "Fotografii cu câini",
+                "ANSWER_2": "Fotografii variate cu diferite tipuri de mere în locuri diferite",
+                "ANSWER_3": "Fotografii identice cu un măr",
+                "ANSWER_4": "Fotografii foarte, foarte similare cu același măr în același loc",
+                "NOTES_1": "Cu cât exemplele pe care le poți colecta sunt mai variate, cu atât sistemul poate învăța mai multe despre cum să recunoască diferite imagini cu un măr.",
+                "NOTES_2": "Dacă fiecare exemplu pe care i-l dai este același măr pe aceeași masă maro din lemn, s-ar putea să învețe că ceva este un măr numai dacă se află pe o masă maro din lemn."
+            },
+            "QUESTION_3": {
+                "QUESTION": "Care dintre acestea ar fi o utilizare bună a învățării automate?",
+                "ANSWER_1": "Adunarea numerelor mari",
+                "ANSWER_2": "Recunoașterea dacă un e-mail este spam",
+                "ANSWER_3": "Numărarea de câte ori este apăsat un buton",
+                "NOTES_1": "Filtrele de spam sunt un bun exemplu de învățare automată.",
+                "NOTES_2": "Cu suficiente exemple de e-mailuri legitime și suficiente exemple de e-mailuri spam, un computer poate începe să învețe cum să recunoască un e-mail spam."
+            },
+            "QUESTION_4": {
+                "QUESTION": "Care dintre acestea NU este o utilizare bună a învățării automate?",
+                "ANSWER_1": "Analiza sentimentelor - recunoașterea stării de spirit, a tonului sau a emoției în text",
+                "ANSWER_2": "Traducerea textului dintr-o limbă în alta",
+                "ANSWER_3": "Recunoașterea feței - recunoașterea unei fețe într-o fotografie și identificarea cui aparține",
+                "ANSWER_4": "Mașini cu conducere autonomă",
+                "ANSWER_5": "Calcularea costului unui lucru în diferite țări pe baza cursurilor de schimb",
+                "ANSWER_6": "Recomandarea unui film pe baza filmelor pe care le-ai vizionat înainte",
+                "NOTES_1": "Sarcinile care implică urmarea unor reguli care pot fi determinate nu sunt o utilizare bună pentru învățarea automată.",
+                "NOTES_2": "Un computer nu va învăța cum să aplice un curs de schimb din exemple - îi putem spune pur și simplu ce să facă."
+            },
+            "QUESTION_5": {
+                "QUESTION": "Care dintre acestea ar fi mai probabil să aibă succes?",
+                "ANSWER_1": "Colectează un set mic de exemple, antrenează un sistem, testează pentru a vedea cât de bun este. Adaugă mai multe exemple, antrenează din nou și apoi testează din nou. Repetă până când devine suficient de bun.",
+                "ANSWER_2": "Mai multe exemple este mai bine, așa că decide că trebuie să ai milioane de exemple. Începe să colectezi un set masiv de exemple și petreci luni de zile colectând din ce în ce mai multe.",
+                "NOTES_1": "Mai multe exemple este în general mai bine, dar fii practic.",
+                "NOTES_2": "Pragmatismul este important. Testarea regulată este utilă pentru a ști cum merg lucrurile și pentru a te ajuta să știi când ai făcut suficient.",
+                "NOTES_3": "Când ai doar zece exemple, încă zece exemple vor face probabil o diferență uriașă.",
+                "NOTES_4": "Când ai 100.000 de exemple, încă zece exemple probabil nu vor avea un impact vizibil."
+            },
+            "QUESTION_6": {
+                "QUESTION": "Care dintre aceste afirmații este corectă?",
+                "ANSWER_1": "Învățarea automată este o tehnică în care computerele pot fi antrenate să efectueze sarcini în loc să li se ofere un set explicit de pași de urmat",
+                "ANSWER_2": "Învățarea automată este magie",
+                "ANSWER_3": "Învățarea automată înseamnă că nu mai trebuie să ne gândim la probleme pentru că computerele vor gândi pentru noi",
+                "ANSWER_4": "Învățarea automată a înlocuit necesitatea de a învăța să codăm",
+                "ANSWER_5": "Învățarea automată poate fi realizată doar pe supercomputere masive"
+            },
+            "QUESTION_7": {
+                "QUESTION": "Un sistem de învățare automată antrenat să recunoască imagini care conțin un copac ar trebui să fie bun la care dintre următoarele sarcini:",
+                "ANSWER_1": "Identificarea imaginilor cu fructe",
+                "ANSWER_2": "Recunoașterea emoției dintr-un text",
+                "ANSWER_3": "Recunoașterea imaginilor cu copaci",
+                "NOTES_1": "Învățarea automată nu înseamnă că computerele învață magic să facă orice.",
+                "NOTES_2": "Înseamnă că învață cum să facă o sarcină specifică fiindu-le arătate exemple ale acelei sarcini specifice.",
+                "NOTES_3": "Dacă vrei să facă altceva, trebuie să îl antrenezi să facă și asta, dându-i exemple pentru acel lucru."
+            },
+            "QUESTION_8": {
+                "QUESTION": "Alice și Bob doresc amândoi să antreneze un sistem de învățare automată să recunoască dacă textul este fericit/pozitiv sau trist/negativ. Care dintre ei va antrena probabil cel mai bun sistem?",
+                "ANSWER_1": "Alice. Ea a colectat 10 exemple variate de text fericit și 10 exemple variate de text trist",
+                "ANSWER_2": "Bob. El a colectat 1000 de exemple de text fericit și 10 exemple de text trist",
+                "NOTES_1": "Colectarea unui număr aproximativ similar de exemple pentru fiecare etichetă este o tehnică utilă.",
+                "NOTES_2": "Dacă aproape fiecare exemplu de text cu care antrenezi un sistem este fericit, s-ar putea să ajungi să antrenezi sistemul să presupună că textul trist este foarte puțin probabil și că ar trebui să presupună mai des fericit.",
+                "NOTES_4": "Dar, s-ar putea să vrei să facă acest lucru.",
+                "NOTES_5": "Dacă antrenezi un sistem să recunoască text în care textul este fericit în 98% din cazuri, antrenarea lui cu această experiență realistă ar putea merita încercată."
+            },
+            "QUESTION_9": {
+                "QUESTION": "Tehnologia avansată de învățare automată va oferi întotdeauna răspunsuri corecte. Răspunsurile incorecte înseamnă că tehnologia de învățare automată nu este foarte bună",
+                "ANSWER_1": "Adevărat",
+                "ANSWER_2": "Fals",
+                "NOTES_1": "Nu neapărat.",
+                "NOTES_3": "Tehnologia și algoritmii sunt importanți. DAR sistemele de învățare automată sunt doar atât de precise și de fiabile pe cât de bun este antrenamentul pe care îl primesc.",
+                "NOTES_4": "Algoritmii simpli de învățare automată cu o mulțime de antrenament de înaltă calitate pot face mai bine decât cei mai avansați algoritmi de învățare automată cu o cantitate mică de antrenament de calitate scăzută."
+            },
+            "QUESTION_10": {
+                "QUESTION": "Cum te poți asigura că colecția ta de imagini cu animale este de bună calitate pentru antrenarea unei mașini și nu conține greșeli umane?",
+                "ANSWER_1": "Inspectează manual toate imaginile cu animale și asigură-te că ești de acord cu toate etichetele",
+                "ANSWER_2": "Cere multor persoane să eticheteze toate imaginile și păstrează etichetele de antrenare cu care oamenii sunt în general de acord",
+                "ANSWER_3": "Întrebare capcană! Oamenii au întotdeauna dreptate - mașinile fac greșeli!",
+                "NOTES_1": "Chiar și oamenii fac greșeli și nu vei avea întotdeauna timp să verifici toate datele de antrenare!",
+                "NOTES_2": "Dacă sarcina este dificilă, poate fi o idee bună să ai mai mult de o persoană care să eticheteze fiecare imagine și să păstrezi eticheta cu care cei mai mulți oameni sunt de acord că este cea corectă."
+            },
+            "QUESTION_11": {
+                "QUESTION": "O mașină antrenată să identifice imagini cu „mâncare” sau „non-mâncare” oferă rezultate inconsistente pentru sandvișuri, plasându-le adesea în clasa „non-mâncare”. Care dintre următoarele ar putea explica acest lucru?",
+                "ANSWER_1": "Omul care a antrenat sistemul nu-i plac sandvișurile și nu a pus niciunul în datele de antrenare",
+                "ANSWER_2": "Mașina trebuie să fie în starea potrivită pentru un sandviș, așa că își schimbă părerea des",
+                "ANSWER_3": "Sandvișurile nu sunt mâncare. Sistemul are dreptate să fie nesigur",
+                "NOTES_1": "Modelele de învățare automată pot învăța doar din exemplele pe care le arătăm.",
+                "NOTES_2": "Este foarte ușor pentru oameni să își introducă accidental plăcerile și antipatiile în modelele de învățare automată, așa că ar trebui să fim foarte atenți la ce date de antrenare folosim."
+            },
+            "QUESTION_12": {
+                "QUESTION": "Care dintre următoarele descrie cel mai bine învățarea nesupervizată?",
+                "ANSWER_1": "Scrierea unui program care conține multe instrucțiuni if/else pentru a determina rezultatul",
+                "ANSWER_2": "Un algoritm de învățare automată care utilizează date neetichetate și le clasifică pe baza cât de asemănător este un set de date cu altul",
+                "ANSWER_3": "Un algoritm de învățare automată care utilizează date etichetate și le clasifică pe baza antrenamentului din perechi intrare-ieșire exemplu",
+                "NOTES_1": "Învățarea nesupervizată este un tip de învățare automată, în timp ce utilizarea numai a instrucțiunilor if/else nu este.",
+                "NOTES_2": "Algoritmii de învățare nesupervizată sunt încă antrenați, dar intrările care îi sunt date nu sunt etichetate sau clasificate.",
+                "NOTES_3": "Dacă datele sunt etichetate, atunci aceasta este ceea ce se numește învățare supravegheată."
+            },
+            "QUESTION_13": {
+                "QUESTION": "Fără învățare automată, ar fi imposibil ca motoarele de căutare precum Google să existe.",
+                "ANSWER_1": "Adevărat",
+                "ANSWER_2": "Fals",
+                "NOTES_1": "Deși multe motoare de căutare moderne folosesc învățarea automată, este posibil să creezi unul fără ea. Un motor de căutare de bază va căuta doar documente (pagini web) care includ cuvintele căutate de utilizator."
+            }
+        }
+    },
+    "DESCRIBEMODEL": {
+        "TITLE": "Înțelege modelul tău de învățare automată",
+        "TRYITOUT": "Încearcă modelul tău de învățare automată pentru a vedea cum folosește arborele de decizie pentru a face predicții",
+        "EXPLANATION": {
+            "EXPL_1": "Tehnica folosită pentru a-ți crea modelul de învățare automată se numește <a target='_blank' href='https://wikipedia.org/wiki/Decision_tree_learning'>Clasificator prin Arbore de Decizie</a>.",
+            "EXPL_2": "Aceasta nu este singura modalitate de a antrena un model de învățare automată. O folosim pentru că este foarte rapidă și ușor de antrenat și este una dintre cele mai ușoare tehnici de înțeles. Această pagină îți arată arborele de decizie care a fost creat pe baza exemplelor de antrenare pe care le-ai colectat.",
+            "EXPL_3": "Când îți testezi modelul, computerul pornește din vârful arborelui și urmează o cale până ajunge la fund. <strong>Clasa</strong> de la baza arborelui este predicția pe care o face modelul de învățare automată.",
+            "EXPL_4": "La fiecare casetă din arbore, citește testul descris în partea de sus a casetei. Dacă valorile tale de test trec testul descris în casetă, urmează săgeata spre stânga. Dacă nu trece testul, urmează săgeata spre dreapta.",
+            "EXPL_5": "<strong>Exemplele</strong> afișate în fiecare casetă îți spun câte exemple din datele tale de antrenare se potrivesc cu acea parte a arborelui de decizie.",
+            "EXPL_6": "<strong>Valoarea</strong> afișată în fiecare casetă îți spune câte exemple din datele tale de antrenare au trecut testul afișat în partea de sus (urmând săgeata stânga) și câte exemple nu au trecut testul din partea de sus (urmând săgeata dreapta)."
+        },
+        "ERRORS": {
+            "NUMBERSONLY": "Numai modelele de învățare automată pentru proiectele cu numere pot fi descrise"
+        }
+    },
+    "DESCRIBETEXTMODEL": {
+        "ZOOM": "Folosește aceste comenzi pentru a mări diagramele",
+        "ERRORS": {
+            "TEXTONLY": "Numai rețelele neuronale pentru proiectele cu text pot fi descrise"
+        },
+        "MOREINFO": "pentru mai multe detalii, încearcă să cauți:",
+        "PAGE1": {
+            "TITLE": "rețele neuronale",
+            "TEXT1": "Tipul de model de învățare automată pe care l-ai antrenat în acest proiect se numește <em>rețea neuronală</em>.",
+            "TEXT2": "Următoarele pagini vor explica cum a fost creat modelul tău.",
+            "TEXT3": "Aceste diagrame nu sunt o descriere exactă a modelului tău. Modelul tău este mai mare și mai complicat, dar aceste diagrame sunt mai ușor de explicat."
+        },
+        "PAGE2": {
+            "TITLE": "învățare profundă",
+            "TEXT1": "Modelul este format din <em>noduri</em>, aranjate în <em>straturi</em> verticale.",
+            "TEXT2": "Modelele cu multe straturi sunt descrise ca fiind <em>profunde</em>.",
+            "TEXT3": "Modelele profunde pot da rezultate mai bune, dar durează mai mult pentru a fi antrenate."
+        },
+        "PAGE3": {
+            "TITLE": "stratul de intrare",
+            "TEXT1": "Să începem cu unul dintre exemplele de antrenare folosite pentru a crea modelul tău.",
+            "TEXT2": "Exemplul tău de antrenare este afișat ca <em>intrare</em> în stânga."
+        },
+        "PAGE4": {
+            "TITLE": "codificare",
+            "TEXT1": "Pentru a folosi exemplul tău de antrenare pentru a antrena modelul, mai întâi textul trebuie transformat într-o serie de numere.",
+            "TEXT2": "Există multe modalități de a face acest lucru.",
+            "TEXT3": "Dacă îți construiești propriul model de învățare automată, trebuie să alegi o modalitate care funcționează bine pentru proiectul tău particular."
+        },
+        "PAGE5": {
+            "TITLE": "sac de cuvinte",
+            "TEXT1": "O modalitate de a transforma textul în numere este să faci fiecare număr o numărare a de câte ori este inclus un cuvânt."
+        },
+        "PAGE6": {
+            "TITLE": "extragerea caracteristicilor",
+            "TEXT1": "Există și alte lucruri pe care le poți număra. Lucrurile care sunt utile de numărat depind de proiectul pe care îl faci și de ceea ce vrei ca modelul tău să învețe să recunoască tipare.",
+            "TEXT2": "Numărarea lucrurilor este rapidă și simplă, dar nu la fel de bună pentru proiectele în care ordinea cuvintelor este importantă."
+        },
+        "PAGE7": {
+            "TITLE": "încorporări de cuvinte",
+            "TEXT1": "Dacă îți construiești propriul model de învățare automată, trebuie să alegi metoda de transformare a textului în numere.",
+            "TEXT2": "Modelul tău a folosit o tehnică mai complicată care include ordinea cuvintelor în text."
+        },
+        "PAGE8": {
+            "TITLE": "strat ascuns",
+            "TEXT1": "Numerele din stratul de intrare intră în sume care calculează valori pentru nodurile din stratul următor.",
+            "TEXT2": "Liniile din diagramă arată care valori de intrare sunt folosite pentru a calcula care valori în stratul următor."
+        },
+        "PAGE9": {
+            "TITLE": "funcții de activare",
+            "TEXT1": "Există multe tipuri diferite de calcule pe care le poți folosi. Nu fiecare nod din model trebuie să folosească același calcul.",
+            "TEXT2": "Dacă îți construiești propriul model de învățare automată, trebuie să alegi ce ecuații să folosești pentru fiecare nod.",
+            "TEXT3": "Funcțiile de utilizat pentru fiecare nod din modelul tău au fost alese pentru tine."
+        },
+        "PAGE10": {
+            "TITLE": "pondere",
+            "TEXT1": "Fiecare linie din diagramă are un număr de <em>pondere</em> care poate fi folosit în sumă.",
+            "TEXT2": "Antrenarea modelului este modul în care stabilim cel mai bun număr de pus pe fiecare linie, după cum vei vedea într-o clipă."
+        },
+        "PAGE11": {
+            "TITLE": "deplasare",
+            "TEXT1": "Fiecare nod din diagramă are un număr de <em>deplasare</em> care este folosit și în sumă.",
+            "TEXT2": "Antrenarea modelului este, de asemenea, modul în care stabilim numărul corect de deplasare, după cum vei vedea într-o clipă.",
+            "TEXT3": "Încearcă să ghiciți care credeți că va fi valoarea pentru acest nod."
+        },
+        "PAGE12": {
+            "TITLE": "funcții de activare",
+            "TEXT1": "Aceasta este o <em>funcție</em> comună folosită în rețelele neuronale.",
+            "TEXT2": "Fiecare valoare de intrare este înmulțită cu valoarea pentru linia care o conecta. Toate acestea sunt adunate. Apoi adăugate la valoarea pentru nodul însuși."
+        },
+        "PAGE13": {
+            "TITLE": "funcții de activare",
+            "TEXT1": "Fiecare nod are propria sa valoare de <em>deplasare</em>.",
+            "TEXT2": "Fiecare linie are propria sa valoare de <em>pondere</em>."
+        },
+        "PAGE14": {
+            "TITLE": "straturi ascunse",
+            "TEXT1": "Fiecare nod din model poate folosi ecuații diferite.",
+            "TEXT2": "Dacă îți construiești propriul model de învățare automată, trebuie să alegi:",
+            "LIST1": "câte straturi să aibă",
+            "LIST2": "câte noduri să pui în fiecare strat",
+            "LIST3": "ce funcții să folosești pentru fiecare nod"
+        },
+        "PAGE15": {
+            "TITLE": "strat ascuns",
+            "TEXT1": "Acest lucru continuă în restul modelului.",
+            "TEXT2": "Numărul de straturi, numărul de noduri din fiecare strat și funcțiile de utilizat pentru fiecare nod din modelul tău au fost toate alese pentru tine."
+        },
+        "PAGE16": {
+            "TITLE": "strat de ieșire",
+            "TEXT1": "Stratul final oferă predicția modelului de învățare automată.",
+            "TEXT2": "Există un nod pentru fiecare container pe care l-ai adăugat în datele tale de antrenare."
+        },
+        "PAGE17": {
+            "TITLE": "funcție de pierdere",
+            "TEXT1": "Predicția este comparată cu răspunsul corect (containerul de antrenare în care ai pus acest exemplu).",
+            "TEXT2": "Diferența este descrisă ca <em>rata de eroare</em> și ne spune cât de bine se descurcă modelul de învățare automată în această etapă a antrenamentului."
+        },
+        "PAGE18": {
+            "TITLE": "propagare inversă",
+            "TEXT1": "<em>Rata de eroare</em> este folosită pentru a merge înapoi prin straturi și a ajusta ușor numerele pentru fiecare dintre linii și noduri.",
+            "TEXT2": "Fiecare număr de pondere și deplasare este mărit puțin sau micșorat puțin, în funcție de ceea ce ar fi făcut rata de eroare puțin mai mică."
+        },
+        "PAGE19": {
+            "TITLE": "rețele neuronale",
+            "TEXT1": "Apoi, toate acestea se fac din nou, cu un altul dintre exemplele tale de antrenare."
+        },
+        "PAGE20": {
+            "TITLE": "codificare",
+            "TEXT1": "Amintiți-vă, primul pas este transformarea textului exemplu în numere.",
+            "TEXT2": "Numărarea lucrurilor care se află în text este o modalitate ușoară de a face acest lucru, dar există modalități mai complicate de a face acest lucru dacă ordinea cuvintelor este importantă.",
+            "TEXT3": "Metoda pentru modelul tău a fost aleasă pentru tine."
+        },
+        "PAGE21": {
+            "TITLE": "strat ascuns",
+            "TEXT1": "Amintiți-vă, nodurile din mijlocul modelului reprezintă sume care sunt făcute folosind numerele de intrare.",
+            "TEXT2": "Calcule diferite pot fi alese pentru fiecare nod."
+        },
+        "PAGE22": {
+            "TITLE": "funcții de activare",
+            "TEXT1": "Amintiți-vă, calculele folosesc numere de la nodurile din stânga care sunt conectate la acesta, precum și numerele pentru liniile care le conectează."
+        },
+        "PAGE23": {
+            "TITLE": "funcții de activare",
+            "TEXT1": "Calculele folosesc, de asemenea, un număr de <em>deplasare</em> pentru nodul însuși."
+        },
+        "PAGE24": {
+            "TITLE": "strat ascuns",
+            "TEXT1": "Acest lucru continuă în restul modelului.",
+            "TEXT2": "Funcțiile de utilizat pentru fiecare nod din modelul tău au fost alese pentru tine."
+        },
+        "PAGE25": {
+            "TITLE": "strat de ieșire",
+            "TEXT1": "Amintiți-vă, <em>stratul de ieșire</em> oferă predicția modelului de învățare automată.",
+            "TEXT2": "Fiecare nod îți oferă predicția pentru unul dintre containerele pe care le-ai adăugat în datele tale de antrenare."
+        },
+        "PAGE26": {
+            "TITLE": "funcție de pierdere",
+            "TEXT1": "Amintiți-vă, rezultatele de la <em>stratul de ieșire</em> sunt comparate cu răspunsul corect, ceea ce arată cât de bine se descurcă modelul de învățare automată."
+        },
+        "PAGE27": {
+            "TITLE": "propagare inversă",
+            "TEXT1": "Amintiți-vă că <em>rata de eroare</em> este folosită pentru a merge înapoi prin straturi și a ajusta ușor numerele asociate fiecărei linii și nod.",
+            "TEXT2": "Fiecare număr de <em>pondere</em> și <em>deplasare</em> este mărit puțin sau micșorat puțin, în funcție de ceea ce ar fi făcut eroarea puțin mai mică.",
+            "TEXT3": "Acesta este modul în care antrenamentul stabilește cele mai bune numere de utilizat pentru fiecare dintre noduri și linii."
+        },
+        "PAGE28": {
+            "TITLE": "epoci",
+            "TEXT1": "O parcurgere a fiecărui exemplu de antrenare pe care l-ai colectat prin model se numește <em>epocă</em>.",
+            "TEXT2": "De fiecare dată, ponderile pentru fiecare nod sunt ajustate puțin mai mult, până când, sperăm, rata de eroare pentru predicții este cât mai mică posibil.",
+            "TEXT3": "Dacă îți construiești propriul model de învățare automată, trebuie să alegi câte epoci dorești să rulezi."
+        },
+        "PAGE29": {
+            "TITLE": "rețele neuronale",
+            "TEXT1": "Sper că această descriere simplificată îți oferă o idee despre ce se întâmplă atunci când faci clic pe butonul „Antrenează un nou model de învățare automată”.",
+            "TEXT2": "Pentru o explicație a motivului pentru care funcționează acest proces, încearcă să urmărești „<a href='https://youtu.be/R9OHn5ZF4Uo'>How Machines Learn</a>” de CGP Grey."
+        }
+    },
+    "MAKES": {
+        "TITLE": "Creează ceva cu modelul tău de învățare automată",
+        "SCRATCH2": "Creează un proiect în versiunea veche de Scratch",
+        "SCRATCH3": "Folosește noua versiune de Scratch",
+        "PYTHON": "Scrie cod Python pentru a folosi modelul tău de învățare automată",
+        "APPINVENTOR": "Creează o aplicație mobilă pentru telefonul sau tableta ta"
+    },
+    "PYTHON": {
+        "TITLE": "Utilizarea învățării automate în Python",
+
+        "NOTREADY": "Proiectul tău nu este încă pregătit pentru a fi utilizat în Python.",
+        "NOMODEL": "Nu ai antrenat încă un model de învățare automată.",
+
+        "NOSOUND": "Python nu poate fi utilizat cu proiecte de sunete.",
+
+        "LAUNCH": "Rulează Python în browser",
+        "LOCAL": "Copiază codul pentru a rula pe computerul tău",
+
+        "MODE": {
+            "INTRO": "Unde dorești să scrii și să rulezi codul Python?",
+            "BROWSER": "Poți face totul în browserul web, ceea ce înseamnă că nu trebuie să îți faci griji cu privire la instalarea sau configurarea Python sau a oricăror module Python terțe de care vei avea nevoie.",
+            "LOCAL": "Sau poți copia codul pentru a rula pe propriul computer. Acest lucru este util dacă există fișiere locale sau dispozitive precum o cameră web sau un difuzor pe care dorești să le folosești în programul tău Python."
+        },
+
+        "APIKEY_INSTRUCTION": "Trebuie să <span class='strongemphasis'>adăugați cheia API</span> la proiect. Faceți acest lucru pe linia 6 a șablonului.",
+        "APIKEY_WARNING": "Tratează acest cod ca pe o parolă și asigură-te că îl păstrezi secret!",
+
+        "REPLACE_THIS": "Înlocuiește acest:",
+        "WITH_THIS": "cu acest:",
+
+        "UNCOMMENT": "Va trebui să eliminați un caracter de comentariu # din șablon pentru a utiliza funcția.",
+
+        "RECOGNIZE": {
+            "INSTRUCTION": "Încearcă să actualizezi exemplul de pe linia 28 a șablonului.",
+            "TEXT": {
+                "INTRO": "Dacă dorești să folosești modelul tău de învățare automată pentru a <span class='strongemphasis'>recunoaște text</span>, poți folosi funcția <code>classifyText</code>.",
+                "REPLACE": "Actualizează acest lucru cu textul pe care dorești ca modelul tău de învățare automată să îl recunoască:"
+            },
+            "IMAGES": {
+                "INTRO": "Dacă dorești să folosești modelul tău de învățare automată pentru a <span class='strongemphasis'>recunoaște imagini</span>, poți folosi funcția <code>classifyImages</code>.",
+                "REPLACE": "Actualizează acest lucru cu adresa web pentru o imagine pe care dorești ca modelul tău de învățare automată să o recunoască:"
+            },
+            "NUMBERS": {
+                "INTRO": "Dacă dorești să folosești modelul tău de învățare automată pentru a <span class='strongemphasis'>recunoaște numere</span>, poți folosi funcția <code>classifyNumbers</code>."
+            }
+        },
+        "STORE": {
+            "ADD": "Date pe care dorești să le adaugi:",
+            "INSTRUCTION": "Încearcă să actualizezi exemplul de pe linia 45 a șablonului.",
+            "TEXT": {
+                "INTRO": "Dacă dorești să <span class='strongemphasis'>adăugați exemple de antrenament</span> la proiectul tău de învățare automată, poți folosi funcția <code>storeText</code>."
+            },
+            "NUMBERS": {
+                "INTRO": "Dacă dorești să <span class='strongemphasis'>adăugați exemple de antrenament</span> la proiectul tău de învățare automată, poți folosi funcția <code>storeNumbers</code>."
+            }
+        }
+    },
+    "APPINVENTOR": {
+        "TITLE": "Utilizarea învățării automate în App Inventor",
+
+        "LAUNCH_APPINVENTOR_BY_ITSELF": "(Poți folosi <a href='{{ url }}' class='btn btn-default' target='_blank'>App Inventor de unul singur</a> dacă dorești.)",
+
+        "NOTREADY": "Proiectul tău nu este încă pregătit pentru a fi utilizat în App Inventor.",
+        "NOMODEL": "Nu ai antrenat încă un model de învățare automată.",
+
+        "LAUNCH": "Deschide App Inventor"
+    },
+    "SCRATCH": {
+        "TITLE": "Utilizarea învățării automate în Scratch",
+
+        "NOTREADY": "Proiectul tău nu este încă pregătit pentru a fi utilizat în Scratch.",
+        "NOMODEL": "Nu ai antrenat încă un model de învățare automată.",
+
+        "LAUNCH": "Deschide în Scratch",
+
+        "LAUNCH_SCRATCH_BY_ITSELF": "(Poți folosi <a href='{{ url }}' class='btn btn-default' target='_blank'>Scratch de unul singur</a> dacă dorești.)",
+        "GO_TO_LEARNANDTEST": "Sau mergi la pagina <a href='{{ urls.learnandtest }}'>Învață și testează</a> pentru câteva sfaturi despre ce să faci în continuare.",
+
+        "MORE_BLOCKS": "Proiectul tău va adăuga aceste blocuri la fila <span style='background-color: purple; color: white; padding-left: 7px; padding-right: 7px; white-space: nowrap;'>Mai multe blocuri</span> din Scripturi.",
+        "MORE_BLOCKS_3": "Proiectul tău va adăuga aceste blocuri în Scratch.",
+        "EXPLAIN_RECOGNISE_LABEL": "Pune {{ type }} în intrarea pentru aceasta și va returna eticheta pe care modelul tău de învățare automată o recunoaște.",
+        "EXPLAIN_RECOGNISE_CONFIDENCE": "Aceasta va returna cât de încrezător este modelul tău de învățare automată că recunoaște tipul de {{ type }}. (Ca număr de la 0 la 100).",
+        "EXPLAIN_LABELS": "Aceste blocuri reprezintă etichetele pe care le-ai creat în proiectul tău, astfel încât să le poți folosi numele în scripturile tale.",
+        "EXPLAIN_COSTUMEIMAGE": "Acest bloc se află în paleta Aspect pentru Sprite-uri și va returna imaginea costumului selectat în prezent.",
+        "EXPLAIN_ADD_TRAINING": "Folosește aceasta pentru a adăuga un nou exemplu în datele tale de antrenament. (Datele de antrenament au efect după ce antrenezi un model de învățare automată cu ele)",
+        "EXPLAIN_TRAIN_MODEL": "Folosește aceasta pentru a antrena un nou model de învățare automată",
+        "EXPLAIN_IS_MODEL_READY": "Modelul de învățare automată va dura un minut înainte de a fi gata de utilizare. Poți folosi aceste blocuri pentru a aștepta până când este gata.",
+        "SAMPLE_SCRIPT": "Aceasta înseamnă că poți face ceva de genul acesta:",
+        "SAMPLE_SCREENSHOT": "Va arăta cam așa - cu excepția numelui proiectului tău.",
+        "EXPLAIN_STATUS": "Cercul colorat de lângă numele proiectului tău îți spune dacă modelul tău de învățare automată este în regulă.",
+        "STATUS_GREEN": "înseamnă că modelul tău este antrenat și gata de plecare",
+        "STATUS_YELLOW": "înseamnă că modelul tău nu a terminat încă antrenarea",
+        "STATUS_RED": "înseamnă că ceva nu a funcționat. Întoarce-te la pagina <a href='{{ urls.learnandtest }}'>Învață și testează</a> pentru a vedea ce a mers prost în timpul antrenării."
+    },
+    "SCRATCH3": {
+        "TITLE": "Utilizarea învățării automate în Scratch 3",
+
+        "LAUNCH": "Deschide în Scratch 3"
+    },
+    "WORKSHEETS": {
+        "TITLE": "Proiecte de învățare automată",
+
+        "INTRO_1": "Aceste proiecte sunt ghiduri descărcabile pas cu pas, cu explicații și capturi de ecran colorate pentru ca elevii să le urmeze.",
+        "INTRO_2": "Fiecare proiect este o activitate independentă, concepută să dureze o singură lecție și va ghida copiii să creeze un joc sau un proiect interactiv care demonstrează o utilizare reală a inteligenței artificiale și a învățării automate.",
+        "INTRO_3": "Sugestiile pentru noi fișe de lucru, sugestii de îmbunătățire a oricăreia dintre fișele de lucru sau contribuții cu noi fișe de lucru pentru proiecte sunt toate binevenite.",
+
+        "TYPES": {
+            "TITLE": "Recunoașterea:",
+            "ALL": "Toate tipurile de proiecte",
+
+            "PREFIX": "Antrenează un computer să recunoască ",
+
+            "TEXT": "text",
+            "IMAGES": "imagini",
+            "NUMBERS": "numere",
+            "SOUNDS": "sunete",
+            "FACES": "fețe"
+        },
+
+        "LEVELS": {
+            "TITLE": "Dificultate:",
+            "ALL": "Toate dificultățile",
+            "BEGINNER": "Proiecte pentru începători",
+            "INTERMEDIATE": "Proiecte intermediare",
+            "ADVANCED": "Proiecte avansate"
+        },
+
+        "DOWNLOAD": "Descarcă",
+
+        "DOWNLOADS": {
+            "AUDIENCE": {
+                "TEACHERS": "Pentru profesori:",
+                "STUDENTS": "Pentru elevi:"
+            },
+            "GUIDANCE": {
+                "TITLE": "Descarcă ghidul pentru profesori",
+                "DETAIL": "Această fișă conține informații pentru profesori sau lideri de grup de codare pentru a-i ajuta să pregătească, să configureze și să supravegheze acest proiect.",
+                "NOTES": "Note:"
+            },
+            "WORKSHEET": {
+                "TITLE": "Descarcă fișa de lucru a proiectului",
+                "AUTHOR": "Fișă de lucru furnizată de:"
+            },
+            "RESOURCES": {
+                "TITLE": "Resurse suplimentare pentru proiect",
+                "DETAIL": "De asemenea, va trebui să furnizați elevilor o copie tipărită a acestui fișier."
+            }
+        },
+
+        "MAKETYPES": {
+            "ALL": "Toate tipurile de creații",
+
+            "SCRATCH": "Proiecte Scratch",
+            "PYTHON": "Proiecte Python",
+            "APPINVENTOR": "Proiecte App Inventor",
+
+            "SCRATCH_WORKSHEET": "Fișă de lucru pentru realizarea proiectului în Scratch",
+            "PYTHON_WORKSHEET": "Fișă de lucru pentru realizarea proiectului în Python",
+            "APPINVENTOR_WORKSHEET": "Fișă de lucru pentru realizarea proiectului în App Inventor"
+        },
+
+        "NO_WORKSHEETS": {
+            "NO_MATCHES": "Nu există fișe de lucru pentru proiecte care să se potrivească cu acești filtre.",
+            "MAKE_YOUR_OWN": "Ai putea adapta unele dintre fișele de lucru existente sau să vii cu una nouă.",
+            "CONTRIBUTE": "Dacă o faci, te rugăm să iei în considerare <a href='https://github.com/IBM/taxinomitis-docs/blob/master/README.md#contributions'>contribuirea ei pentru ca alții să o folosească</a>."
+        },
+
+
+        "DESCRIBETHEGLASS": {
+            "TITLE": "Descrie paharul",
+            "SUMMARY": "Învață un computer să îți prezică răspunsurile",
+            "DESCRIPTION": "Creează un joc în Scratch care învață atunci când descrii un pahar ca fiind pe jumătate plin sau pe jumătate gol.",
+            "TEACHERSNOTES_URL": "https://github.com/IBM/taxinomitis-docs/raw/master/teachers-notes/pdf/teachersnotes-describetheglass.pdf",
+            "WORKSHEET_1": {
+                "URL": "https://github.com/IBM/taxinomitis-docs/raw/master/project-worksheets/pdf/worksheet-describetheglass.pdf"
+            }
+        },
+        "SMARTCLASSROOM": {
+            "TITLE": "Clasă inteligentă",
+            "SUMMARY": "Învață un computer să recunoască sensul comenzilor tale",
+            "DESCRIPTION": "Creează un asistent inteligent în Scratch care îți permite să controlezi dispozitive virtuale.",
+            "TEACHERSNOTES_URL": "https://github.com/IBM/taxinomitis-docs/raw/master/teachers-notes/pdf/teachersnotes-smartclassroom.pdf",
+            "WORKSHEET_1": {
+                "DESCRIPTION": "Versiunea completă a proiectului, în care elevii realizează mai întâi o versiune fără învățare automată",
+                "URL": "https://github.com/IBM/taxinomitis-docs/raw/master/project-worksheets/pdf/worksheet-smartclassroom.pdf"
+            },
+            "WORKSHEET_2": {
+                "DESCRIPTION": "Versiunea mai scurtă a proiectului, în care elevii realizează doar o versiune de învățare automată a asistentului",
+                "URL": "https://github.com/IBM/taxinomitis-docs/raw/master/project-worksheets/pdf/worksheet-smartclassroom-easy.pdf"
+            },
+            "WORKSHEET_3": {
+                "DESCRIPTION": "Versiunea rapidă simplificată a proiectului, ideală pentru utilizare ca primă introducere în instrument",
+                "URL": "https://github.com/IBM/taxinomitis-docs/raw/master/project-worksheets/pdf/worksheet-smartclassroom-tryitnow.pdf"
+            }
+        },
+        "MAKEMEHAPPY": {
+            "TITLE": "Fă-mă fericit",
+            "SUMMARY": "Învață un computer să recunoască complimente și insulte",
+            "DESCRIPTION": "Creează un personaj în Scratch care zâmbește dacă îi spui lucruri frumoase și plânge dacă îi spui lucruri urâte.",
+            "TEACHERSNOTES_URL": "https://github.com/IBM/taxinomitis-docs/raw/master/teachers-notes/pdf/teachersnotes-makemehappy.pdf",
+            "WORKSHEET_1": {
+                "DESCRIPTION": "Versiunea completă a proiectului Scratch, în care elevii realizează mai întâi o versiune fără învățare automată",
+                "URL": "https://github.com/IBM/taxinomitis-docs/raw/master/project-worksheets/pdf/worksheet-makemehappy.pdf"
+            },
+            "WORKSHEET_2": {
+                "DESCRIPTION": "Versiunea mai scurtă a proiectului Scratch, în care elevii realizează doar o versiune de învățare automată",
+                "URL": "https://github.com/IBM/taxinomitis-docs/raw/master/project-worksheets/pdf/worksheet-makemehappy-easy.pdf"
+            },
+            "WORKSHEET_3": {
+                "DESCRIPTION": "Proiect Python - pentru realizarea proiectului folosind Python",
+                "URL": "https://github.com/IBM/taxinomitis-docs/raw/master/project-worksheets/pdf/worksheet-makemehappy-python.pdf"
+            }
+        },
+        "SNAP": {
+            "TITLE": "Snap!",
+            "SUMMARY": "Învață un computer să recunoască cum arată pictogramele",
+            "DESCRIPTION": "Creează un joc de cărți în Scratch care învață să recunoască imaginile cărții tale.",
+            "TEACHERSNOTES_URL": "https://github.com/IBM/taxinomitis-docs/raw/master/teachers-notes/pdf/teachersnotes-snap.pdf",
+            "WORKSHEET_1": {
+                "DESCRIPTION": "Versiunea completă a proiectului, în care elevii își fac propriile cărți pe care vor antrena computerul să le recunoască",
+                "URL": "https://github.com/IBM/taxinomitis-docs/raw/master/project-worksheets/pdf/worksheet-snap.pdf"
+            },
+            "WORKSHEET_2": {
+                "DESCRIPTION": "Versiunea mai scurtă a proiectului, oferind copiilor cărți prefabricate pe care va trebui să le imprimați, pentru a economisi timp elevilor în a le face",
+                "URL": "https://github.com/IBM/taxinomitis-docs/raw/master/project-worksheets/pdf/worksheet-snap-easy.pdf",
+                "RESOURCES": "https://github.com/IBM/taxinomitis-docs/raw/master/project-worksheets/pdf/resources-snap-easy.pdf"
+            }
+        },
+        "CHAMELEON": {
+            "TITLE": "Cameleon",
+            "SUMMARY": "Învață un computer să recunoască culorile",
+            "DESCRIPTION": "Creează un cameleon în Scratch care își schimbă culoarea pentru a se potrivi cu fundalul.",
+            "TEACHERSNOTES_URL": "https://github.com/IBM/taxinomitis-docs/raw/master/teachers-notes/pdf/teachersnotes-chameleon.pdf",
+            "WORKSHEET_1": {
+                "URL": "https://github.com/IBM/taxinomitis-docs/raw/master/project-worksheets/pdf/worksheet-chameleon.pdf"
+            }
+        },
+        "MAILMANMAX": {
+            "TITLE": "Poștașul Max",
+            "SUMMARY": "Învață un computer să recunoască scrisul de mână",
+            "DESCRIPTION": "Creează un birou poștal de sortare în Scratch care poate recunoaște codurile poștale scrise de mână pe plicuri.",
+            "TEACHERSNOTES_URL": "https://github.com/IBM/taxinomitis-docs/raw/master/teachers-notes/pdf/teachersnotes-mailmanmax.pdf",
+            "WORKSHEET_1": {
+                "URL": "https://github.com/IBM/taxinomitis-docs/raw/master/project-worksheets/pdf/worksheet-mailmanmax.pdf"
+            }
+        },
+        "SHOOTTHEBUG": {
+            "TITLE": "Împușcă gândacul",
+            "SUMMARY": "Învață un computer să joace un joc",
+            "DESCRIPTION": "Creează un joc arcade de tip Breakout în Scratch care învață unghiul la care să tragă mingi.",
+            "TEACHERSNOTES_URL": "https://github.com/IBM/taxinomitis-docs/raw/master/teachers-notes/pdf/teachersnotes-shootthebug.pdf",
+            "WORKSHEET_1": {
+                "URL": "https://github.com/IBM/taxinomitis-docs/raw/master/project-worksheets/pdf/worksheet-shootthebug.pdf"
+            }
+        },
+        "CARORCUP": {
+            "TITLE": "Mașină sau cană",
+            "SUMMARY": "Învață un computer să recunoască imagini cu obiecte",
+            "DESCRIPTION": "Antrenează computerul să poată sorta fotografiile în grupuri.",
+            "TEACHERSNOTES_URL": "https://github.com/IBM/taxinomitis-docs/raw/master/teachers-notes/pdf/teachersnotes-carorcup.pdf",
+            "WORKSHEET_1": {
+                "DESCRIPTION": "Versiunea individuală a proiectului, în care fiecare elev își antrenează propriul model de învățare automată independent",
+                "URL": "https://github.com/IBM/taxinomitis-docs/raw/master/project-worksheets/pdf/worksheet-carorcup.pdf"
+            },
+            "WORKSHEET_2": {
+                "DESCRIPTION": "Versiunea de grup a proiectului, în care elevii din clasă lucrează împreună pentru a antrena un model comun de învățare automată",
+                "URL": "https://github.com/IBM/taxinomitis-docs/raw/master/project-worksheets/pdf/worksheet-carorcup-crowd.pdf"
+            }
+        },
+        "FACELOCK": {
+            "TITLE": "Blocare facială",
+            "SUMMARY": "Învață un computer să recunoască fețele",
+            "DESCRIPTION": "Creează un telefon în Scratch care se deblochează dacă îți recunoaște fața.",
+            "TEACHERSNOTES_URL": "https://github.com/IBM/taxinomitis-docs/raw/master/teachers-notes/pdf/teachersnotes-facelock.pdf",
+            "WORKSHEET_1": {
+                "URL": "https://github.com/IBM/taxinomitis-docs/raw/master/project-worksheets/pdf/worksheet-facelock.pdf"
+            }
+        },
+        "JOURNEYTOSCHOOL": {
+            "TITLE": "Drumul spre școală",
+            "SUMMARY": "Învață un computer să facă predicții",
+            "DESCRIPTION": "Antrenează computerul să poată prezice cum călătorești la școală dimineața.",
+            "TEACHERSNOTES_URL": "https://github.com/IBM/taxinomitis-docs/raw/master/teachers-notes/pdf/teachersnotes-journeytoschool.pdf",
+            "WORKSHEET_1": {
+                "URL": "https://github.com/IBM/taxinomitis-docs/raw/master/project-worksheets/pdf/worksheet-journeytoschool.pdf"
+            }
+        },
+        "SHYPANDA": {
+            "TITLE": "Panda timid",
+            "SUMMARY": "Învață un computer să recunoască imagini de la camera web",
+            "DESCRIPTION": "Creează un panda dansator care devine timid și nu mai dansează dacă te vede privind.",
+            "TEACHERSNOTES_URL": "https://github.com/IBM/taxinomitis-docs/raw/master/teachers-notes/pdf/teachersnotes-shypanda.pdf",
+            "WORKSHEET_1": {
+                "URL": "https://github.com/IBM/taxinomitis-docs/raw/master/project-worksheets/pdf/worksheet-shypanda.pdf"
+            }
+        },
+        "VIRTUALPET": {
+            "TITLE": "Animal de companie virtual",
+            "SUMMARY": "Învață un computer să recunoască imagini de la camera web",
+            "DESCRIPTION": "Antrenează computerul să recunoască ceea ce faci, astfel încât să poți avea grijă de un animal de companie virtual.",
+            "TEACHERSNOTES_URL": "https://github.com/IBM/taxinomitis-docs/raw/master/teachers-notes/pdf/teachersnotes-virtualpet.pdf",
+            "WORKSHEET_1": {
+                "URL": "https://github.com/IBM/taxinomitis-docs/raw/master/project-worksheets/pdf/worksheet-virtualpet.pdf"
+            }
+        },
+        "PACMAN": {
+            "TITLE": "Pac-Man",
+            "SUMMARY": "Învață un computer să joace un joc",
+            "DESCRIPTION": "Creează un joc Pac-Man în Scratch care învață cum să evite fantoma.",
+            "TEACHERSNOTES_URL": "https://github.com/IBM/taxinomitis-docs/raw/master/teachers-notes/pdf/teachersnotes-pacman.pdf",
+            "WORKSHEET_1": {
+                "URL": "https://github.com/IBM/taxinomitis-docs/raw/master/project-worksheets/pdf/worksheet-pacman.pdf"
+            }
+        },
+        "CHATBOTS": {
+            "TITLE": "Chatboți",
+            "SUMMARY": "Învață un computer să recunoască întrebările",
+            "DESCRIPTION": "Creează un chatbot care poate răspunde la întrebări despre un subiect la alegere.",
+            "TEACHERSNOTES_URL": "https://github.com/IBM/taxinomitis-docs/raw/master/teachers-notes/pdf/teachersnotes-chatbots.pdf",
+            "WORKSHEET_1": {
+                "DESCRIPTION": "Proiect Scratch - pentru realizarea unui chatbot în Scratch",
+                "URL": "https://github.com/IBM/taxinomitis-docs/raw/master/project-worksheets/pdf/worksheet-chatbots.pdf"
+            },
+            "WORKSHEET_2": {
+                "DESCRIPTION": "Proiect Python - pentru realizarea unui chatbot folosind Python",
+                "URL": "https://github.com/IBM/taxinomitis-docs/raw/master/project-worksheets/pdf/worksheet-chatbots-python.pdf"
+            }
+        },
+        "TOURISTINFO": {
+            "TITLE": "Info Turist",
+            "SUMMARY": "Învață un computer să facă recomandări",
+            "DESCRIPTION": "Creează o aplicație mobilă în Scratch care recomandă atracții turistice pe baza intereselor oamenilor.",
+            "TEACHERSNOTES_URL": "https://github.com/IBM/taxinomitis-docs/raw/master/teachers-notes/pdf/teachersnotes-touristinfo.pdf",
+            "WORKSHEET_1": {
+                "URL": "https://github.com/IBM/taxinomitis-docs/raw/master/project-worksheets/pdf/worksheet-touristinfo.pdf"
+            }
+        },
+        "SORTINGHAT": {
+            "TITLE": "Pălăria Sortatoare",
+            "SUMMARY": "Învață un computer să recunoască utilizarea limbajului",
+            "DESCRIPTION": "Creează o Pălărie Sortatoare ca în Harry Potter, care te pune într-o Casă a școlii pe baza a ceea ce spui.",
+            "TEACHERSNOTES_URL": "https://github.com/IBM/taxinomitis-docs/raw/master/teachers-notes/pdf/teachersnotes-sortinghat.pdf",
+            "WORKSHEET_1": {
+                "DESCRIPTION": "Versiunea individuală a proiectului, în care fiecare elev își antrenează propriul model de învățare automată independent",
+                "URL": "https://github.com/IBM/taxinomitis-docs/raw/master/project-worksheets/pdf/worksheet-sortinghat.pdf"
+            },
+            "WORKSHEET_2": {
+                "DESCRIPTION": "Versiunea de grup a proiectului, în care elevii din clasă lucrează împreună pentru a antrena un model comun de învățare automată",
+                "URL": "https://github.com/IBM/taxinomitis-docs/raw/master/project-worksheets/pdf/worksheet-sortinghat-crowd.pdf"
+            }
+        },
+        "ROCKPAPERSCISSORS": {
+            "TITLE": "Piatră, Hârtie, Foarfece",
+            "SUMMARY": "Învață un computer să recunoască forme",
+            "DESCRIPTION": "Creează un joc de Piatră, Hârtie, Foarfece în Scratch care învață să recunoască formele mâinii.",
+            "TEACHERSNOTES_URL": "https://github.com/IBM/taxinomitis-docs/raw/master/teachers-notes/pdf/teachersnotes-rockpaperscissors.pdf",
+            "WORKSHEET_1": {
+                "URL": "https://github.com/IBM/taxinomitis-docs/raw/master/project-worksheets/pdf/worksheet-rockpaperscissors.pdf"
+            }
+        },
+        "JUDGEABOOK": {
+            "TITLE": "Judecă o carte",
+            "SUMMARY": "Învață un computer să recunoască stilul vizual",
+            "DESCRIPTION": "Creează un joc în Scratch pentru a testa dacă este cu adevărat posibil să judeci o carte după copertă.",
+            "TEACHERSNOTES_URL": "https://github.com/IBM/taxinomitis-docs/raw/master/teachers-notes/pdf/teachersnotes-judgeabook.pdf",
+            "WORKSHEET_1": {
+                "DESCRIPTION": "Versiunea completă a proiectului, în care copiii fac un joc pentru a concura împotriva computerului pentru a recunoaște cărți",
+                "URL": "https://github.com/IBM/taxinomitis-docs/raw/master/project-worksheets/pdf/worksheet-judgeabook.pdf"
+            },
+            "WORKSHEET_2": {
+                "DESCRIPTION": "Versiunea simplificată a proiectului, în care copiii îl fac pe computer să recunoască cărți",
+                "URL": "https://github.com/IBM/taxinomitis-docs/raw/master/project-worksheets/pdf/worksheet-judgeabook-easy.pdf"
+            }
+        },
+        "LOCATELARRY": {
+            "TITLE": "Găsește-l pe Larry",
+            "SUMMARY": "Învață un computer să găsească ceva într-o imagine",
+            "DESCRIPTION": "Creează un joc de tip „Unde este Wally?” în Scratch și învață computerul să îți găsească personajul.",
+            "TEACHERSNOTES_URL": "https://github.com/IBM/taxinomitis-docs/raw/master/teachers-notes/pdf/teachersnotes-locatelarry.pdf",
+            "WORKSHEET_1": {
+                "URL": "https://github.com/IBM/taxinomitis-docs/raw/master/project-worksheets/pdf/worksheet-locatelarry.pdf"
+            }
+        },
+        "FOOLED": {
+            "TITLE": "Păcălit",
+            "SUMMARY": "Învață un computer să recunoască fructe",
+            "DESCRIPTION": "Află cum computerele pot fi confuze și pot face greșeli dacă sunt antrenate prost.",
+            "TEACHERSNOTES_URL": "https://github.com/IBM/taxinomitis-docs/raw/master/teachers-notes/pdf/teachersnotes-fooled.pdf",
+            "WORKSHEET_1": {
+                "URL": "https://github.com/IBM/taxinomitis-docs/raw/master/project-worksheets/pdf/worksheet-fooled.pdf"
+            }
+        },
+        "SCHOOLLIBRARY": {
+            "TITLE": "Biblioteca școlii",
+            "SUMMARY": "Învață un computer să facă recomandări",
+            "DESCRIPTION": "Creează un bibliotecar școlar în Scratch care sugerează pentru cine ar putea fi potrivită o carte de lectură.",
+            "TEACHERSNOTES_URL": "https://github.com/IBM/taxinomitis-docs/raw/master/teachers-notes/pdf/teachersnotes-schoollibrary.pdf",
+            "WORKSHEET_1": {
+                "URL": "https://github.com/IBM/taxinomitis-docs/raw/master/project-worksheets/pdf/worksheet-schoollibrary.pdf"
+            }
+        },
+        "WHATTWITTERTHINKS": {
+            "TITLE": "Ce crede Twitter?",
+            "SUMMARY": "Învață un computer să măsoare opinia publică",
+            "DESCRIPTION": "Creează un instrument de analiză a sentimentelor în Scratch pentru a analiza discuțiile de pe Twitter.",
+            "TEACHERSNOTES_URL": "https://github.com/IBM/taxinomitis-docs/raw/master/teachers-notes/pdf/teachersnotes-whattwitterthinks.pdf",
+            "WORKSHEET_1": {
+                "URL": "https://github.com/IBM/taxinomitis-docs/raw/master/project-worksheets/pdf/worksheet-whattwitterthinks.pdf"
+            }
+        },
+        "NOUGHTSANDCROSSES": {
+            "TITLE": "X și 0",
+            "SUMMARY": "Învață un computer să joace un joc",
+            "DESCRIPTION": "Creează un joc de X și 0 în Python care învață cum să te bată.",
+            "TEACHERSNOTES_URL": "https://github.com/IBM/taxinomitis-docs/raw/master/teachers-notes/pdf/teachersnotes-noughtsandcrosses.pdf",
+            "WORKSHEET_1": {
+                "DESCRIPTION": "Versiunea de clasă, în care fiecare elev realizează singur jocul în Scratch",
+                "URL": "https://github.com/IBM/taxinomitis-docs/raw/master/project-worksheets/pdf/worksheet-noughtsandcrosses.pdf"
+            },
+            "WORKSHEET_2": {
+                "DESCRIPTION": "Versiunea de clasă, în care fiecare elev realizează singur jocul în Python",
+                "URL": "https://github.com/IBM/taxinomitis-docs/raw/master/project-worksheets/pdf/worksheet-noughtsandcrosses-python.pdf"
+            },
+            "WORKSHEET_3": {
+                "DESCRIPTION": "Versiune demonstrativă, pentru evenimente precum Târguri de Știință, unde fiecare copil are un minut sau două pentru a încerca ceva",
+                "URL": "https://github.com/IBM/taxinomitis-docs/raw/master/project-worksheets/pdf/worksheet-noughtsandcrosses-event.pdf"
+            }
+        },
+        "TOPTRUMPS": {
+            "TITLE": "Top Trumps",
+            "SUMMARY": "Învață un computer să joace un joc",
+            "DESCRIPTION": "Antrenează un computer să poată juca jocul de cărți Top Trumps în Scratch.",
+            "TEACHERSNOTES_URL": "https://github.com/IBM/taxinomitis-docs/raw/master/teachers-notes/pdf/teachersnotes-toptrumps.pdf",
+            "WORKSHEET_1": {
+                "URL": "https://github.com/IBM/taxinomitis-docs/raw/master/project-worksheets/pdf/worksheet-toptrumps.pdf"
+            }
+        },
+        "HEADLINES": {
+            "TITLE": "Titluri",
+            "SUMMARY": "Testează capacitatea computerului de a recunoaște utilizarea limbajului",
+            "DESCRIPTION": "Antrenează un computer să recunoască titluri din ziare naționale.",
+            "WORKSHEET_1": {
+                "URL": "https://github.com/IBM/taxinomitis-docs/raw/master/project-worksheets/pdf/worksheet-headlines.pdf"
+            }
+        },
+        "NEWSPAPERSHELVES": {
+            "TITLE": "Rafturi de ziare",
+            "SUMMARY": "Testează capacitatea computerului de a recunoaște utilizarea limbajului",
+            "DESCRIPTION": "Antrenează un computer să recunoască titluri din ziare naționale.",
+            "TEACHERSNOTES_URL": "https://github.com/IBM/taxinomitis-docs/raw/master/teachers-notes/pdf/teachersnotes-headlines-easy.pdf",
+            "WORKSHEET_1": {
+                "URL": "https://github.com/IBM/taxinomitis-docs/raw/master/project-worksheets/pdf/worksheet-headlines-easy.pdf"
+            }
+        },
+        "HEADLINETESTING": {
+            "TITLE": "Testarea titlurilor",
+            "SUMMARY": "Testează capacitatea computerului de a recunoaște utilizarea limbajului",
+            "DESCRIPTION": "Creează un instrument de testare în Scratch pentru a măsura cât de bun este un model de învățare automată.",
+            "TEACHERSNOTES_URL": "https://github.com/IBM/taxinomitis-docs/raw/master/teachers-notes/pdf/teachersnotes-headlines.pdf",
+            "WORKSHEET_1": {
+                "URL": "https://github.com/IBM/taxinomitis-docs/raw/master/project-worksheets/pdf/worksheet-headlines.pdf"
+            }
+        },
+        "FINDIT": {
+            "TITLE": "Găsește-l!",
+            "SUMMARY": "Învață un computer să recunoască imagini",
+            "DESCRIPTION": "Creează un joc de-a v-ați ascunselea pentru telefonul tău mobil.",
+            "TEACHERSNOTES_URL": "https://github.com/IBM/taxinomitis-docs/raw/master/teachers-notes/pdf/teachersnotes-findit.pdf",
+            "WORKSHEET_1": {
+                "URL": "https://github.com/IBM/taxinomitis-docs/raw/master/project-worksheets/pdf/worksheet-findit.pdf"
+            }
+        },
+        "ALIENLANGUAGE": {
+            "TITLE": "Limbă extraterestră",
+            "SUMMARY": "Învață un computer să recunoască sunete",
+            "DESCRIPTION": "Creează un extraterestru în Scratch care învață să recunoască o limbă extraterestră.",
+            "TEACHERSNOTES_URL": "https://github.com/IBM/taxinomitis-docs/raw/master/teachers-notes/pdf/teachersnotes-alienlanguage.pdf",
+            "WORKSHEET_1": {
+                "URL": "https://github.com/IBM/taxinomitis-docs/raw/master/project-worksheets/pdf/worksheet-alienlanguage.pdf"
+            }
+        },
+        "SECRETCODE": {
+            "TITLE": "Cod secret",
+            "SUMMARY": "Învață un computer să recunoască vorbirea",
+            "DESCRIPTION": "Antrenează un computer să înțeleagă cuvinte de cod secrete pentru a ghida un spion.",
+            "TEACHERSNOTES_URL": "https://github.com/IBM/taxinomitis-docs/raw/master/teachers-notes/pdf/teachersnotes-secretcode.pdf",
+            "WORKSHEET_1": {
+                "URL": "https://github.com/IBM/taxinomitis-docs/raw/master/project-worksheets/pdf/worksheet-secretcode.pdf"
+            }
+        },
+        "JARGONBUSTER": {
+            "TITLE": "Explicator de jargon",
+            "SUMMARY": "Învață un computer să asculte cuvinte",
+            "DESCRIPTION": "Creează un proiect în Scratch care afișează sensul cuvintelor pe care le spui.",
+            "TEACHERSNOTES_URL": "https://github.com/IBM/taxinomitis-docs/raw/master/teachers-notes/pdf/teachersnotes-jargonbuster.pdf",
+            "WORKSHEET_1": {
+                "URL": "https://github.com/IBM/taxinomitis-docs/raw/master/project-worksheets/pdf/worksheet-jargonbuster.pdf"
+            }
+        },
+        "TITANIC": {
+            "TITLE": "Titanic",
+            "SUMMARY": "Învață un computer să prezică rezultate",
+            "DESCRIPTION": "Creează un program Python care poate prezice cine a supraviețuit scufundării Titanicului.",
+            "TEACHERSNOTES_URL": "https://github.com/IBM/taxinomitis-docs/raw/master/teachers-notes/pdf/teachersnotes-titanic.pdf",
+            "WORKSHEET_1": {
+                "URL": "https://github.com/IBM/taxinomitis-docs/raw/master/project-worksheets/pdf/worksheet-titanic-python.pdf"
+            }
+        },
+        "ZOMBIEESCAPE": {
+            "TITLE": "Evadare zombie!",
+            "SUMMARY": "Învață un computer să facă predicții",
+            "DESCRIPTION": "Antrenează un computer să te ajute să scapi de hoarda de zombie.",
+            "TEACHERSNOTES_URL": "https://github.com/IBM/taxinomitis-docs/raw/master/teachers-notes/pdf/teachersnotes-zombieescape.pdf",
+            "WORKSHEET_1": {
+                "URL": "https://github.com/IBM/taxinomitis-docs/raw/master/project-worksheets/pdf/worksheet-zombieescape.pdf"
+            }
+        },
+        "PHISHING": {
+            "TITLE": "Phishing",
+            "SUMMARY": "Învață un computer să recunoască link-uri de phishing",
+            "DESCRIPTION": "Creează un program Python care poate prezice dacă un URL este legitim.",
+            "TEACHERSNOTES_URL": "https://github.com/IBM/taxinomitis-docs/raw/master/teachers-notes/pdf/teachersnotes-phishing.pdf",
+            "WORKSHEET_1": {
+                "URL": "https://github.com/IBM/taxinomitis-docs/raw/master/project-worksheets/pdf/worksheet-phishing.pdf"
+            }
+        },
+        "KIWIORSTOAT": {
+            "TITLE": "Kiwi sau Nevăstuică",
+            "SUMMARY": "Învață un computer să recunoască fotografii cu animale",
+            "DESCRIPTION": "Creează un proiect în Scratch care poate recunoaște animalele din fotografiile de pe site-urile de conservare.",
+            "WORKSHEET_1": {
+                "URL": "https://github.com/IBM/taxinomitis-docs/raw/master/project-worksheets/pdf/worksheet-kiwiorstoat.pdf"
+            }
+        },
+        "INKBLOTS": {
+            "TITLE": "Pete de cerneală",
+            "SUMMARY": "Învață un computer să recunoască fotografii cu obiecte",
+            "DESCRIPTION": "Recrează un proiect de cercetare MIT și află despre modul în care sunt descrise sistemele IA în știri.",
+            "TEACHERSNOTES_URL": "https://github.com/IBM/taxinomitis-docs/raw/master/teachers-notes/pdf/teachersnotes-inkblots.pdf",
+            "WORKSHEET_1": {
+                "URL": "https://github.com/IBM/taxinomitis-docs/raw/master/project-worksheets/pdf/worksheet-inkblots.pdf"
+            }
+        },
+        "FACEFINDER": {
+            "TITLE": "Găsitor de fețe",
+            "SUMMARY": "Folosește un computer care a fost antrenat să recunoască fețele",
+            "DESCRIPTION": "Creează un filtru video în Scratch pentru a-ți transforma fața într-un desen animat.",
+            "TEACHERSNOTES_URL": "https://github.com/IBM/taxinomitis-docs/raw/master/teachers-notes/pdf/teachersnotes-facefinder.pdf",
+            "WORKSHEET_1": {
+                "URL": "https://github.com/IBM/taxinomitis-docs/raw/master/project-worksheets/pdf/worksheet-facefinder.pdf"
+            }
+        },
+        "EMOJIMASK": {
+            "TITLE": "Mască Emoji",
+            "SUMMARY": "Folosește un computer care a fost antrenat să recunoască fețele",
+            "DESCRIPTION": "Creează un filtru video în Scratch pentru a adăuga o mască emoji pe fața ta.",
+            "TEACHERSNOTES_URL": "https://github.com/IBM/taxinomitis-docs/raw/master/teachers-notes/pdf/teachersnotes-emojimask.pdf",
+            "WORKSHEET_1": {
+                "URL": "https://github.com/IBM/taxinomitis-docs/raw/master/project-worksheets/pdf/worksheet-emojimask.pdf"
+            }
+        },
+        "LASEREYES": {
+            "TITLE": "Ochi laser",
+            "SUMMARY": "Învață un computer să recunoască vorbirea și fețele",
+            "DESCRIPTION": "Creează un joc cu ochi laser activat prin voce în Scratch.",
+            "TEACHERSNOTES_URL": "https://github.com/IBM/taxinomitis-docs/raw/master/teachers-notes/pdf/teachersnotes-lasereyes.pdf",
+            "WORKSHEET_1": {
+                "URL": "https://github.com/IBM/taxinomitis-docs/raw/master/project-worksheets/pdf/worksheet-lasereyes.pdf"
+            }
+        },
+        "SEMAPHORES": {
+            "TITLE": "Quiz Semafoare",
+            "SUMMARY": "Învață un computer să recunoască vorbirea și pozițiile",
+            "DESCRIPTION": "Creează un joc de semafoare activat prin voce pe care îl joci mișcându-ți brațele.",
+            "TEACHERSNOTES_URL": "https://github.com/IBM/taxinomitis-docs/raw/master/teachers-notes/pdf/teachersnotes-semaphores.pdf",
+            "WORKSHEET_1": {
+                "URL": "https://github.com/IBM/taxinomitis-docs/raw/master/project-worksheets/pdf/worksheet-semaphores.pdf"
+            }
+        },
+        "HANDGESTURES": {
+            "TITLE": "Gesturi cu mâna",
+            "SUMMARY": "Învață un computer să recunoască forme",
+            "DESCRIPTION": "Creează un proiect cu camera web în Scratch care poate recunoaște formele pe care le faci cu mâinile.",
+            "TEACHERSNOTES_URL": "https://github.com/IBM/taxinomitis-docs/raw/master/teachers-notes/pdf/teachersnotes-handgestures.pdf",
+            "WORKSHEET_1": {
+                "URL": "https://github.com/IBM/taxinomitis-docs/raw/master/project-worksheets/pdf/worksheet-handgestures.pdf"
+            }
+        }
+    },
+    "TEACHER": {
+        "MENU": {
+            "TITLE": "Administrare",
+
+            "RESTRICTIONS": {
+                "TITLE": "Restricții",
+                "DESCRIPTION": "Revizuiește limitele și restricțiile care se aplică clasei tale"
+            },
+            "APIKEYS": {
+                "TITLE": "Chei API",
+                "TITLELONG": "Chei API Watson",
+                "DESCRIPTION": "Configurează acreditările IBM Watson pentru a permite clasei tale să creeze modele de învățare automată"
+            },
+            "STUDENTS": {
+                "TITLE": "Elevi",
+                "TITLELONG": "Gestionarea elevilor",
+                "DESCRIPTION": "Creează, resetează și șterge datele de conectare pentru elevii din clasa ta"
+            },
+            "SUPERVISION": {
+                "TITLE": "Supraveghere",
+                "DESCRIPTION": "Revizuiește proiectele pe care le-au creat elevii tăi"
+            },
+
+            "ADVANCEDOPTIONS": "Opțiuni avansate",
+
+            "DELETECLASS": {
+                "TITLE": "Șterge clasa",
+                "DESCRIPTION": "Aceasta va șterge conturile pentru tine și pentru toți elevii din clasa ta"
+            },
+
+            "CANYOUHELP": {
+                "TITLE": "Poți ajuta?",
+                "DESCRIPTION": "Te rugăm să împărtășești experiențele și ideile tale despre cum să faci instrumentul mai bun"
+            },
+
+            "NOTAUTHORISED": "Nu ești autorizat să accesezi pagina profesorului pentru clasa ta."
+        },
+        "APIKEYS": {
+            "TITLE": "Administrare : Chei API IBM Watson",
+
+            "ADDNEWCREDENTIALS": "Adaugă acreditări noi",
+            "ADDAPIKEY": "Adaugă cheie API nouă",
+            "REMOVE": "Elimină",
+            "VERIFY": "Verifică",
+
+            "LITE_30_DAYS_EXPIRE": "IBM Cloud poate dezactiva cheile API Watson din planul 'Lite' dacă nu sunt utilizate timp de 30 de zile",
+            "TRIAL_30_DAYS_EXPIRE": "IBM Cloud poate dezactiva cheile API Watson din planul de încercare după 30 de zile",
+
+            "NO_TEXT_CREDENTIALS": "Nu ai nicio acreditare Assistant. <br/>Aceasta înseamnă că nu va fi posibil să antrenezi modele pentru proiecte <strong>text</strong>.",
+            "NO_IMAGE_CREDENTIALS": "Nu ai nicio cheie API Visual Recognition. <br/>Aceasta înseamnă că elevii tăi vor putea antrena modele pentru proiecte <strong>imagini</strong> numai pe computerul lor (nu în cloud).",
+
+            "LINK_TO_APIKEYS_GUIDE": "Dacă nu ești sigur de unde să le obții, descarcă <a href='/apikeys-guide'>ghidul pas cu pas</a>",
+
+            "NOTAUTHORISED": "Nu ești autorizat să accesezi cheile API Watson utilizate de clasa ta.",
+            "MANAGEDCLASS": "Cheile API utilizate de clasa ta sunt gestionate pentru tine.",
+
+            "HELP_STEPBYSTEP_GUIDE": "Dacă nu ești sigur ce să faci aici, te rugăm să urmezi <a href='/apikeys-guide'>ghidul pas cu pas</a>. Dacă ai nevoie de ajutor, te rugăm <strong><a style='cursor: pointer;' href='/help'>să ne contactezi</a></strong>.",
+
+            "INTRO_WATSONASSISTANT": "Antrenarea modelelor de învățare automată pentru proiecte <span class='mlprojecttype'>text</span> folosește <a class='mlprojecttype' href='https://www.ibm.com/cloud/watson-assistant/'>Watson Assistant</a>",
+            "INTRO_VISUALRECOGNITION": "Antrenarea modelelor de învățare automată pentru proiecte <span class='mlprojecttype'>imagini</span> în cloud folosește <a class='mlprojecttype' href='https://www.ibm.com/watson/services/visual-recognition/'>Watson Visual Recognition</a>",
+            "INTRO_NUMBERS": "Antrenarea modelelor de învățare automată pentru proiecte <span class='mlprojecttype'>numere</span> <strong>nu</strong> necesită nicio cheie API",
+            "INTRO_SOUNDS": "Antrenarea modelelor de învățare automată pentru proiecte <span class='mlprojecttype'>sunet</span> <strong>nu</strong> necesită nicio cheie API",
+            "INTRO_IMAGES": "Antrenarea modelelor de învățare automată pentru proiecte <span class='mlprojecttype'>imagini</span> <strong>nu</strong> necesită nicio cheie API",
+
+            "ERROR_FETCHING_WATSONASSISTANT": "Nu s-au putut obține parolele tale Watson Assistant",
+            "ERROR_FETCHING_VISUALRECOG": "Nu s-au putut obține cheile tale API Visual Recognition",
+
+            "USERNAME": "Nume utilizator",
+            "PASSWORD": "Parolă",
+            "APIKEY": "Cheie API",
+
+            "NUMBER_OF_ML_MODELS": "Număr de modele ML",
+            "UNKNOWN": "necunoscut",
+            "UNLIMITED": "nelimitat",
+
+            "LIMIT_TEXT_PROJECTS": "Numărul de modele de învățare automată pentru text pe care elevii tăi le pot avea:",
+            "LIMIT_IMAGE_PROJECTS": "Numărul de modele de învățare automată pentru imagini pe care elevii tăi le pot avea:",
+
+            "ADD_API_KEYS": {
+                "ASSISTANT_TITLE": "Adaugă acreditări Watson Assistant",
+                "VISUAL_RECOGNITION_TITLE": "Adaugă cheie API Visual Recognition",
+
+                "USED_FOR_TEXT_PROJECTS": "Acestea vor fi utilizate atunci când elevii tăi antrenează modele în proiecte text.",
+                "USED_FOR_IMAGE_PROJECTS": "Acestea vor fi utilizate atunci când elevii tăi antrenează modele în proiecte imagini.",
+
+                "HIDDEN_FROM_STUDENTS": "Acest lucru nu va fi afișat elevilor din grupul tău.",
+
+                "PRICING_PLAN": "Ce plan de prețuri ai folosit?",
+                "ENTER_APIKEY": "Te rugăm să introduci cheia API mai jos",
+                "ENTER_PASSWORD": "Te rugăm să introduci numele de utilizator și parola mai jos",
+
+                "CREDENTIALS_TYPE": "Ce ai creat în Watson Assistant?"
+            }
+        },
+        "RESTRICTIONS": {
+            "TITLE": "Administrare : Restricții",
+
+            "ASK_FOR_CHANGES": "Dacă oricare dintre aceste restricții cauzează o problemă pentru grupul tău, te rugăm <strong><a href='/help'>să ne contactezi</a></strong>.",
+
+            "CLASS_LIMITS": {
+                "TITLE": "Limite pentru clasa ta",
+                "NUM_USERS": "Poți avea până la <span class='mlprojecttype'>{{ num }}</span> utilizatori (inclusiv elevi și profesori) în grupul tău.",
+                "NUM_TEXT_MODELS": "Clasa ta are voie să aibă până la <span class='mlprojecttype'>{{ num }}</span> modele de învățare automată în total în toate proiectele lor <span class='mlprojecttype'>text</span>.",
+                "NUM_IMAGE_MODELS": "Clasa ta are voie să aibă până la <span class='mlprojecttype'>{{ num }}</span> modele de învățare automată în total în toate proiectele lor <span class='mlprojecttype'>imagini</span>.</div>"
+            },
+            "PROJECT_LIMITS": {
+                "TITLE": "Limite pentru proiectele create de elevii tăi",
+                "NUM_PROJECTS": "Fiecare dintre elevii tăi are voie să aibă până la <span class='mlprojecttype'>{{ num }}</span> proiecte.",
+                "TYPES": "Elevii tăi pot crea proiecte pentru a recunoaște <span class='mlprojecttype'>{{ types }}</span>.",
+                "TRAINING_DATA": "Fiecare proiect <span class='mlprojecttype'>{{ type }}</span> poate avea până la <span class='mlprojecttype'>{{ num }}</span> exemple de date de antrenare. "
+            },
+            "EXPIRY": {
+                "TITLE": "Pentru a vă ajuta să evitați limitele privind numărul de modele de învățare automată:",
+                "TIME_LIMIT": "Modelele de învățare automată create pentru proiecte <span class='mlprojecttype'>{{ type }}</span> vor fi șterse automat după <span class='mlprojecttype'>{{ num }}</span> ore.",
+                "DONT_WORRY": "(Nu vă faceți griji! Datele de antrenare nu vor fi șterse, așa că elevii pot oricând să antreneze din nou un nou model de învățare automată dacă au nevoie de el după aceasta.)"
+            },
+
+            "NOT_AUTHORIZED": "Nu ești autorizat să accesezi restricțiile în vigoare pentru clasa ta."
+        },
+        "SUPERVISION": {
+            "TITLE": "Administrare : Proiecte ale elevilor",
+
+            "INTRO_1": "Această pagină afișează o listă cu toate proiectele pe care le are în prezent clasa ta. Poți să o folosești pentru a revizui la ce lucrează.",
+            "INTRO_2": "Dacă ați atins limita pentru numărul de modele de învățare automată pe care clasa ta le poate crea, poți folosi aceasta pentru a vedea ce proiecte au în prezent un model de învățare automată și să le ștergi pe cele pe care crezi că nu mai sunt necesare.",
+
+            "NO_PROJECTS_1": "Niciunul dintre elevii din clasa ta nu are în prezent niciun proiect.",
+            "NO_PROJECTS_2": "Odată ce elevii tăi încep să creeze proiecte, revino aici pentru a vedea o imagine de ansamblu a muncii lor.",
+
+            "NAME": "Nume",
+            "TYPE": "Tip",
+            "STUDENT": "Elev",
+            "MODELS": "Modele ML",
+
+            "DELETE": "Faceți clic pe pictogramă pentru a șterge",
+
+            "NOT_AUTHORIZED": "Nu ești autorizat să accesezi lista de proiecte pentru toți elevii din clasa ta."
+        },
+        "STUDENTMANAGEMENT": {
+            "TITLE": "Administrare : Gestionarea elevilor",
+
+            "CREATE_FIRST_STUDENT": "Faceți clic pe un buton 'plus' din dreapta pentru a crea primul elev",
+            "ADD": "Adaugă elev nou",
+            "NEW_USERNAME": "Alege un nume de utilizator unic",
+            "ALPHANUMERIC": "Folosește numai litere și numere",
+
+            "NOT_LOGGED_IN": "Nu s-a conectat încă",
+
+            "RESET_PASSWORD": "Resetează parola",
+            "RESET_ALL_PASSWORDS": "Resetează parola pentru toți elevii",
+
+            "DELETE_STUDENT": "Șterge contul elevului",
+
+            "NOT_AUTHORIZED": "Nu ești autorizat să accesezi lista de elevi din clasa ta.",
+
+            "ADD_MULTIPLE": {
+                "BUTTON" : "Mai mulți elevi",
+
+                "TITLE" : "Adaugă elevi noi",
+                "INTRO" : "Poți folosi aceasta pentru a crea mai multe conturi de elevi în același timp.",
+                "USERNAME" : "Cu ce dorești să înceapă fiecare nume de utilizator?",
+                "USERNAME_REQUIRED" : "Alege prefixul pentru numele de utilizator",
+                "USERNAME_TOOLONG" : "Este prea lung",
+                "USERNAME_INVALID" : "Caractere invalide",
+                "NUMBER" : "Câte conturi de elevi dorești?",
+                "NUMBER_REQUIRED" : "Introdu numărul de elevi de creat",
+                "NUMBER_TOOMANY" : "Clasa ta are o limită de {{userslimit}} elevi.",
+                "PASSWORD" : "Parola pe care să le-o dai:",
+                "PASSWORD_TOOSHORT" : "Prea scurtă"
+            }
+        }
+    },
+    "SCRATCHBLOCKS": {
+        "TEXT_PROJECTS": {
+            "mlforkids.text.recogniseLabel": "recunoaște text [TEXT] (etichetă)",
+            "mlforkids.text.recogniseConfidence": "recunoaște text [TEXT] (încredere)",
+            "mlforkids.text.addTraining": "adaugă date de antrenare [TEXT] [LABEL]",
+            "mlforkids.text.trainNewModel": "antrenează un nou model de învățare automată",
+            "mlforkids.text.checkModelStatus": "Este modelul de învățare automată [STATUS] ?"
+        },
+        "IMAGES_PROJECTS": {
+            "mlforkids.images.recogniseLabel": "recunoaște imagine [IMAGE] (etichetă)",
+            "mlforkids.images.recogniseConfidence": "recunoaște imagine [IMAGE] (încredere)",
+            "mlforkids.images.addTraining": "adaugă date de antrenare [TEXT] [LABEL]"
+        },
+        "NUMBER_PROJECTS": {
+            "mlforkids.numbers.trainNewModel": "antrenează un nou model de învățare automată"
+        },
+        "SOUND_PROJECTS": {
+            "mlforkids.sounds.startListening": "începe să asculți",
+            "mlforkids.sounds.stopListening": "nu mai asculta"
+        },
+        "TWITTER": {
+            "mlforkids.twitter.getrecenttweet": "obține cel mai recent [INDEX] tweet despre [TOPIC]"
+        },
+        "FACE": {
+            "mlforkids.face.size": "dimensiunea [LANDMARK]",
+            "mlforkids.face.xlocation": "coordonata x a [LANDMARK]",
+            "mlforkids.face.ylocation": "coordonata y a [LANDMARK]"
+        },
+        "POSENET": {
+            "mlforkids.posenet.getposition": "găsește [POSITION] a [LANDMARK]"
+        },
+        "HANDPOSE": {
+            "mlforkids.handpose.getposition": "găsește [POSITION] a [LANDMARK]"
+        },
+        "IMAGE_BLOCKS": {
+            "mlforkids.imageblocks.getCostumeImage": "imagine costum",
+            "mlforkids.imageblocks.getBackdropCostumeImage": "imagine fundal",
+            "mlforkids.imageblocks.getBackdropImage": "imagine fundal",
+            "mlforkids.imageblocks.saveScreenshotToCostume": "salvează captură de ecran în costum"
+        },
+        "GUI": {
+            "gui.menuBar.mlforkidsLibrary": "Șabloane de proiecte",
+            "gui.mlforkidsLibrary.templates": "Șabloane de proiecte Machine Learning for Kids"
+        }
+    },
+    "HELP": {
+        "LOG": "DESCARCĂ JURNAL",
+        "CONTACT": "Dacă ai probleme sau întrebări, te rugăm să întrebi în <a target='_blank' href='https://groups.google.com/d/forum/mlforkids'>forumul ML for Kids</a>",
+        "GETTINGSTARTED": {
+            "TITLE": "Începeți?",
+            "INTRO": "Descarcă un PDF cu un scurt ghid de început:",
+            "MANAGED": "Conturi de clasă administrate",
+            "MANAGEDEXPL": "Pentru profesori, lideri de grupuri de codare sau alți voluntari",
+            "UNMANAGED": "Conturi de clasă neadministrate",
+            "UNMANAGEDEXPL": "Pentru angajați IBM sau profesori și lideri de grupuri de codare care își administrează propriile conturi de clasă"
+        },
+        "FAQS": {
+            "TITLE": "Vrei să afli mai multe?",
+            "INTRO1": "Ceva nu funcționează?",
+            "INTRO2": "Lista de mai jos conține întrebările și problemele pe care le aud cel mai des. Dacă vezi ceva care seamănă cu problema ta, fă clic pe rezumat pentru mai multe informații.",
+            "INTRO3": "Dacă încă ești blocat sau ai întâlnit o problemă pe care nu am inclus-o în listă, îmi pare rău! Te rugăm <a href='https://groups.google.com/d/forum/mlforkids'>să pui o întrebare în grupul Google mlforkids</a> pentru a putea ajuta."
+        },
+
+        "PROJECTS": {
+            "TITLE": "Întrebări despre proiecte",
+
+            "Q1": "Care este diferența dintre antrenarea modelelor de imagine „pe computerul tău” sau „în cloud”?",
+            "Q1-A-1": "Ambele pot fi folosite pentru a crea același tip de proiecte de învățare automată. Diferența este locul în care sunt create și stocate modelele.",
+            "Q1-A-2": "Dacă alegi „<strong>în cloud</strong>”, modelele de învățare automată sunt antrenate pe servere cloud folosind un serviciu online numit Watson Visual Recognition.",
+            "Q1-A-3": "Dacă alegi „<strong>pe computerul tău</strong>”, modelele de învățare automată sunt antrenate pe propriul computer al elevului, în browserul web.",
+            "Q1-A-4": "„<strong>în cloud</strong>” este bun deoarece:",
+            "Q1-A-5": "Poate fi folosit pentru proiecte în Scratch, App Inventor sau Python.",
+            "Q1-A-7": "Poate crea modele mai precise, în special atunci când se utilizează un număr mic de exemple de antrenare.",
+            "Q1-A-8": "Dar, durează câteva minute pentru a fi antrenat în timp ce aștepți rândul tău pe serverul cloud.",
+            "Q1-A-9": "„<strong>pe computerul tău</strong>” este bun deoarece:",
+            "Q1-A-10": "Poate fi mult mai rapid de antrenat, deoarece începe antrenarea imediat, fără a aștepta rândul pe serverul cloud.",
+            "Q1-A-12": "Modelele nu trebuie să fie șterse automat.",
+            "Q1-A-13": "Dar, poate fi folosit numai pentru proiecte Scratch și Python.",
+
+            "Q2": "Cum poți schimba un proiect „imagini” pentru a antrena în cloud sau pentru a antrena pe computerul tău?",
+            "Q2-A-1": "Poți comuta între cele două moduri din pagina „Învață și testează” pentru proiectul tău.",
+            "Q2-A-2": "Linkul pentru a face acest lucru se află în dreapta sus a paginii.",
+            "Q2-A-3": "Orice modele de învățare automată existente pentru proiect vor fi șterse dacă se face acest lucru.",
+            "Q2-A-4": "Blocurile Scratch pentru proiectele cu imagini funcționează diferit pentru cele două moduri diferite, așa că dacă ai o fereastră Scratch deschisă când faci acest lucru, va trebui să reîmprospătezi pagina pentru ca extensia Scratch să poată fi actualizată.",
+
+            "Q3": "De ce pot crea ceva doar cu Scratch sau Python pentru proiectul meu de învățare automată?",
+            "Q3-A-1": "Modelele de învățare automată care sunt antrenate pe propriul computer pot fi accesate numai din Scratch (care a fost actualizat pentru a putea accesa modelele de învățare automată stocate în browserul web) și Python (numai pentru proiecte cu imagini).",
+            "Q3-A-2": "Modelele de învățare automată care sunt antrenate în cloud pot fi accesate din Scratch, Python sau App Inventor - deoarece toate acestea pot accesa modelele de învățare automată stocate în cloud.",
+            "Q3-A-3": "Dacă vezi doar „Scratch 3” ca opțiune atunci când creezi ceva cu proiectul tău de învățare automată, înseamnă că modelul tău de învățare automată este stocat în browserul tău web.",
+
+            "Q4": "Care modele de învățare automată sunt antrenate pe computerul tău și care sunt antrenate în cloud?",
+            "Q4-A-1": "Proiectele <strong>text</strong> pot fi antrenate numai în cloud.",
+            "Q4-A-2": "Proiectele <strong>numere</strong> pot fi antrenate numai în cloud.",
+            "Q4-A-3": "Proiectele <strong>sunete</strong> pot fi antrenate numai pe computerul tău.",
+            "Q4-A-4": "Proiectele <strong>imagini</strong> pot fi antrenate pe computerul tău sau (dacă ai acces la Watson Visual Recognition) în cloud.",
+
+            "Q5": "Care elevi pot antrena proiecte de învățare automată cu imagini în cloud?",
+            "Q5-A-1": "Proiectele <strong>imagini</strong> pot fi antrenate pe computerul tău sau (dacă ai acces la Watson Visual Recognition) în cloud.",
+            "Q5-A-2": "Antrenarea modelelor de învățare automată pentru proiecte <strong>imagini</strong> folosește serviciul Watson Visual Recognition. IBM <a href='https://cloud.ibm.com/docs/visual-recognition?topic=visual-recognition-getting-started-tutorial'>a întrerupt serviciul Watson Visual Recognition</a> la 7 ianuarie 2021, ceea ce înseamnă că accesul la acesta este acum limitat. Serviciul Visual Recognition va fi retras complet la 1 decembrie 2021.",
+            "Q5-A-3": "Elevii din clasele administrate vor putea în continuare să aleagă dacă să antreneze modele de învățare automată pentru imagini pe computerul lor sau în cloud până la 1 decembrie 2021.",
+            "Q5-A-4": "Elevii din clasele neadministrate cu chei API Visual Recognition configurate înainte de 7 ianuarie 2021 vor putea în continuare să antreneze modele de învățare automată pentru imagini pe computerul lor sau în cloud, până la 1 decembrie 2021.",
+            "Q5-A-5": "Elevii din clasele neadministrate create după 7 ianuarie 2021 pot antrena modele de învățare automată pentru imagini numai pe computerul lor.",
+            "Q5-A-6": "Elevii care folosesc „Încearcă acum” pot antrena modele de învățare automată pentru imagini numai pe computerul lor."
+        },
+
+        "SCRATCH": {
+            "TITLE": "Probleme Scratch",
+
+            "Q1": "Nu știu cum să fac să funcționeze Scratch 2",
+            "Q1-A-1": "Versiunea veche de Scratch, Scratch 2, are nevoie de Adobe Flash pentru a funcționa, așa că trebuie să folosești un sistem de operare și un browser web care pot funcționa cu Flash.",
+            "Q1-A-2": "Dacă nu ești sigur cum să activezi Flash, poți <a href='https://github.com/IBM/taxinomitis-docs/raw/master/docs/pdf/machinelearningforkids-scratchx.pdf'>descărca un document cu câteva sfaturi pentru a face Scratch să funcționeze</a>. Sau poți folosi noua versiune de Scratch, Scratch 3.",
+
+            "Q2": "Meniurile „Încarcă proiectul” și „Salvează proiectul” din Scratch nu funcționează",
+            "Q2-A-1": "Dacă folosești Safari pe macOS și meniurile Scratch „Fișier -> Încarcă proiectul” și „Fișier -> Salvează proiectul” nu funcționează, s-ar putea să rulezi în Modul Sigur.",
+            "Q2-A-2": "<a href='https://github.com/IBM/taxinomitis-docs/raw/master/docs/pdf/safari-scratch-safemode.pdf'>Urmează instrucțiunile de aici</a> pentru a verifica și remedia acest lucru.",
+
+            "Q3": "Blocurile de clasificare a învățării automate în Scratch 2 au încetat să funcționeze",
+            "Q3-A-1": "Ocazional, blocurile Scratch pentru modelul tău de învățare automată pot pierde conexiunea la server. Când se întâmplă acest lucru, acestea vor înceta să mai returneze rezultate.",
+            "Q3-A-2": "Poți verifica dacă acest lucru s-a întâmplat folosind lumina de stare colorată din paleta „Mai multe blocuri”.",
+            "Q3-A-3": "Dacă lumina de stare de lângă blocurile tale Scratch de învățare automată este roșie, de obicei înseamnă că ceva nu este în regulă. Ar putea fi o problemă temporară. Încearcă să salvezi proiectul (folosind „Fișier” -> „Salvează proiectul”), apoi reîmprospătează pagina browserului. Dacă lumina de stare devine verde după reîncărcarea paginii, poți încărca proiectul (folosind „Fișier” -> „Încarcă proiectul”) pentru a continua de unde ai rămas.",
+            "Q3-A-4": "Dacă lumina de stare este încă roșie după reîncărcarea paginii, atunci probabil că există o problemă cu modelul de învățare automată. Încearcă să mergi la pagina „Învață și testează” pentru proiect, unde pot fi găsite mesajele de eroare despre modelul tău.",
+            "Q3-A-5": "Dacă lumina de stare de lângă blocurile tale Scratch de învățare automată este verde, atunci blocurile ar trebui să funcționeze. Dacă nu primești răspunsurile așteptate de la ele, încearcă să mergi la pagina „Învață și testează” și să verifici ce rezultate returnează modelul tău.",
+
+            "Q5": "Pot folosi orice versiune de Scratch?",
+            "Q5-A-1": "Trebuie să folosești versiunile de Scratch furnizate de site-ul Machine Learning for Kids. Acestea pot fi lansate făcând clic pe butoanele Scratch sau „Scratch 3” din pagina proiectului tău.",
+
+            "Q6": "Scratch 3 salvează proiectele numai în folderul „Descărcări”",
+            "Q6-A-1": "Când faci clic pe „Fișier” -> „Salvează pe computer” în Scratch 3, proiectul tău Scratch este salvat pe computer.",
+            "Q6-A-2": "Unii profesori au raportat o problemă că acest lucru salva în folderul Descărcări, pe un computer în care elevii nu au acces în Windows la folderul Descărcări. Rezultatul a fost că elevii nu au putut accesa proiectele salvate.",
+            "Q6-A-3": "Dacă aveți această problemă, trebuie să căutați în setările browserului dvs. web o setare precum „Întreabă unde să salveze fiecare fișier înainte de descărcare”. Dacă activați această opțiune, elevii dvs. vor putea alege unde sunt salvate proiectele."
+        },
+
+        "TRAININGUI": {
+            "TITLE": "Probleme cu interfața de antrenare",
+
+            "Q1": "Tragerea imaginilor în containerele de antrenare (pentru proiecte cu imagini) nu funcționează",
+            "Q1-A-1": "Tragerea imaginilor în containerele de antrenare nu funcționează dacă folosești Internet Explorer.",
+            "Q1-A-2": "Ne pare rău pentru asta. Dacă poți folosi un alt browser precum Firefox sau Chrome, te rugăm să faci acest lucru. În caz contrar, poți face clic pe butonul „www” și lipi URL-ul imaginilor de antrenare."
+        },
+
+        "MODELS": {
+            "TITLE": "Erori la antrenarea modelelor de învățare automată",
+
+            "Q1": "\"Nu au fost configurate acreditări Watson\"",
+            "Q1-A-1": "Modelele de învățare automată din instrument sunt create folosind API-uri IBM Watson.",
+            "Q1-A-2": "Dacă aveți un cont de clasă „neadministrat”, atunci profesorul sau liderul grupului dvs. va trebui să furnizeze acreditări API Watson din IBM Cloud pentru ca acest lucru să funcționeze. Instrucțiunile pas cu pas despre cum pot face acest lucru se află în documentul „Începeți” din partea de sus a acestei pagini.",
+
+            "Q2": "\"Acreditările Watson utilizate de clasa dvs. au fost respinse\"",
+            "Q2-A-1": "Modelele de învățare automată din instrument sunt create folosind API-uri IBM Watson.",
+            "Q2-A-2": "Dacă aveți un cont de clasă „neadministrat”, atunci profesorul sau liderul grupului dvs. va fi furnizat acreditări API Watson din IBM Cloud pentru ca acest lucru să funcționeze (așa cum este descris în documentul „Începeți” din partea de sus a acestei pagini).",
+            "Q2-A-3": "Cu toate acestea, acreditările furnizate nu funcționează în prezent. Cel mai probabil motiv este că acreditările au fost șterse din IBM Cloud de la furnizarea lor inițială. Dacă nu este cazul, profesorul sau liderul de grup care a furnizat acreditările Watson trebuie să revină la tabloul de bord IBM Cloud pentru a verifica starea serviciului Watson Assistant sau Visual Recognition pe care l-au creat.",
+
+            "Q3": "\"Cheile API Watson Assistant nu mai au abilități disponibile\"",
+            "Q3-A-1": "Modelele de învățare automată din instrument sunt create folosind API-uri IBM Watson.",
+            "Q3-A-2": "Acreditările Watson Assistant create de profesori au o limită privind numărul de modele de învățare automată pe care pot fi utilizate pentru a le crea. Aceasta este afișată în interfața IBM Cloud în care au fost create acreditările, unde sunt numite „abilități”.",
+            "Q3-A-3": "Dacă această limită este depășită, încercările de a antrena noi modele de învățare automată vor eșua și acest mesaj va fi afișat:",
+            "Q3-A-4": "Clasa dvs. a creat deja numărul maxim permis de modele. Te rugăm să anunți profesorul sau liderul de grup că „cheile API Watson Assistant nu mai au abilități disponibile”.",
+            "Q3-A-5": "Dacă un elev care are un model antrenat cu succes își șterge apoi modelul, acest lucru va elibera un spațiu de lucru pentru a fi utilizat de un alt elev.",
+            "Q3-A-6": "O modalitate de a evita această eroare în viitor ar fi clasele mai mici. Dacă există mai puțini elevi decât numărul de abilități acceptate de acreditările Watson Assistant, atunci limitele nu vor fi atinse.",
+            "Q3-A-7": "O altă modalitate de a evita această eroare este de a adăuga chei API Watson Assistant suplimentare la clasă sau de a utiliza o instanță Watson Assistant „plan” care are limite mai mari.",
+
+            "Q4": "\"Cheile API Watson Visual Recognition nu mai au clasificatori disponibili\"",
+            "Q4-A-1": "Modelele de învățare automată din instrument sunt create folosind API-uri IBM Watson.",
+            "Q4-A-2": "Acreditările Watson Visual Recognition create de profesori au o limită privind numărul de modele de învățare automată pe care pot fi utilizate pentru a le crea. Aceasta este afișată în interfața IBM Cloud în care au fost create acreditările, unde sunt numite „clasificatori personalizați”.",
+            "Q4-A-3": "Dacă această limită este depășită, încercările de a antrena noi modele de învățare automată vor eșua și acest mesaj va fi afișat:",
+            "Q4-A-4": "Clasa dvs. a creat deja numărul maxim permis de modele. Te rugăm să anunți profesorul sau liderul de grup că „cheile API Watson Visual Recognition nu mai au clasificatori disponibili”.",
+            "Q4-A-5": "Dacă un elev care are un model antrenat cu succes își șterge apoi modelul, acest lucru va elibera un clasificator personalizat pentru a fi utilizat de un alt elev.",
+            "Q4-A-6": "O modalitate de a evita această eroare în viitor ar fi clasele mai mici. Dacă există mai puțini elevi decât numărul de clasificatori personalizați acceptați de acreditările Watson Visual Recognition, atunci limitele nu vor fi atinse.",
+            "Q4-A-7": "O altă modalitate de a evita această eroare este de a adăuga chei API Watson Visual Recognition suplimentare la clasă sau de a utiliza o instanță Watson Visual Recognition „plan” care are limite mai mari.",
+
+            "Q5": "\"Watson ... limitează în prezent rata de utilizare a cheii API\"",
+            "Q5-A-1": "Modelele de învățare automată din instrument sunt create folosind API-uri IBM Watson.",
+            "Q5-A-2": "Dacă aveți un cont de clasă „neadministrat”, atunci profesorul sau liderul grupului dvs. va trebui să furnizeze acreditări API Watson din IBM Cloud pentru ca acest lucru să funcționeze.",
+            "Q5-A-3": "Dacă sunt create conturi gratuite, acestea vor aplica o limită a ratei de solicitări pentru noi modele de învățare automată. În utilizarea normală, acest lucru nu va afecta clasa. Cu toate acestea, dacă elevii primesc o eroare „nu mai sunt abilități disponibile” sau „nu mai sunt clasificatori disponibili” (așa cum este descris mai sus), dar apoi continuă să facă clic pe butonul „Antrenează un nou model de învățare automată” de mai multe ori pe secundă, timp de câteva minute, atunci se va aplica limitarea ratei.",
+            "Q5-A-4": "Un mesaj ca acesta va fi afișat elevilor în acest caz:",
+            "Q5-A-5": "Clasa dvs. face prea multe solicitări pentru a crea modele de învățare automată la o rată prea mare. Vă rugăm să vă opriți acum și să anunțați profesorul sau liderul de grup că „serviciul Watson Assistant limitează în prezent rata de utilizare a cheii API”",
+            "Q5-A-6": "Limitarea ratei nu este aplicată de site-ul Machine Learning for Kids și nici nu este sub controlul acestuia. De obicei, este temporară și se rezolvă cel mai bine așteptând o perioadă scurtă.",
+            "Q5-A-7": "Dacă elevii fac clic pe butonul „Antrenează un nou model de învățare automată” și primesc erori „nu mai sunt abilități disponibile” sau „nu mai sunt clasificatori disponibili” (așa cum este descris mai sus), atunci ar trebui să știe că apăsarea repetată a butonului nu va rezolva problema și, de fapt, va înrăutăți situația pentru restul clasei.",
+
+            "Q6": "Aștept de o veșnicie ca un model să se antreneze!",
+            "Q6-A-1": "Încearcă să reîmprospătezi pagina.",
+            "Q6-A-2": "Pagina ar trebui să verifice starea modelului de învățare automată la fiecare 30 de secunde, dar foarte rar încetează să mai verifice, așa că s-ar putea să aștepți modelul când acesta este de fapt gata pentru tine.",
+            "Q6-A-3": "Dacă au trecut mai mult de câteva minute, merită să verifici reîmprospătând / reîncărcând pagina.",
+            "Q6-A-4": "Dacă au trecut mai mult de zece minute, ar putea fi de luat în considerare repornirea (faceți clic pe butonul Anulare și apoi faceți clic din nou pe butonul pentru a antrena un nou model de învățare automată).",
+
+            "Q7": "\"Clasa dvs. împarte chei API Watson ... în prezent nu sunt disponibile\"",
+            "Q7-A-1": "Modelele de învățare automată din instrument sunt create folosind API-uri IBM Watson.",
+            "Q7-A-2": "Dacă aveți un cont de clasă „administrat”, aceasta înseamnă că clasa dvs. împarte aceste chei cu multe alte școli. ",
+            "Q7-A-3": "Există, în mod normal, suficiente pentru toate școlile, dar dacă este foarte aglomerat și toate cheile API disponibile sunt în uz în prezent, încercările de a antrena noi modele de învățare automată vor eșua și acest mesaj va fi afișat:",
+            "Q7-A-4": "Clasa dvs. împarte „chei API” Watson Assistant / Visual Recognition cu multe alte școli și, din păcate, în prezent nu sunt disponibile. Te rugăm să anunți profesorul sau liderul de grup că va trebui să îți antrenezi modelul de învățare automată mai târziu",
+            "Q7-A-5": "Dacă un elev care are un model antrenat cu succes își șterge apoi modelul, acest lucru va elibera un spațiu de lucru pentru a fi utilizat de un alt elev.",
+            "Q7-A-6": "Cel mai bine este să încerci din nou mai târziu, după ce alți elevi și-au șters modelele de învățare automată și cheile API sunt din nou disponibile. Datele tale de antrenare vor fi în siguranță până atunci.",
+            "Q7-A-7": "O altă modalitate de a evita această eroare este ca clasa ta să creeze un cont de clasă „neadministrat”, ceea ce înseamnă că un profesor își creează propriile „chei API” Watson care pot fi dedicate numai pentru utilizarea de către propria clasă."
+        },
+
+        "TEACHERUI": {
+            "TITLE": "Probleme cu interfața profesor / administrator",
+
+            "Q2": "Contul elevului lipsește din lista din pagina profesorului",
+            "Q2-A-1": "Gestionarea utilizatorilor pentru Machine Learning for Kids este implementată folosind serviciul terță parte, <a href=\"https://auth0.com/\">Auth0</a>.",
+            "Q2-A-2": "Ocazional, lista de elevi pe care Auth0 o returnează poate deveni puțin învechită și poate să nu reflecte elevii care au fost creați recent (sau, în mod similar, să arate în continuare elevii care au fost șterși recent).",
+            "Q2-A-3": "În aceste cazuri, elevii au fost de obicei creați (sau șterși) cu succes și este doar faptul că lista de elevi afișată nu reflectă actualizările recente.",
+            "Q2-A-4": "Auth0 va raporta de obicei astfel de incidente pe pagina lor de stare ca <a href='https://status.auth0.com/incidents/0sk1d3hjlw0m'>întârzieri la indexarea utilizatorilor</a> sau <a href='https://status.auth0.com/incidents/t8995b9jggx5'>probleme cu API-ul lor de căutare</a>.",
+            "Q2-A-5": "Cel mai bun lucru de făcut în aceste cazuri este să așteptați ca indexarea Auth0 să se actualizeze.",
+
+            "Q4": "De ce sunt șterse automat modelele de învățare automată?",
+            "Q4-A-1": "Aceasta a fost o caracteristică solicitată de școli atunci când Machine Learning for Kids a fost dezvoltat pentru prima dată. A provenit din faptul că există o limită pentru câte modele de învățare automată poate avea o clasă la un moment dat și necesitatea de a face ușoară gestionarea acestei limite.",
+            "Q4-A-2": "Mai degrabă decât să ceară copiilor să curețe după o lecție și să își șteargă modelele (pentru a permite următoarei clase să poată crea modele), instrumentul poate curăța automat prin ștergerea modelelor după ce lecția s-a încheiat. Acest lucru face ușoară desfășurarea următoarei lecții și a celei de după aceasta, fără curățări manuale între ele.",
+            "Q4-A-3": "Limita de timp înainte ca modelele să fie șterse este configurabilă. Într-o școală, unde lecțiile durează 1 sau 2 ore, ștergerea modelelor după două ore ar putea fi sensibilă. Pentru un club de codare săptămânal, șase zile ar putea fi o alegere mai bună pentru a vă asigura că modelele sunt eliminate înainte de fiecare nouă sesiune a clubului.",
+            "Q4-A-4": "Pentru a specifica limita de timp pentru clasa dvs., vizitați <a href='https://machinelearningforkids.co.uk/#!/teacher/restrictions'>secțiunea Restricții din pagina dvs. de Profesor</a>.",
+            "Q4-A-6": "<em>Notă: Numai modelele de învățare automată sunt șterse automat, nu datele de antrenare care au fost folosite pentru a le crea. Așadar, dacă un model este șters automat pentru un proiect la care un elev lucrează în continuare, poate oricând să facă clic din nou pe butonul „Antrenează” pentru a crea din nou modelul.</em>"
+        },
+
+        "ACCOUNTISSUES": {
+            "TITLE": "Probleme de cont",
+
+            "Q1": "Care este diferența dintre crearea de conturi sau utilizarea „Încearcă acum”?",
+            "Q1-A-1": "Utilizarea „Încearcă acum” înseamnă că nu este nevoie să vă conectați sau să creați un cont. Nu există parole pe care elevii să trebuiască să le rețină și nici o nevoie ca profesorii să furnizeze informații personale. De asemenea, economisește timpul profesorilor necesar pentru a gestiona conturile elevilor.",
+            "Q1-A-2": "Cu toate acestea, crearea unui cont permite funcții suplimentare. Elevii își pot salva munca și se pot întoarce la ea într-o lecție ulterioară. Pot lucra la un proiect împreună cu alți elevi din clasa lor. Se pot conecta de acasă și pot arăta familiei ceea ce au făcut.",
+            "Q1-A-3": "Un rezumat al diferențelor este prezentat mai jos:",
+
+            "CREATE_ACCOUNT": "Creează un cont",
+            "TRAINMODELS": "Antrenează modele de învățare automată pentru a recunoaște...",
+            "PRETRAINED_MODELS": "Folosește modele de învățare automată pre-instruite",
+            "TENSORFLOW_MODELS": "Folosește modele TensorFlow găzduite",
+            "SCRATCH_ONLY": "(folosește numai din Scratch)",
+            "USE": "Folosește modele de învățare automată din...",
+            "CREATE_PROJECTS": "Creează proiecte",
+            "ONE_PROJECT": " 1 proiect ",
+            "MULTIPLE_PROJECTS": " Mai multe proiecte ",
+            "SAVE_PROJECTS": "Salvează și încarcă proiecte",
+            "WORK_ON_PROJECTS": "Lucrează la proiecte de învățare automată...",
+            "FEW_HOURS": " pentru câteva ore ",
+            "UNTIL_DELETION": " până când le ștergi ",
+            "ONE_COMPUTER": " de pe un singur computer ",
+            "ONLINE": " de oriunde online ",
+            "BY_YOURSELF": " singur ",
+            "WITH_CLASSMATES": "cu colegii de clasă",
+
+            "Q2": "Am creat un cont de clasă, dar autentificarea profesorului meu nu funcționează",
+            "Q2-A-1": "Trebuie să îți verifici adresa de e-mail înainte de a te putea autentifica.",
+            "Q2-A-2": "Când ai creat contul de clasă, va fi trimis un e-mail la adresa de e-mail pe care ai furnizat-o, cu un link pe care să faci clic. Dacă faci clic pe acel link, adresa ta de e-mail va fi verificată și contul de clasă va fi activat. Ar trebui să te poți autentifica acum.",
+            "Q2-A-3": "Dacă nu ai văzut încă e-mailul de verificare, asigură-te că nu a ajuns în folderul spam.",
+            "Q2-A-4": "Dacă încă nu îl găsești, <a href='https://groups.google.com/d/forum/mlforkids'>anunță-mă</a> și voi încerca să ajut.",
+
+            "Q3": "Ștergerea conturilor",
+            "Q3-A-1": "Conturi de elevi",
+            "Q3-A-2": "Elevii nu își pot șterge propriile conturi.",
+            "Q3-A-3": "Un profesor poate șterge un cont de elev oricând vizitând pagina „Profesor” și făcând clic pe butonul „Șterge contul elevului” de lângă contul de elev pe care dorești să îl ștergi.",
+            "Q3-A-4": "Aceasta va șterge toate informațiile stocate despre acel elev și toate proiectele și modelele sale de învățare automată.",
+            "Q3-A-5": "Nu poate fi anulat.",
+            "Q3-A-6": "Conturi de profesori",
+            "Q3-A-7": "Ștergerea unui cont de profesor va șterge întreaga clasă și toate conturile de elevi din ea. Nu poate fi anulat.",
+            "Q3-A-8": "Acest lucru se poate face făcând clic pe butonul „Șterge clasa” în secțiunea Opțiuni avansate de pe <a href='https://machinelearningforkids.co.uk/teacher'>pagina ta de Profesor</a>",
+
+            "Q4": "Ce informații sunt stocate despre utilizatori?",
+            "Q4-A-1": "Conturi de profesori",
+            "Q4-A-2": "Stochez numele de utilizator și adresa de e-mail pe care le furnizați atunci când creați contul, pentru a putea ține legătura cu dumneavoastră.",
+            "Q4-A-3": "Conturi de elevi",
+            "Q4-A-4": "Stochez numele de utilizator pentru conturile de elevi, pentru a-i putea lăsa să se conecteze. Nu am adrese de e-mail sau detalii de contact pentru elevi. Nu am alte informații de identificare personală despre elevi.",
+            "Q4-A-5": "De asemenea, <a href='https://github.com/IBM/taxinomitis-docs/raw/master/docs/pdf/machinelearningforkids-schools.pdf'>recomand ca elevilor să li se ofere nume de utilizator generice</a> (de exemplu, elev1), astfel încât elevii să nu poată fi identificați în afara școlii sau a grupului de codare.",
+            "Q4-A-6": "Informații generale stocate despre toate conturile",
+            "Q4-A-7": "Gestionarea utilizatorilor pentru Machine Learning for Kids este implementată folosind serviciul terță parte, <a href='https://auth0.com/'>Auth0</a>. Aceștia stochează adresa IP de la care v-ați conectat ultima dată la Machine Learning for Kids și tipul de browser pe care l-ați folosit. Nu am găsit niciodată un motiv să folosesc asta, dar este stocată dacă aș dori să merg să o caut.",
+            "Q4-A-8": "Erorile care apar în browserul web sunt capturate folosind serviciul terță parte, <a href='https://sentry.io/'>Sentry</a>. Dacă ceva nu funcționează corect, acesta va captura informații despre eroare, inclusiv numele dvs. de utilizator, adresa IP, tipul de browser pe care îl utilizați și o descriere tehnică a ceea ce a mers prost.",
+            "Q4-A-9": "Folosesc <a href='https://www.google.com/analytics/'>Google Analytics</a> pentru a ști câți utilizatori vizitează Machine Learning for Kids în fiecare zi. Deși captează informații precum locația geografică și tipul de browser, acestea îmi sunt afișate doar într-un mod agregat anonimizat.",
+
+            "Q5": "Ce se întâmplă cu datele de antrenare create de elevi?",
+            "Q5-A-1": "Un pas în toate proiectele de învățare automată pe care elevii le fac folosind acest site este să creeze sau să colecteze exemple de antrenament. Pentru proiectele text, aceasta poate însemna tastarea unor pasaje scurte de text. Pentru proiectele cu imagini, aceasta poate însemna desenarea de imagini pe o pânză pe ecran sau realizarea de fotografii folosind camera web. Pentru proiectele cu numere, aceasta înseamnă tastarea unor seturi de numere.",
+            "Q5-A-2": "Toate aceste exemple de antrenament sunt stocate într-o <a href='https://www.ibm.com/cloud/databases-for-postgresql'>bază de date PostgreSQL găzduită pe IBM Cloud</a>, în Dallas, Statele Unite. În calitate de administrator al bazei de date, am acces la toate aceste exemple de antrenament pentru toate proiectele elevilor, cu toate acestea nu le folosesc în niciun alt scop decât de a permite elevilor să acceseze și să lucreze la propriile proiecte. Nu public datele de antrenament (nici public, nici către persoane sau terți) și nici nu le împărtășesc altfel, cu cele două excepții ale trimiterii lor către API-urile IBM Watson descrise mai jos.",
+            "Q5-A-3": "Modelele de învățare automată pentru proiectele text sunt create folosind serviciul cloud <a href='https://www.ibm.com/cloud/watson-assistant/'>IBM Watson Assistant</a>, ceea ce înseamnă că atunci când elevii antrenează un model, o copie a exemplelor de antrenament pe care le-au introdus va fi <a href='https://cloud.ibm.com/apidocs/assistant#create-workspace'>trimisă către IBM Watson</a>. (Locația acestui serviciu cloud este ceva pe care profesorii îl aleg atunci când <a href='https://machinelearningforkids.co.uk/apikeys-guide'>creează chei API</a>.) IBM Watson nu folosește aceste exemple de antrenament în niciun alt scop. Acest lucru se datorează faptului că Machine Learning for Kids <a href='https://cloud.ibm.com/apidocs/assistant#data-collection'>solicită o renunțare</a> la utilizarea exemplelor de antrenament ale elevilor de către IBM pentru a îmbunătăți serviciul, așa cum este <a href='https://cloud.ibm.com/docs/services/watson?topic=watson-gs-logging-overview'>descris în documentația Watson</a>.",
+            "Q5-A-4": "Modelele de învățare automată pentru proiectele cu imagini sunt create folosind serviciul cloud <a href='https://www.ibm.com/watson/services/visual-recognition/'>IBM Visual Recognition</a>, ceea ce înseamnă că atunci când elevii antrenează un model, o copie a imaginilor lor de antrenament va fi <a href='https://cloud.ibm.com/apidocs/visual-recognition#create-a-classifier'>încărcată către IBM Watson</a>. (Locația acestui serviciu cloud este ceva pe care profesorii îl aleg atunci când <a href='https://machinelearningforkids.co.uk/apikeys-guide'>creează chei API</a>.) IBM Watson nu folosește aceste exemple de antrenament în niciun alt scop. Acest lucru se datorează faptului că Machine Learning for Kids <a href='https://cloud.ibm.com/apidocs/visual-recognition#data-collection'>solicită o renunțare</a> la utilizarea exemplelor de antrenament ale elevilor de către IBM pentru a îmbunătăți serviciul, așa cum este <a href='https://cloud.ibm.com/docs/services/watson?topic=watson-gs-logging-overview'>descris în documentația Watson</a>.",
+            "Q5-A-5": "IBM Watson oferă câteva <a href='https://cloud.ibm.com/docs/services/assistant?topic=assistant-information-security#information-security-gdpr-wa'>îndrumări generale pentru partajarea datelor de antrenament cu serviciile lor</a>, care se aplică și datelor de antrenament create și colectate în Machine Learning for Kids. În mod specific, elevilor ar trebui să li se recomande să nu includă informații de identificare personală în exemplele pe care le colectează."
+        }
+    },
+    "APIKEYSGUIDE": {
+        "TITLE": "Ghid pentru IBM Cloud",
+        "INTRO": {
+            "INTRO_1": "Profesorii / părinții / liderii de cluburi de codare cu conturi de clasă neadministrate trebuie să furnizeze „<strong>Chei API</strong>” de la IBM Cloud. Acestea sunt coduri secrete care oferă acces la tehnologia de inteligență artificială care va alimenta proiectele elevilor.",
+            "INTRO_2": "Proiectele text au nevoie de o cheie API „Watson Assistant”. (Proiectele cu imagini, numere și sunete nu necesită chei API).",
+            "INTRO_3": "Va trebui să creezi un cont pe IBM Cloud pentru a putea crea aceste coduri. Este gratuit să creezi un cont și nu există taxe pentru cheile API „Lite”."
+        },
+        "LINK": "Cum să creezi chei API",
+        "EXPLANATION": "Descarcă un ghid pas cu pas despre cum să creezi chei API pe IBM Cloud"
+    },
+    "PRETRAINED": {
+        "TITLE": "Modele Pre-instruite",
+        "INTRO": {
+            "INTRO_1": "<strong>Machine Learning for Kids</strong> oferă modele pre-instruite pe care le puteți utiliza în proiectele dvs. Proiectele de învățare automată din lumea reală folosesc adesea modele deja instruite de alte persoane. Există o mulțime de modele bine instruite, care sunt disponibile gratuit, iar acestea sunt utile atunci când nu aveți timp să colectați cantitatea de date de instruire necesare pentru a vă antrena propriile."
+        },
+        "HOWTO": {
+            "TITLE": "Cum se folosește",
+            "INTRO": "Faceți clic pe buton pentru a merge la Scratch.",
+            "HOW_1": "Accesați versiunea de <a href='https://machinelearningforkids.co.uk/scratch3'>Scratch 3</a> disponibila de la Machine Learning for Kids.",
+            "HOW_2": "Modelele pre-instruite sunt disponibile din panoul Extensii. Faceți clic pe butonul albastru de extensii din partea stângă jos a ferestrei Scratch pentru a le găsi, apoi faceți clic pe cel pe care doriți să îl adăugați la proiect.",
+            "HOW_3": "Blocurile pentru modelul pre-antrenat vor fi adăugate în caseta de instrumente Scratch."
+        },
+        "SPEECHTOTEXT": {
+            "TITLE": "Vorbire în text",
+            "SPEECH_1": "Acest model poate fi folosit pentru a recunoaște vorbirea înregistrată prin microfonul dvs.",
+            "SPEECH_2": "Vă oferă un bloc pe care îl puteți utiliza pentru a înregistra un sunet și apoi vă oferă textul pe care l-a recunoscut și un bloc pe care îl puteți spune să asculte pentru un anumit cuvânt sau frază.",
+            "SPEECH_3": "Folosește capacitatea de recunoaștere a vorbirii care vine împreună cu Google Chrome, astfel încât modelul ML pe care îl veți folosi provine de la Google. (Înseamnă, de asemenea, că puteți utiliza acest model numai dacă utilizați browserul web Google Chrome, sorry!)"
+        },
+        "FACEAPI": {
+            "TITLE": "Detectare facială",
+            "FACE_1": "Acest model poate fi folosit pentru a vă recunoaște fața în fluxul video de pe camera web.",
+            "FACE_2": "Vă oferă blocuri care vă vor găsi coordonatele x, y ale ochilor, nasului și gurii.",
+            "FACE_3": "Aceasta folosește o tehnică de sus în jos - începe prin a căuta ceva care să arate ca o față din imagine. Odată ce a descoperit acest lucru, încearcă să identifice trăsăturile faciale din acea zonă. Modelul de învățare automată se bazează pe MobileNet (un model ML conceput pentru dispozitive mobile, deci nu are nevoie de multă putere de calcul).",
+            "FACE_4": "Datele de instruire utilizate pentru acest model au provenit dintr-un set cunoscut sub numele de <a href='http://shuoyang1213.me/WIDERFACE/' target='_blank'>WIDER FACE (FATA MAI LATA)</a>."
+        },
+        "POSENET": {
+            "TITLE": "Detectarea pozitiilor",
+            "POSE_1": "Acest model poate fi folosit pentru a vă recunoaște poza în fluxul video de pe camera web.",
+            "POSE_2": "Vă oferă blocuri care vor găsi coordonatele x, y ale diferitelor părți ale corpului, cum ar fi umerii, coatele, încheieturile mâinilor, genunchii și gleznele.",
+            "POSE_3": "Aceasta folosește o tehnică de jos în sus - căutarea punctelor cheie ale corpului uman (cum ar fi umerii, coatele, genunchii etc.) și apoi gruparea acestora pentru a identifica o persoană și poza în care se află.",
+            "POSE_4": "Datele de instruire utilizate pentru acest model au provenit dintr-un set cunoscut sub numele de <a href='http://cocodataset.org/index.htm#keypoints-2019' target='_blank'>Common Objects in Context (COCO)</a>-Obiecte comune în context.",
+            "POSE_5": "Pentru mai multe informații, inclusiv o descriere a unora dintre provocările și problemele potențiale ale modelului, consultați <a href='https://drive.google.com/file/d/1VFC_wIpw4O7xBOiTgUldl79d9LA-LsnA/view'>model card</a>."
+        },
+        "HANDPOSE": {
+            "TITLE": "Detectarea mâinilor",
+            "POSE_1": "Acest model poate fi folosit pentru a vă recunoaște mâna în fluxul video de pe camera dvs. web.",
+            "POSE_2": "Vă oferă blocuri care vor găsi coordonatele x, y ale diferitelor părți ale mâinii: vârfurile fiecăruia dintre degete și încheietura mâinii.",
+            "POSE_3": "Poate returna informații despre o singură mână în vizualizare.",
+            "POSE_4": "Pentru mai multe informații, inclusiv o descriere a unora dintre provocările și problemele potențiale ale modelului, consultați <a href='https://drive.google.com/file/d/1sv4sSb9BSNVZhLzxXJ0jBv9DqD-4jnAz/view'>model card</a>."
+        },
+        "TOXICITY": {
+            "TITLE": "Toxicitate",
+            "TOXICITY_1": "Acest model poate fi utilizat pentru a recunoaște dacă textul conține conținut toxic.",
+            "TOXICITY_2": "Vă oferă blocuri care vor prezice procentajul de probabilitate ca unele texte furnizate să conțină conținut toxic, cum ar fi un limbaj amenințător, insulte, obscenități sau ură bazată pe identitate.",
+            "TOXICITY_3": "Datele de instruire utilizate pentru <a href='https://medium.com/tensorflow/text-classification-using-tensorflow-js-an-example-of-detecting-offensive-language-in-browser-e2b94e3565ce'> acest model provin de la </a> came from <a href='https://figshare.com/articles/data_json/7376747' target='_blank'>două milioane de comentarii generate de utilizatori postate pe articole de știri</a>."
+        },
+        "IMAGENET": {
+            "TITLE": "Imagenet",
+            "IMAGENET_1": "Acest model poate fi folosit pentru a recunoaște obiectele dintr-un costum.",
+            "IMAGENET_2": "Vă oferă blocuri care vor prezice obiectul principal afișat într-un sprite.",
+            "IMAGENET_3": "A fost instruit pentru a recunoaște fotografiile cu <a href='https://storage.googleapis.com/download.tensorflow.org/data/ImageNetLabels.txt'>o mie de obiecte comune</a>. Modelul de învățare automată se bazează pe MobileNet (un model ML conceput pentru dispozitive mobile, deci nu are nevoie de multă putere de calcul).",
+            "IMAGENET_4": "A fost instruit pentru a recunoaște fotografiile și nu va recunoaște foarte bine desenele sau creionarile."
+        },
+        "IDEAS": {
+            "IDEAS_1": "Există alte modele de învățare automată pe care ați dori să le puteți folosi în proiectele dvs. Scratch?",
+            "IDEAS_2": "Anunță-mă întrebând în <a href='https://groups.google.com/d/forum/mlforkids'>ML for Kids forum</a>."
+        },
+        "TENSORFLOW": {
+            "TITLE": "TensorFlow",
+            "BUTTON": "Deschide un model TensorFlow",
+            "TF_1": "<a href='https://www.tensorflow.org/'>TensorFlow</a> este un set de instrumente pentru instruirea și rularea modelelor de învățare automată.",
+            "TF_2": "Dacă știți cum să creați propriul model de învățare automată cu TensorFlow, faceți clic pe butonul de mai sus pentru al utiliza în Scratch.",
+            "TF_3": "Poti <a href='https://www.tensorflow.org/overview/'>construiește-ți propriul model </a>, folosind limbaje de programare precum Python.",
+            "TF_4": "Sau puteți utiliza instrumente precum <a href='https://teachablemachine.withgoogle.com/'> Teachable Machine </a> pentru a instrui cu ușurință un model TensorFlow și apoi faceți ceva cu el în Scratch aici.",
+            "TF_5": "(Numai clasificatoarele de imagine sunt acceptate astăzi, dar asistența pentru mai multe tipuri de model de învățare automată este în curând!)"
+        }
+    },
+    "BOOK": {
+        "TITLE": "Carte",
+        "NOTES_1": "<strong>Machine Learning for Kids : A Project-Based Introduction to Artificial Intelligence</strong> (Învățare automată pentru copii: O introducere bazată pe proiecte în inteligența artificială) este o carte nouă care însoțește site-ul.",
+        "NOTES_2": "Cartea este o introducere practică și practică ghidată a modului în care inteligența artificială ne afectează viața. Include instrucțiuni pas cu pas pentru realizarea unei varietăți de proiecte bazate pe învățarea automată în Scratch și explică modul în care acestea se raportează fiecare la aplicațiile AI reale. ",
+        "NOTES_3": "Mai multe proiecte se adâncesc în aspecte particulare ale modului în care se aplică învățarea automată, inclusiv recreând unele dintre cele mai frecvente greșeli făcute în AI și învățând despre diferitele moduri în care performanța sistemelor de învățare automată poate fi măsurată și descrisă.",
+        "NOTES_4": "În cele din urmă, cartea se încheie recreând exemple de sisteme de învățare automată părtinitoare și discută problemele de etică ale IA pe care le ridică.",
+        "UPDATES": {
+            "TITLE": "Actualizări și corecții",
+            "NOTES": "Orice actualizări sau corecții vor fi postate aici. Pentru mai mult ajutor, vă rugăm să consultați pagina <a ui-sref='help'>Help</a> ."
+        }
+    }
+}
